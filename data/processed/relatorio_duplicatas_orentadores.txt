@@ -1,0 +1,1359 @@
+======================================================
+RELATÓRIO DE AUDITORIA DE ORIENTADORES (DUPLICIDADES)
+======================================================
+Total de registros analisados: 3979
+Grupos de conflito encontrados: 320
+
+GRUPO #1
+ [ORIGEM] Nome: Almeida, Inês Maria Marques Zanforlin Pires de | Freq: 44
+   |-> Nome: Almeida, Maria Marques Zanforlin Pires de | Freq: 1  -- Grafia similar (94%)
+------------------------------------------------------------
+GRUPO #2
+ [ORIGEM] Nome: Alves, Janaína Soares                    | Freq: 2
+   |-> Nome: Alves, Janaína Soares de Oliveira        | Freq: 3  -- Possível abreviação/incompleto
+------------------------------------------------------------
+GRUPO #3
+ [ORIGEM] Nome: Araújo Sobrinho, Fernando Luiz           | Freq: 40
+   |-> Nome: Araújo Sobrinho, Fernando Luíz           | Freq: 3  -- Grafia similar (97%)
+------------------------------------------------------------
+GRUPO #4
+ [ORIGEM] Nome: Araújo, Ricardo                          | Freq: 11
+   |-> Nome: Araújo, Ricardo Silva Azevedo            | Freq: 10  -- Possível abreviação/incompleto
+------------------------------------------------------------
+GRUPO #5
+ [ORIGEM] Nome: Assis, André Pacheco de                  | Freq: 55
+   |-> Nome: Assis, André Pacho de                    | Freq: 1  -- Grafia similar (95%)
+------------------------------------------------------------
+GRUPO #6
+ [ORIGEM] Nome: Athayde, Pedro Fernando Avalone          | Freq: 7
+   |-> Nome: Athayde, Pedro Fernando Avalone de       | Freq: 5  -- Grafia similar (95%)
+------------------------------------------------------------
+GRUPO #7
+ [ORIGEM] Nome: Avila, Suzana Moreira                    | Freq: 13
+   |-> Nome: Àvila, Suzana Moreira                    | Freq: 1  -- Grafia similar (95%)
+------------------------------------------------------------
+GRUPO #8
+ [ORIGEM] Nome: Bandeira, Lourdes                        | Freq: 1
+   |-> Nome: Bandeira, Lourdes Maria                  | Freq: 32  -- Possível abreviação/incompleto
+------------------------------------------------------------
+GRUPO #9
+ [ORIGEM] Nome: Barreto Filho, Henyo Trindade            | Freq: 3
+   |-> Nome: Barretto Filho, Henyo Trindade           | Freq: 20  -- Grafia similar (98%)
+------------------------------------------------------------
+GRUPO #10
+ [ORIGEM] Nome: Barreto, Livia Cristina Lira de Sá       | Freq: 8
+   |-> Nome: Sá Barreto, Livia Cristina Lira de       | Freq: 1  -- Grafia similar (91%)
+------------------------------------------------------------
+GRUPO #11
+ [ORIGEM] Nome: Barros, Ana Flávia                       | Freq: 2
+   |-> Nome: Barros, Ana Flávia Granja e              | Freq: 6  -- Possível abreviação/incompleto
+------------------------------------------------------------
+GRUPO #12
+ [ORIGEM] Nome: Barroso, Eloisa Pereira                  | Freq: 27
+   |-> Nome: Barroso, Eloísa Pereira                  | Freq: 1  -- Grafia similar (96%)
+------------------------------------------------------------
+GRUPO #13
+ [ORIGEM] Nome: Becard, Danielly Silva Ramos             | Freq: 5
+   |-> Nome: Bécard, Danielly Silva Ramos             | Freq: 5  -- Grafia similar (96%)
+------------------------------------------------------------
+GRUPO #14
+ [ORIGEM] Nome: Bensusan, Hilan                          | Freq: 14
+   |-> Nome: Bensusan, Hilan Nissior                  | Freq: 9  -- Possível abreviação/incompleto
+------------------------------------------------------------
+GRUPO #15
+ [ORIGEM] Nome: Bezerra, Juscelino Eudamidas             | Freq: 1
+   |-> Nome: Bezerra, Juscelino Eudâmidas             | Freq: 9  -- Grafia similar (96%)
+------------------------------------------------------------
+GRUPO #16
+ [ORIGEM] Nome: Bianco, Nelia Rodrigues Del              | Freq: 3
+   |-> Nome: Bianco, Nelia Rodrigues del              | Freq: 1  -- Grafia similar (100%)
+------------------------------------------------------------
+GRUPO #17
+ [ORIGEM] Nome: BIum, Luiz Eduardo Bassay                | Freq: 1
+   |-> Nome: Blum, Luiz Eduardo Bassay                | Freq: 34  -- Grafia similar (96%)
+------------------------------------------------------------
+GRUPO #18
+ [ORIGEM] Nome: Borges, Fabricia Teixeira                | Freq: 11
+   |-> Nome: Borges, Fabrícia Teixeira                | Freq: 5  -- Grafia similar (96%)
+------------------------------------------------------------
+GRUPO #19
+ [ORIGEM] Nome: Botelho, Ducineli Regis                  | Freq: 2
+   |-> Nome: Botelho, Ducineli Régis                  | Freq: 2  -- Grafia similar (96%)
+------------------------------------------------------------
+GRUPO #20
+ [ORIGEM] Nome: Braga, José Luís                         | Freq: 1
+   |-> Nome: Braga, José Luis W.                      | Freq: 1  -- Grafia similar (88%)
+------------------------------------------------------------
+GRUPO #21
+ [ORIGEM] Nome: Branco, Angela Maria Cristina Uchoa De Abreu | Freq: 1
+   |-> Nome: Branco, Angela Maria Cristina Uchôa de Abreu | Freq: 23  -- Grafia similar (98%)
+------------------------------------------------------------
+GRUPO #22
+ [ORIGEM] Nome: Brandão, Cristina Celia Silveira         | Freq: 2
+   |-> Nome: Brandão, Cristina Célia Silveira         | Freq: 25  -- Grafia similar (97%)
+------------------------------------------------------------
+GRUPO #23
+ [ORIGEM] Nome: Brasil Junior, Antônio Cesar Pinho       | Freq: 2
+   |-> Nome: Brasil Júnior, Antônio César Pinho       | Freq: 30  -- Grafia similar (94%)
+------------------------------------------------------------
+GRUPO #24
+ [ORIGEM] Nome: Brasil, Katia Cristina Tarouquella Rodrigues | Freq: 3
+   |-> Nome: Brasil, Katia Tarouquella Rodrigues      | Freq: 1  -- Grafia similar (89%)
+------------------------------------------------------------
+GRUPO #25
+ [ORIGEM] Nome: Brasil, Mario Lima                       | Freq: 1
+   |-> Nome: Brasil, Mário Lima                       | Freq: 2  -- Grafia similar (94%)
+------------------------------------------------------------
+GRUPO #26
+ [ORIGEM] Nome: Bulow, Marisa Von                        | Freq: 2
+   |-> Nome: Bulow, Marisa von                        | Freq: 1  -- Grafia similar (100%)
+------------------------------------------------------------
+GRUPO #27
+ [ORIGEM] Nome: Caldas, Eloisa Dutra                     | Freq: 5
+   |-> Nome: Caldas, Eloísa Dutra                     | Freq: 31  -- Grafia similar (95%)
+------------------------------------------------------------
+GRUPO #28
+ [ORIGEM] Nome: Camara, Rogerio José                     | Freq: 11
+   |-> Nome: Câmara, Rogério José                     | Freq: 2  -- Grafia similar (90%)
+------------------------------------------------------------
+GRUPO #29
+ [ORIGEM] Nome: Camargos, Einstein Francisco             | Freq: 1
+   |-> Nome: Camargos, Einstein Francisco de          | Freq: 8  -- Grafia similar (95%)
+------------------------------------------------------------
+GRUPO #30
+ [ORIGEM] Nome: Campos, Élida Geralda                    | Freq: 9
+   |-> Nome: Campos, Élida Geraldo                    | Freq: 1  -- Grafia similar (95%)
+------------------------------------------------------------
+GRUPO #31
+ [ORIGEM] Nome: Campos, Eloi Guimarães                   | Freq: 1
+   |-> Nome: Campos, José Eloi Guimarães              | Freq: 52  -- Grafia similar (90%)
+------------------------------------------------------------
+GRUPO #32
+ [ORIGEM] Nome: Campos, Neio Lúcio De Oliveira           | Freq: 1
+   |-> Nome: Campos, Neio Lúcio de Oliveira           | Freq: 32  -- Grafia similar (100%)
+------------------------------------------------------------
+GRUPO #33
+ [ORIGEM] Nome: Campos, Tatiana Amabile de               | Freq: 4
+   |-> Nome: Campos, Tatiana Amabilis de              | Freq: 3  -- Grafia similar (94%)
+------------------------------------------------------------
+GRUPO #34
+ [ORIGEM] Nome: Cancelli, Elisabeth                      | Freq: 1
+   |-> Nome: Cancelli, Elizabeth                      | Freq: 4  -- Grafia similar (95%)
+------------------------------------------------------------
+GRUPO #35
+ [ORIGEM] Nome: Carvalho Junior, Mario Olavo Magno de    | Freq: 1
+   |-> Nome: Carvalho, Mario Olavo Magno de           | Freq: 5  -- Grafia similar (90%)
+------------------------------------------------------------
+GRUPO #36
+ [ORIGEM] Nome: Carvalho, Juliana Lott De                | Freq: 1
+   |-> Nome: Carvalho, Juliana Lott de                | Freq: 1  -- Grafia similar (100%)
+------------------------------------------------------------
+GRUPO #37
+ [ORIGEM] Nome: Carvalho, Marcelo Menezes                | Freq: 1
+   |-> Nome: Carvalho, Marcelo Menezes de             | Freq: 9  -- Grafia similar (94%)
+------------------------------------------------------------
+GRUPO #38
+ [ORIGEM] Nome: Carvalho, Olgamir Francisco de	-         | Freq: 1
+   |-> Nome: Carvalho, Olgamir Francisco de           | Freq: 28  -- Grafia similar (100%)
+------------------------------------------------------------
+GRUPO #39
+ [ORIGEM] Nome: Carvalho, Sonia Marise Salles            | Freq: 2
+   |-> Nome: Carvalho, Sônia Marise Salles            | Freq: 6  -- Grafia similar (97%)
+   |-> Nome: Carvalho, Sonia Marise Salles de         | Freq: 6  -- Grafia similar (95%)
+------------------------------------------------------------
+GRUPO #40
+ [ORIGEM] Nome: Casagrande, Michele Dal Toe              | Freq: 5
+   |-> Nome: Casagrande, Michéle Dal Toé              | Freq: 2  -- Grafia similar (93%)
+   |-> Nome: Casagrande, Michéle dal Toé              | Freq: 9  -- Grafia similar (93%)
+------------------------------------------------------------
+GRUPO #41
+ [ORIGEM] Nome: Castilho, Goiara Mendonça                | Freq: 1
+   |-> Nome: Castilho, Goiara Mendonça de             | Freq: 5  -- Grafia similar (94%)
+------------------------------------------------------------
+GRUPO #42
+ [ORIGEM] Nome: Castro Júnior, Gláucio                   | Freq: 5
+   |-> Nome: Castro Júnior, Gláucio de                | Freq: 2  -- Grafia similar (94%)
+------------------------------------------------------------
+GRUPO #43
+ [ORIGEM] Nome: Castro, Fábio Avila de                   | Freq: 1
+   |-> Nome: Castro, Fábio Ávila de                   | Freq: 2  -- Grafia similar (95%)
+------------------------------------------------------------
+GRUPO #44
+ [ORIGEM] Nome: Castro, Fábio Comes de                   | Freq: 17
+   |-> Nome: Castro, Fábio Gomes de                   | Freq: 1  -- Grafia similar (95%)
+------------------------------------------------------------
+GRUPO #45
+ [ORIGEM] Nome: Castro, Renato Vinicius Oliveira         | Freq: 6
+   |-> Nome: Castro, Renato Vinícius Oliveira         | Freq: 1  -- Grafia similar (97%)
+------------------------------------------------------------
+GRUPO #46
+ [ORIGEM] Nome: Cavalcante Neto, Florêncio Figueiredo    | Freq: 1
+   |-> Nome: Cavalcanti Neto, Florêncio Figueiredo    | Freq: 4  -- Grafia similar (97%)
+------------------------------------------------------------
+GRUPO #47
+ [ORIGEM] Nome: Cavalcante, Taciana Barbosa              | Freq: 1
+   |-> Nome: Cavalcanti, Taciana Barbosa              | Freq: 19  -- Grafia similar (96%)
+------------------------------------------------------------
+GRUPO #48
+ [ORIGEM] Nome: Cavalcanti, Cordelia Robalinho           | Freq: 1
+   |-> Nome: Cavalcanti, Cordélia Robalinho           | Freq: 3  -- Grafia similar (97%)
+------------------------------------------------------------
+GRUPO #49
+ [ORIGEM] Nome: Cavalcanti, Leonardo                     | Freq: 1
+   |-> Nome: Cavalcanti, Leonardo de Vilhena          | Freq: 2  -- Possível abreviação/incompleto
+------------------------------------------------------------
+GRUPO #50
+ [ORIGEM] Nome: Cavalcanti, Roberto Brandão              | Freq: 4
+   |-> Nome: Cavalcanti, Roberto. Brandão             | Freq: 1  -- Grafia similar (100%)
+------------------------------------------------------------
+GRUPO #51
+ [ORIGEM] Nome: Ceies, Luiz Augusto Monnerat             | Freq: 1
+   |-> Nome: Celes, Luiz Augusto Monnerat             | Freq: 32  -- Grafia similar (96%)
+------------------------------------------------------------
+GRUPO #52
+ [ORIGEM] Nome: Chaves, Christiane de Alencar            | Freq: 3
+   |-> Nome: Chaves, Christine de Alencar             | Freq: 1  -- Grafia similar (98%)
+------------------------------------------------------------
+GRUPO #53
+ [ORIGEM] Nome: Cipriano Junior, Gerson                  | Freq: 1
+   |-> Nome: Cipriano Júnior, Gérson                  | Freq: 24  -- Grafia similar (91%)
+------------------------------------------------------------
+GRUPO #54
+ [ORIGEM] Nome: Clímaco, João Carlos Teatini de S.       | Freq: 1
+   |-> Nome: Clímaco, João Carlos Teatini De Souza    | Freq: 1  -- Grafia similar (94%)
+   |-> Nome: Clímaco, João Carlos Teatini de Souza    | Freq: 17  -- Grafia similar (94%)
+------------------------------------------------------------
+GRUPO #55
+ [ORIGEM] Nome: Costa, Claudio Lucio                     | Freq: 1
+   |-> Nome: Costa, Cláudio Lúcio                     | Freq: 3  -- Grafia similar (90%)
+------------------------------------------------------------
+GRUPO #56
+ [ORIGEM] Nome: Costa, Cléria Botelho da                 | Freq: 1
+   |-> Nome: Costa, Cléria Botêlho da                 | Freq: 27  -- Grafia similar (96%)
+------------------------------------------------------------
+GRUPO #57
+ [ORIGEM] Nome: Costa, Marcus Vincius Chaffim            | Freq: 1
+   |-> Nome: Costa, Marcus Vinícius Chaffim           | Freq: 2  -- Grafia similar (98%)
+------------------------------------------------------------
+GRUPO #58
+ [ORIGEM] Nome: D'Angelo, Biagio                         | Freq: 2
+   |-> Nome: D’Angelo, Biagio                         | Freq: 15  -- Grafia similar (100%)
+------------------------------------------------------------
+GRUPO #59
+ [ORIGEM] Nome: Dalcastagne, Regina                      | Freq: 1
+   |-> Nome: Dalcastagnè, Regina                      | Freq: 36  -- Grafia similar (95%)
+------------------------------------------------------------
+GRUPO #60
+ [ORIGEM] Nome: Dantas, José Alves                       | Freq: 11
+   |-> Nome: Dias, José Alves                         | Freq: 18  -- Grafia similar (88%)
+------------------------------------------------------------
+GRUPO #61
+ [ORIGEM] Nome: Danzaki, Luis Isamu Barros               | Freq: 1
+   |-> Nome: Kanzaki, Luís Isamu Barros               | Freq: 3  -- Grafia similar (92%)
+------------------------------------------------------------
+GRUPO #62
+ [ORIGEM] Nome: De-Souza, Marlene Teixeira               | Freq: 1
+   |-> Nome: Souza, Marlene Teixeira de               | Freq: 7  -- Grafia similar (90%)
+------------------------------------------------------------
+GRUPO #63
+ [ORIGEM] Nome: Dias, Fernando Correa                    | Freq: 1
+   |-> Nome: Dias, Fernando Correia                   | Freq: 1  -- Grafia similar (98%)
+------------------------------------------------------------
+GRUPO #64
+ [ORIGEM] Nome: Dias, Karina                             | Freq: 1
+   |-> Nome: Dias, Karina e Silva                     | Freq: 23  -- Possível abreviação/incompleto
+------------------------------------------------------------
+GRUPO #65
+ [ORIGEM] Nome: Díaz Bermúdez, Ximena Pamela             | Freq: 1
+   |-> Nome: Díaz Bermúdez, Ximena Pamela Claudia     | Freq: 9  -- Possível abreviação/incompleto
+------------------------------------------------------------
+GRUPO #66
+ [ORIGEM] Nome: Doca, Thiago                             | Freq: 2
+   |-> Nome: Doca, Thiago de Carvalho Rodrigues       | Freq: 7  -- Possível abreviação/incompleto
+------------------------------------------------------------
+GRUPO #67
+ [ORIGEM] Nome: Doratioto, Francisco                     | Freq: 1
+   |-> Nome: Doratioto, Francisco Fernando Monteoliva | Freq: 23  -- Possível abreviação/incompleto
+------------------------------------------------------------
+GRUPO #68
+ [ORIGEM] Nome: Evangelista Junior, Francisco            | Freq: 23
+   |-> Nome: Evangelista Júnior, Francisco            | Freq: 1  -- Grafia similar (97%)
+------------------------------------------------------------
+GRUPO #69
+ [ORIGEM] Nome: Faria, Emilia de Oliveira                | Freq: 1
+   |-> Nome: Faria, Emília de Oliveira                | Freq: 1  -- Grafia similar (96%)
+------------------------------------------------------------
+GRUPO #70
+ [ORIGEM] Nome: Faustino, Andrea Mathes                  | Freq: 1
+   |-> Nome: Faustino, Andréa Mathes                  | Freq: 1  -- Grafia similar (96%)
+------------------------------------------------------------
+GRUPO #71
+ [ORIGEM] Nome: Felix, Jorlandio  Francisco              | Freq: 1
+   |-> Nome: Felix, Jorlandio Francisco               | Freq: 3  -- Grafia similar (100%)
+------------------------------------------------------------
+GRUPO #72
+ [ORIGEM] Nome: Felix, Loussia Penha Musse               | Freq: 6
+   |-> Nome: Félix, Loussia Penha Musse               | Freq: 10  -- Grafia similar (96%)
+------------------------------------------------------------
+GRUPO #73
+ [ORIGEM] Nome: Fernandéz Méndez, María del Rosario Tatiana | Freq: 1
+   |-> Nome: Fernández Méndez, Maria Del Rosario Tatiana | Freq: 5  -- Grafia similar (93%)
+------------------------------------------------------------
+GRUPO #74
+ [ORIGEM] Nome: Ferreira, Cristiane da Silva             | Freq: 6
+   |-> Nome: Ferreira, Cristiane Silva                | Freq: 1  -- Grafia similar (94%)
+------------------------------------------------------------
+GRUPO #75
+ [ORIGEM] Nome: Ferreira, Davi Alexsandro Cardoso        | Freq: 4
+   |-> Nome: Ferreira, Daví Alexsandro Cardoso        | Freq: 1  -- Grafia similar (97%)
+------------------------------------------------------------
+GRUPO #76
+ [ORIGEM] Nome: Ferreira, Mario César                    | Freq: 1
+   |-> Nome: Ferreira, Mário César                    | Freq: 40  -- Grafia similar (95%)
+------------------------------------------------------------
+GRUPO #77
+ [ORIGEM] Nome: Ferreira, Vania Maria Moraes             | Freq: 17
+   |-> Nome: Ferreira, Vânia Maria Moraes             | Freq: 1  -- Grafia similar (96%)
+------------------------------------------------------------
+GRUPO #78
+ [ORIGEM] Nome: Figueiredo Neto, Florêncio               | Freq: 1
+   |-> Nome: Figueiredo, Florêncio                    | Freq: 1  -- Grafia similar (89%)
+------------------------------------------------------------
+GRUPO #79
+ [ORIGEM] Nome: Filice, Renisia Cristina Garcia          | Freq: 3
+   |-> Nome: Filice, Renísia Cristina Garcia          | Freq: 14  -- Grafia similar (97%)
+------------------------------------------------------------
+GRUPO #80
+ [ORIGEM] Nome: Fiorucci, Jose Augusto                   | Freq: 1
+   |-> Nome: Fiorucci, José Augusto                   | Freq: 6  -- Grafia similar (95%)
+------------------------------------------------------------
+GRUPO #81
+ [ORIGEM] Nome: Fleith, Denise de Sousa                  | Freq: 1
+   |-> Nome: Fleith, Denise de Souza                  | Freq: 27  -- Grafia similar (96%)
+------------------------------------------------------------
+GRUPO #82
+ [ORIGEM] Nome: Fortes, José Augusto Abreu Sá            | Freq: 23
+   |-> Nome: Sá Fortes, José Augusto Abreu Sá         | Freq: 1  -- Grafia similar (95%)
+------------------------------------------------------------
+GRUPO #83
+ [ORIGEM] Nome: Franca, Rafael Rodrigues da              | Freq: 4
+   |-> Nome: França, Rafael Rodrigues da              | Freq: 1  -- Grafia similar (96%)
+------------------------------------------------------------
+GRUPO #84
+ [ORIGEM] Nome: Franco, José Luiz de Andrade             | Freq: 32
+   |-> Nome: Franco, José Luíz de Andrade             | Freq: 1  -- Grafia similar (96%)
+------------------------------------------------------------
+GRUPO #85
+ [ORIGEM] Nome: Freire, Sandra Ferraz De Castillo Dourado | Freq: 1
+   |-> Nome: Freire, Sandra Ferraz de Castillo Dourado | Freq: 8  -- Grafia similar (100%)
+------------------------------------------------------------
+GRUPO #86
+ [ORIGEM] Nome: Freitas, Sergio Antonio Andrade de       | Freq: 1
+   |-> Nome: Freitas, Sergio Antônio Andrade de       | Freq: 6  -- Grafia similar (97%)
+------------------------------------------------------------
+GRUPO #87
+ [ORIGEM] Nome: Freitas, Sonia Maria de                  | Freq: 2
+   |-> Nome: Freitas, Sônia Maria de                  | Freq: 15  -- Grafia similar (96%)
+------------------------------------------------------------
+GRUPO #88
+ [ORIGEM] Nome: Galassi, Andrea Donatti                  | Freq: 1
+   |-> Nome: Gallassi, Andrea Donatti                 | Freq: 10  -- Grafia similar (98%)
+------------------------------------------------------------
+GRUPO #89
+ [ORIGEM] Nome: Ghiraldelli, Reginaldo                   | Freq: 12
+   |-> Nome: Guiraldelli, Reginaldo                   | Freq: 2  -- Grafia similar (95%)
+   |-> Nome: Guiraldelli., Reginaldo                  | Freq: 1  -- Grafia similar (95%)
+------------------------------------------------------------
+GRUPO #90
+ [ORIGEM] Nome: Ginoris, Yovanka Perez                   | Freq: 1
+   |-> Nome: Ginoris, Yovanka Pérez                   | Freq: 8  -- Grafia similar (95%)
+------------------------------------------------------------
+GRUPO #91
+ [ORIGEM] Nome: Gisolia, Cesar Koppe                     | Freq: 1
+   |-> Nome: Grisolia, Cesar Koppe                    | Freq: 28  -- Grafia similar (98%)
+------------------------------------------------------------
+GRUPO #92
+ [ORIGEM] Nome: Gomes, Andre Luis                        | Freq: 1
+   |-> Nome: Gomes, André Luís                        | Freq: 40  -- Grafia similar (88%)
+------------------------------------------------------------
+GRUPO #93
+ [ORIGEM] Nome: Gomes, Antonio Eduardo                   | Freq: 1
+   |-> Nome: Gomes, Antônio Eduardo                   | Freq: 17  -- Grafia similar (95%)
+------------------------------------------------------------
+GRUPO #94
+ [ORIGEM] Nome: Gomes, Marilia Miranda Forte             | Freq: 1
+   |-> Nome: Gomes, Marília Miranda Forte             | Freq: 17  -- Grafia similar (96%)
+------------------------------------------------------------
+GRUPO #95
+ [ORIGEM] Nome: Gonçalves, Vitor Salvador Picão          | Freq: 26
+   |-> Nome: Gonçalves, Vítor Salvador Picão          | Freq: 2  -- Grafia similar (97%)
+------------------------------------------------------------
+GRUPO #96
+ [ORIGEM] Nome: Gontijo, Pedro Egnaldo                   | Freq: 10
+   |-> Nome: Gontijo, Pedro Ergnaldo                  | Freq: 10  -- Grafia similar (98%)
+------------------------------------------------------------
+GRUPO #97
+ [ORIGEM] Nome: Guimarães, Edi Mendes                    | Freq: 15
+   |-> Nome: Guimarães, Eliane Mendes                 | Freq: 8  -- Grafia similar (89%)
+------------------------------------------------------------
+GRUPO #98
+ [ORIGEM] Nome: Guimarães, Silvia Maria Ferreira         | Freq: 4
+   |-> Nome: Guimarães, Sílvia Maria Ferreira         | Freq: 28  -- Grafia similar (97%)
+------------------------------------------------------------
+GRUPO #99
+ [ORIGEM] Nome: Hamann, Edgar Merchán                    | Freq: 15
+   |-> Nome: Hammann, Edgar Merchan                   | Freq: 1  -- Grafia similar (93%)
+------------------------------------------------------------
+GRUPO #100
+ [ORIGEM] Nome: Hazin, Elizabeth                         | Freq: 29
+   |-> Nome: Hazin, Elizabeth Andrade                 | Freq: 1  -- Possível abreviação/incompleto
+   |-> Nome: Hazin, Elizabeth de Andrade Lima         | Freq: 4  -- Possível abreviação/incompleto
+------------------------------------------------------------
+GRUPO #101
+ [ORIGEM] Nome: Hirano, Liria Queiroz Luz                | Freq: 2
+   |-> Nome: Hirano, Líria Queiroz Luz                | Freq: 4  -- Grafia similar (96%)
+------------------------------------------------------------
+GRUPO #102
+ [ORIGEM] Nome: http://dx.doi.org/10.26512/2015.07.D.18967 | Freq: 1
+   |-> Nome: http://dx.doi.org/10.26512/2015.07.T.18769 | Freq: 1  -- Grafia similar (90%)
+------------------------------------------------------------
+GRUPO #103
+ [ORIGEM] Nome: http://dx.doi.org/10.26512/2017.03.D.23361 | Freq: 1
+   |-> Nome: http://dx.doi.org/10.26512/2017.03.T.23512 | Freq: 1  -- Grafia similar (90%)
+------------------------------------------------------------
+GRUPO #104
+ [ORIGEM] Nome: Hungaro, Edson Marcelo                   | Freq: 11
+   |-> Nome: Húngaro, Edson Marcelo                   | Freq: 15  -- Grafia similar (95%)
+------------------------------------------------------------
+GRUPO #105
+ [ORIGEM] Nome: Kruger, Ricardo Henrique                 | Freq: 12
+   |-> Nome: Krüger, Ricardo Henrique                 | Freq: 11  -- Grafia similar (96%)
+------------------------------------------------------------
+GRUPO #106
+ [ORIGEM] Nome: Kuckelhaus, Selma Aparecida Souza        | Freq: 5
+   |-> Nome: Kückelhaus, Selma Aparecida Souza        | Freq: 18  -- Grafia similar (97%)
+------------------------------------------------------------
+GRUPO #107
+ [ORIGEM] Nome: Laumann, Raul Alberto                    | Freq: 1
+   |-> Nome: Laumann, Raúl Alberto                    | Freq: 11  -- Grafia similar (95%)
+------------------------------------------------------------
+GRUPO #108
+ [ORIGEM] Nome: Leite, José  Roberto de Souza de Almeida | Freq: 1
+   |-> Nome: Leite, José Roberto de Souza de Almeida  | Freq: 6  -- Grafia similar (100%)
+------------------------------------------------------------
+GRUPO #109
+ [ORIGEM] Nome: Lia, Erica Negrini                       | Freq: 1
+   |-> Nome: Lia, Érica Negrini                       | Freq: 8  -- Grafia similar (94%)
+------------------------------------------------------------
+GRUPO #110
+ [ORIGEM] Nome: Lima Junior, Paulo                       | Freq: 1
+   |-> Nome: Lima Junior, Paulo Roberto Meneses       | Freq: 1  -- Possível abreviação/incompleto
+   |-> Nome: Lima Junior, Paulo Roberto Menezes       | Freq: 1  -- Possível abreviação/incompleto
+------------------------------------------------------------
+GRUPO #111
+ [ORIGEM] Nome: Lima, Diana Vaz De                       | Freq: 1
+   |-> Nome: Lima, Diana Vaz de                       | Freq: 12  -- Grafia similar (100%)
+------------------------------------------------------------
+GRUPO #112
+ [ORIGEM] Nome: Lima, Rogério                            | Freq: 3
+   |-> Nome: Lima, Rogério da Silva                   | Freq: 22  -- Possível abreviação/incompleto
+------------------------------------------------------------
+GRUPO #113
+ [ORIGEM] Nome: Lima, Tiago Jesse Souza de               | Freq: 4
+   |-> Nome: Lima, Tiago Jessé Souza de               | Freq: 2  -- Grafia similar (96%)
+------------------------------------------------------------
+GRUPO #114
+ [ORIGEM] Nome: Lima, Venicio Artur de                   | Freq: 3
+   |-> Nome: Lima, Venício Artur de                   | Freq: 1  -- Grafia similar (95%)
+------------------------------------------------------------
+GRUPO #115
+ [ORIGEM] Nome: Little, Paul Elliot                      | Freq: 1
+   |-> Nome: Little, Paul Elliott                     | Freq: 17  -- Grafia similar (97%)
+------------------------------------------------------------
+GRUPO #116
+ [ORIGEM] Nome: Lopes, Denilson                          | Freq: 4
+   |-> Nome: Lopes, Denílson                          | Freq: 2  -- Grafia similar (93%)
+------------------------------------------------------------
+GRUPO #117
+ [ORIGEM] Nome: Lopes, Rodolfo                           | Freq: 1
+   |-> Nome: Lopes, Rodolfo Pais Nunes                | Freq: 2  -- Possível abreviação/incompleto
+------------------------------------------------------------
+GRUPO #118
+ [ORIGEM] Nome: Macedo, Sergio Bruzadelli                | Freq: 5
+   |-> Nome: Macedo, Sérgio Bruzadelli                | Freq: 2  -- Grafia similar (96%)
+------------------------------------------------------------
+GRUPO #119
+ [ORIGEM] Nome: Machado, Angelo Henrique de Lira         | Freq: 9
+   |-> Nome: Machado, Ângelo Henrique de Lira         | Freq: 4  -- Grafia similar (97%)
+------------------------------------------------------------
+GRUPO #120
+ [ORIGEM] Nome: Machado, Fabiola Orlando Calazans        | Freq: 2
+   |-> Nome: Machado, Fabíola Orlando Calazans        | Freq: 2  -- Grafia similar (97%)
+------------------------------------------------------------
+GRUPO #121
+ [ORIGEM] Nome: Manyari, Waleska Valenca                 | Freq: 1
+   |-> Nome: Manyari, Waleska Valença                 | Freq: 1  -- Grafia similar (96%)
+------------------------------------------------------------
+GRUPO #122
+ [ORIGEM] Nome: Marães, Vera Regina Fernandes da Silva   | Freq: 15
+   |-> Nome: Paz, Vera Regina Fernandes da Silva      | Freq: 1  -- Grafia similar (90%)
+------------------------------------------------------------
+GRUPO #123
+ [ORIGEM] Nome: Martinez Carvajal, Hernán Eduardo        | Freq: 1
+   |-> Nome: Martínez Carvajal, Hernán Eduardo        | Freq: 18  -- Grafia similar (97%)
+------------------------------------------------------------
+GRUPO #124
+ [ORIGEM] Nome: Martino, Luiz Claudio                    | Freq: 1
+   |-> Nome: Martino, Luiz Cláudio                    | Freq: 21  -- Grafia similar (95%)
+------------------------------------------------------------
+GRUPO #125
+ [ORIGEM] Nome: Martins, Carlos Benedito                 | Freq: 6
+   |-> Nome: Martins, Carlos Benedito de Campos       | Freq: 1  -- Possível abreviação/incompleto
+------------------------------------------------------------
+GRUPO #126
+ [ORIGEM] Nome: Matteini, Massimo                        | Freq: 1
+   |-> Nome: Matteini, Mássimo                        | Freq: 6  -- Grafia similar (94%)
+------------------------------------------------------------
+GRUPO #127
+ [ORIGEM] Nome: Mazali, Rogerio                          | Freq: 1
+   |-> Nome: Mazali, Rogério                          | Freq: 2  -- Grafia similar (93%)
+------------------------------------------------------------
+GRUPO #128
+ [ORIGEM] Nome: Medeiros Junior, Paulo                   | Freq: 2
+   |-> Nome: Medeiros Júnior, Paulo                   | Freq: 1  -- Grafia similar (95%)
+------------------------------------------------------------
+GRUPO #129
+ [ORIGEM] Nome: Medeiros, Rodrigo Antonio de             | Freq: 2
+   |-> Nome: Medeiros, Rodrigo Antônio de             | Freq: 3  -- Grafia similar (96%)
+------------------------------------------------------------
+GRUPO #130
+ [ORIGEM] Nome: Mello, Carlos Eduardo Vianna de          | Freq: 2
+   |-> Nome: Melo, Carlos Eduardo Luna de             | Freq: 10  -- Grafia similar (88%)
+------------------------------------------------------------
+GRUPO #131
+ [ORIGEM] Nome: Mello, Darli Augusto de Arruda           | Freq: 6
+   |-> Nome: Melo, Darli Augusto de Arruda            | Freq: 1  -- Grafia similar (98%)
+------------------------------------------------------------
+GRUPO #132
+ [ORIGEM] Nome: Mello, Maria Therezinha Ferraz Negrão    | Freq: 22
+   |-> Nome: Mello, Maria Therezinha Ferraz Negrão de | Freq: 1  -- Grafia similar (96%)
+------------------------------------------------------------
+GRUPO #133
+ [ORIGEM] Nome: Mello, Mauricio Homem de                 | Freq: 1
+   |-> Nome: Mello, Maurício Homem de                 | Freq: 8  -- Grafia similar (96%)
+------------------------------------------------------------
+GRUPO #134
+ [ORIGEM] Nome: Melo, Guilherme Sales S. de Azevedo      | Freq: 1
+   |-> Nome: Melo, Guilherme Sales Soares de Azevedo  | Freq: 85  -- Grafia similar (93%)
+------------------------------------------------------------
+GRUPO #135
+ [ORIGEM] Nome: Melo, Lídia Mara Aguiar Bezerra de       | Freq: 6
+   |-> Nome: Melo, Lídia Mara de Aguiar Bezerra       | Freq: 1  -- Grafia similar (91%)
+------------------------------------------------------------
+GRUPO #136
+ [ORIGEM] Nome: Melo, Michele Cristina da Silva          | Freq: 1
+   |-> Nome: Melo, Michele Cristina Silva             | Freq: 17  -- Grafia similar (95%)
+------------------------------------------------------------
+GRUPO #137
+ [ORIGEM] Nome: Mendes, Ana Magnólia Bezerra             | Freq: 39
+   |-> Nome: Mendes, Ana Magóolia Bezerra             | Freq: 1  -- Grafia similar (96%)
+------------------------------------------------------------
+GRUPO #138
+ [ORIGEM] Nome: Menezes, Albene Miriam Ferreira          | Freq: 13
+   |-> Nome: Menezes, Albene Mirian Ferreira          | Freq: 1  -- Grafia similar (97%)
+------------------------------------------------------------
+GRUPO #139
+ [ORIGEM] Nome: Merchan-Hamann, Edgar                    | Freq: 23
+   |-> Nome: Merchán-Hamann, Edgar                    | Freq: 1  -- Grafia similar (95%)
+------------------------------------------------------------
+GRUPO #140
+ [ORIGEM] Nome: Mesa, Gloria Maria Vargas López de       | Freq: 1
+   |-> Nome: Mesa, Glória Maria Vargas Lopez de       | Freq: 9  -- Grafia similar (94%)
+------------------------------------------------------------
+GRUPO #141
+ [ORIGEM] Nome: Mieto, Gabriela Sousa de Melo            | Freq: 4
+   |-> Nome: Mietto, Gabriela Sousa de Melo           | Freq: 7  -- Grafia similar (98%)
+------------------------------------------------------------
+GRUPO #142
+ [ORIGEM] Nome: Miguel, Luis Felipe                      | Freq: 21
+   |-> Nome: Miguel, Luís Felipe                      | Freq: 1  -- Grafia similar (95%)
+------------------------------------------------------------
+GRUPO #143
+ [ORIGEM] Nome: Ming, Tien Lin                           | Freq: 2
+   |-> Nome: Ming-Tien, Lin                           | Freq: 1  -- Grafia similar (89%)
+------------------------------------------------------------
+GRUPO #144
+ [ORIGEM] Nome: Miranda, Antonio                         | Freq: 25
+   |-> Nome: Miranda, Antonio Carlos                  | Freq: 1  -- Possível abreviação/incompleto
+   |-> Nome: Miranda, Antonio Carlos de Oliveira      | Freq: 14  -- Possível abreviação/incompleto
+------------------------------------------------------------
+GRUPO #145
+ [ORIGEM] Nome: Miranda, Heloisa Sinatora                | Freq: 2
+   |-> Nome: Miranda, Heloisa Sinátora                | Freq: 11  -- Grafia similar (96%)
+   |-> Nome: Miranda, Heloísa Sinátora                | Freq: 2  -- Grafia similar (92%)
+------------------------------------------------------------
+GRUPO #146
+ [ORIGEM] Nome: Monteiro, Fabio Ferreira                 | Freq: 4
+   |-> Nome: Monteiro, Fábio Ferreira de              | Freq: 1  -- Grafia similar (90%)
+------------------------------------------------------------
+GRUPO #147
+ [ORIGEM] Nome: Monteiro, Julio César Neves              | Freq: 1
+   |-> Nome: Monteiro, Júlio César Neves              | Freq: 12  -- Grafia similar (96%)
+------------------------------------------------------------
+GRUPO #148
+ [ORIGEM] Nome: Morais, Marcus Vinicíus Girão de         | Freq: 1
+   |-> Nome: Morais, Marcus Vinícius Girão de         | Freq: 9  -- Grafia similar (94%)
+------------------------------------------------------------
+GRUPO #149
+ [ORIGEM] Nome: Mota, Celia Maria dos Santos Ladeira     | Freq: 1
+   |-> Nome: Mota, Célia Maria dos Santos Ladeira     | Freq: 13  -- Grafia similar (97%)
+------------------------------------------------------------
+GRUPO #150
+ [ORIGEM] Nome: Mota, Luiz Augusto Casulari Roxo da      | Freq: 1
+   |-> Nome: Motta, Luiz Augusto Casulari Roxo da     | Freq: 33  -- Grafia similar (99%)
+------------------------------------------------------------
+GRUPO #151
+ [ORIGEM] Nome: Motta, Luiz Gonzaga                      | Freq: 5
+   |-> Nome: Motta, Luiz Gonzaga Figueiredo           | Freq: 17  -- Possível abreviação/incompleto
+------------------------------------------------------------
+GRUPO #152
+ [ORIGEM] Nome: Moura, Alex Sando Calheiros de           | Freq: 1
+   |-> Nome: Moura, Alex Sandro Calheiros de          | Freq: 7  -- Grafia similar (98%)
+------------------------------------------------------------
+GRUPO #153
+ [ORIGEM] Nome: Moura, Cristiane Faiad                   | Freq: 1
+   |-> Nome: Moura, Cristiane Faiad de                | Freq: 13  -- Grafia similar (94%)
+------------------------------------------------------------
+GRUPO #154
+ [ORIGEM] Nome: Moura, Cristina  Pantoja de              | Freq: 1
+   |-> Nome: Moura, Cristina Patriota de              | Freq: 12  -- Grafia similar (91%)
+------------------------------------------------------------
+GRUPO #155
+ [ORIGEM] Nome: Moura, Ricardo José                      | Freq: 1
+   |-> Nome: Moura, Ricardo José de                   | Freq: 5  -- Grafia similar (93%)
+------------------------------------------------------------
+GRUPO #156
+ [ORIGEM] Nome: Mueller, Bernardo                        | Freq: 2
+   |-> Nome: Mueller, Bernardo Pinheiro Machado       | Freq: 50  -- Possível abreviação/incompleto
+------------------------------------------------------------
+GRUPO #157
+ [ORIGEM] Nome: Mukai, Yuki                              | Freq: 2
+   |-> Nome: Mukai, Yûki                              | Freq: 21  -- Grafia similar (91%)
+------------------------------------------------------------
+GRUPO #158
+ [ORIGEM] Nome: Mulholand, Timothy Martin                | Freq: 1
+   |-> Nome: Mulholland, Timothy Martin               | Freq: 1  -- Grafia similar (98%)
+------------------------------------------------------------
+GRUPO #159
+ [ORIGEM] Nome: Nakagome, Patricia Trindade              | Freq: 4
+   |-> Nome: Nakagome, Patrícia Trindade              | Freq: 12  -- Grafia similar (96%)
+------------------------------------------------------------
+GRUPO #160
+ [ORIGEM] Nome: Nascimento, Leandro                      | Freq: 3
+   |-> Nome: Nascimento, Leandro Gonçalves do         | Freq: 2  -- Possível abreviação/incompleto
+------------------------------------------------------------
+GRUPO #161
+ [ORIGEM] Nome: Neves, Angela Vieira                     | Freq: 13
+   |-> Nome: Neves, Ângela Vieira                     | Freq: 2  -- Grafia similar (95%)
+------------------------------------------------------------
+GRUPO #162
+ [ORIGEM] Nome: Neves, Marcelo                           | Freq: 1
+   |-> Nome: Neves, Marcelo da Costa Pinto            | Freq: 22  -- Possível abreviação/incompleto
+------------------------------------------------------------
+GRUPO #163
+ [ORIGEM] Nome: Nobre Júnior, Antonio Almeida            | Freq: 1
+   |-> Nome: Nobre Júnior, Antonio de Almeida         | Freq: 3  -- Grafia similar (95%)
+------------------------------------------------------------
+GRUPO #164
+ [ORIGEM] Nome: Nóbrega, Christus                        | Freq: 1
+   |-> Nome: Nóbrega, Christus Menezes da             | Freq: 13  -- Possível abreviação/incompleto
+------------------------------------------------------------
+GRUPO #165
+ [ORIGEM] Nome: Nobrega, Otávio de Toledo                | Freq: 4
+   |-> Nome: Nóbrega, Otávio de Tolêdo                | Freq: 23  -- Grafia similar (92%)
+------------------------------------------------------------
+GRUPO #166
+ [ORIGEM] Nome: Nogueira, Julia Aparecida Devide         | Freq: 2
+   |-> Nome: Nogueira, Júlia Aparecida Devidé         | Freq: 14  -- Grafia similar (94%)
+------------------------------------------------------------
+GRUPO #167
+ [ORIGEM] Nome: Nogueról, Luiz Paulo                     | Freq: 1
+   |-> Nome: Nogueról, Luiz Paulo Ferreira            | Freq: 1  -- Possível abreviação/incompleto
+------------------------------------------------------------
+GRUPO #168
+ [ORIGEM] Nome: Noronha, Eliane Ferreira                 | Freq: 20
+   |-> Nome: Noronha, Elza Ferreira                   | Freq: 11  -- Grafia similar (91%)
+------------------------------------------------------------
+GRUPO #169
+ [ORIGEM] Nome: Odeh, Muna Muhammad                      | Freq: 7
+   |-> Nome: Odeh, Muna Muhammed                      | Freq: 1  -- Grafia similar (95%)
+------------------------------------------------------------
+GRUPO #170
+ [ORIGEM] Nome: Oliveira Filho, Eduardo Cyrino           | Freq: 1
+   |-> Nome: Oliveira-Filho, Eduardo Cyrino           | Freq: 7  -- Grafia similar (98%)
+   |-> Nome: Oliveira-Filho, Eduardo Cyrino de        | Freq: 1  -- Grafia similar (94%)
+------------------------------------------------------------
+GRUPO #171
+ [ORIGEM] Nome: Oliveira, Aline  Fonseca de              | Freq: 1
+   |-> Nome: Oliveira, Aline Fonseca de               | Freq: 7  -- Grafia similar (100%)
+------------------------------------------------------------
+GRUPO #172
+ [ORIGEM] Nome: Oliveira, Diego Madureira de             | Freq: 2
+   |-> Nome: Oliveira, Diêgo Madureira de             | Freq: 8  -- Grafia similar (96%)
+------------------------------------------------------------
+GRUPO #173
+ [ORIGEM] Nome: Oliveira, Ione de Fátima                 | Freq: 5
+   |-> Nome: Oliveira, Loraine de Fátima              | Freq: 4  -- Grafia similar (90%)
+------------------------------------------------------------
+GRUPO #174
+ [ORIGEM] Nome: Oliveira, Luis Roberto Cardoso de        | Freq: 3
+   |-> Nome: Oliveira, Luís Roberto Cardoso de        | Freq: 32  -- Grafia similar (97%)
+   |-> Nome: Oliveira, Roberto Cardoso de             | Freq: 5  -- Grafia similar (92%)
+------------------------------------------------------------
+GRUPO #175
+ [ORIGEM] Nome: Oliveira, Paulo Gonçalves de            | Freq: 1
+   |-> Nome: Oliveira, Paulo Gonçalves de             | Freq: 12  -- Grafia similar (96%)
+------------------------------------------------------------
+GRUPO #176
+ [ORIGEM] Nome: Oliveira, Taygoara Felamingo             | Freq: 1
+   |-> Nome: Oliveira, Taygoara Felamingo de          | Freq: 22  -- Grafia similar (95%)
+------------------------------------------------------------
+GRUPO #177
+ [ORIGEM] Nome: Oliveira-Castro Neto, Jorge              | Freq: 1
+   |-> Nome: Oliveira-Castro Neto, Jorge Mendes       | Freq: 1  -- Grafia similar (88%)
+------------------------------------------------------------
+GRUPO #178
+ [ORIGEM] Nome: Ortiz Álvarez, María Luisa               | Freq: 1
+   |-> Nome: Ortíz Alvarez, Maria Luisa               | Freq: 39  -- Grafia similar (88%)
+------------------------------------------------------------
+GRUPO #179
+ [ORIGEM] Nome: Pachin, Nádia Skorupa                    | Freq: 1
+   |-> Nome: Parachin, Nádia Skorupa                  | Freq: 15  -- Grafia similar (95%)
+------------------------------------------------------------
+GRUPO #180
+ [ORIGEM] Nome: Paterno, Leonardo  Giordano              | Freq: 1
+   |-> Nome: Paterno, Leonardo Giordano               | Freq: 19  -- Grafia similar (100%)
+------------------------------------------------------------
+GRUPO #181
+ [ORIGEM] Nome: Patrão, Mauri Moraes Alves               | Freq: 1
+   |-> Nome: Patrão, Mauro Moraes Alves               | Freq: 3  -- Grafia similar (96%)
+------------------------------------------------------------
+GRUPO #182
+ [ORIGEM] Nome: Paula, Aline Souza                       | Freq: 1
+   |-> Nome: Paula, Aline Souza de                    | Freq: 13  -- Grafia similar (92%)
+------------------------------------------------------------
+GRUPO #183
+ [ORIGEM] Nome: Paz, Clarissa Cardoso dos Santos Couto   | Freq: 4
+   |-> Nome: Paz, Clarissa Cardoso dos Santos-Couto   | Freq: 1  -- Grafia similar (99%)
+------------------------------------------------------------
+GRUPO #184
+ [ORIGEM] Nome: Peluso, Marília Luiza                    | Freq: 35
+   |-> Nome: Peluso, Marília Luíza                    | Freq: 2  -- Grafia similar (95%)
+------------------------------------------------------------
+GRUPO #185
+ [ORIGEM] Nome: Pereira, Everton Luís                    | Freq: 2
+   |-> Nome: Pereira, Éverton Luís                    | Freq: 5  -- Grafia similar (95%)
+------------------------------------------------------------
+GRUPO #186
+ [ORIGEM] Nome: Pereira, Fabio Henrique                  | Freq: 1
+   |-> Nome: Pereira, Fábio Henrique                  | Freq: 10  -- Grafia similar (96%)
+------------------------------------------------------------
+GRUPO #187
+ [ORIGEM] Nome: Pereira, Marcus Vinicius Medeiros        | Freq: 1
+   |-> Nome: Pereira, Marcus Vinícius Medeiros        | Freq: 8  -- Grafia similar (97%)
+------------------------------------------------------------
+GRUPO #188
+ [ORIGEM] Nome: Pereira, Mauricio Gomes                  | Freq: 1
+   |-> Nome: Pereira, Maurício Gomes                  | Freq: 29  -- Grafia similar (96%)
+------------------------------------------------------------
+GRUPO #189
+ [ORIGEM] Nome: Pereira, Potyara Amazoneida P.           | Freq: 1
+   |-> Nome: Pereira, Potyara Amazoneida Pereira      | Freq: 22  -- Grafia similar (91%)
+------------------------------------------------------------
+GRUPO #190
+ [ORIGEM] Nome: Pérez Ginori, Yovanka                    | Freq: 1
+   |-> Nome: Pérez Ginoris, Yovanka                   | Freq: 1  -- Grafia similar (98%)
+------------------------------------------------------------
+GRUPO #191
+ [ORIGEM] Nome: Perez-nebra, Amália Raquel               | Freq: 1
+   |-> Nome: Pérez-Nebra, Amalia Raquel               | Freq: 1  -- Grafia similar (92%)
+------------------------------------------------------------
+GRUPO #192
+ [ORIGEM] Nome: Pimentel, Concepta Margaret McManus      | Freq: 29
+   |-> Nome: Pimentel, Concepta Margaret Mcmanus      | Freq: 1  -- Grafia similar (100%)
+------------------------------------------------------------
+GRUPO #193
+ [ORIGEM] Nome: Pinheiro, Diana Lúcia Moura              | Freq: 1
+   |-> Nome: Pinho, Diana Lúcia Moura                 | Freq: 34  -- Grafia similar (94%)
+------------------------------------------------------------
+GRUPO #194
+ [ORIGEM] Nome: Pinto, Marizângela Apararecida de  Bortolo | Freq: 1
+   |-> Nome: Pinto, Marizângela Apararecida de Bortolo | Freq: 1  -- Grafia similar (100%)
+------------------------------------------------------------
+GRUPO #195
+ [ORIGEM] Nome: Piratelli Filho, Antonio                 | Freq: 7
+   |-> Nome: Piratelli Filho, Antônio                 | Freq: 1  -- Grafia similar (96%)
+------------------------------------------------------------
+GRUPO #196
+ [ORIGEM] Nome: Portela, Artur Antonio de Almeida        | Freq: 9
+   |-> Nome: Portela, Artur Antônio de Almeida        | Freq: 1  -- Grafia similar (97%)
+------------------------------------------------------------
+GRUPO #197
+ [ORIGEM] Nome: Porto, Sérgio                            | Freq: 1
+   |-> Nome: Porto, Sérgio Dayrel                     | Freq: 1  -- Possível abreviação/incompleto
+   |-> Nome: Porto, Sérgio Dayrell                    | Freq: 15  -- Possível abreviação/incompleto
+------------------------------------------------------------
+GRUPO #198
+ [ORIGEM] Nome: Pulino, Lúcia Helena Cavasin Zabotto     | Freq: 37
+   |-> Nome: Pulino, Lúcia Helena Cavazin Zabotto     | Freq: 1  -- Grafia similar (97%)
+------------------------------------------------------------
+GRUPO #199
+ [ORIGEM] Nome: Racanicci, Aline Mondini Calil           | Freq: 10
+   |-> Nome: Racanicci, Line Mondini Calil            | Freq: 1  -- Grafia similar (98%)
+------------------------------------------------------------
+GRUPO #200
+ [ORIGEM] Nome: Ramos, Murilo Cesar                      | Freq: 2
+   |-> Nome: Ramos, Murilo César                      | Freq: 1  -- Grafia similar (95%)
+------------------------------------------------------------
+GRUPO #201
+ [ORIGEM] Nome: Recine, Elisabetta                       | Freq: 14
+   |-> Nome: Recine, Elisabetta Gioconda Iole Giovanna | Freq: 1  -- Possível abreviação/incompleto
+------------------------------------------------------------
+GRUPO #202
+ [ORIGEM] Nome: Rego, João Henrique da Silva             | Freq: 9
+   |-> Nome: Rêgo, João Henrique da Silva             | Freq: 14  -- Grafia similar (96%)
+------------------------------------------------------------
+GRUPO #203
+ [ORIGEM] Nome: Rehem, Tania Cristina Morais Santa Barbara | Freq: 2
+   |-> Nome: Rehem, Tânia Cristina Morais Santa Bárbara | Freq: 6  -- Grafia similar (95%)
+------------------------------------------------------------
+GRUPO #204
+ [ORIGEM] Nome: Reses, Erlando da Silva                  | Freq: 3
+   |-> Nome: Rêses, Erlando da Silva                  | Freq: 40  -- Grafia similar (96%)
+------------------------------------------------------------
+GRUPO #205
+ [ORIGEM] Nome: Ribeiro, Luis Fernando Martins           | Freq: 1
+   |-> Nome: Ribeiro, Luís Fernando Martins           | Freq: 25  -- Grafia similar (97%)
+------------------------------------------------------------
+GRUPO #206
+ [ORIGEM] Nome: Ribeiro, Pedro Mandagara                 | Freq: 1
+   |-> Nome: Ribeiro, Pedro Mandagará                 | Freq: 2  -- Grafia similar (96%)
+------------------------------------------------------------
+GRUPO #207
+ [ORIGEM] Nome: Rispoli, Vinicius de Carvalho            | Freq: 10
+   |-> Nome: Rispoli, Vinícius de Carvalho            | Freq: 1  -- Grafia similar (97%)
+------------------------------------------------------------
+GRUPO #208
+ [ORIGEM] Nome: Rocha, Antonio Jorge Ramalho da          | Freq: 2
+   |-> Nome: Rocha, Antônio Jorge Ramalho da          | Freq: 26  -- Grafia similar (97%)
+------------------------------------------------------------
+GRUPO #209
+ [ORIGEM] Nome: Rocha, Carlos Henrique                   | Freq: 1
+   |-> Nome: Rocha, Carlos Henrique Marques da        | Freq: 29  -- Possível abreviação/incompleto
+------------------------------------------------------------
+GRUPO #210
+ [ORIGEM] Nome: Rodrigues, Evaldo Cesar Cavalcante       | Freq: 2
+   |-> Nome: Rodrigues, Evaldo César Cavalcante       | Freq: 2  -- Grafia similar (97%)
+------------------------------------------------------------
+GRUPO #211
+ [ORIGEM] Nome: Rodrigues, Fabricia Walace               | Freq: 13
+   |-> Nome: Rodrigues, Fabrícia Walace               | Freq: 1  -- Grafia similar (96%)
+------------------------------------------------------------
+GRUPO #212
+ [ORIGEM] Nome: Rodrigues, Marcelo Oliveira              | Freq: 13
+   |-> Nome: Rodrigues, Marcelo Palmeira              | Freq: 2  -- Grafia similar (89%)
+------------------------------------------------------------
+GRUPO #213
+ [ORIGEM] Nome: Rodrigues, Thais Carvalho Valadares      | Freq: 1
+   |-> Nome: Rodriques, Thaís Carvalho Valadares      | Freq: 1  -- Grafia similar (94%)
+------------------------------------------------------------
+GRUPO #214
+ [ORIGEM] Nome: Rodriguez Rebolledo, Juan Félix          | Freq: 5
+   |-> Nome: Rodríguez Rebolledo, Juan Félix          | Freq: 13  -- Grafia similar (97%)
+------------------------------------------------------------
+GRUPO #215
+ [ORIGEM] Nome: Roesler, Claudia Rosane                  | Freq: 20
+   |-> Nome: Roesler, Cláudia Rosane                  | Freq: 1  -- Grafia similar (96%)
+------------------------------------------------------------
+GRUPO #216
+ [ORIGEM] Nome: Rosario, Adalgisa Maria Vieira do        | Freq: 1
+   |-> Nome: Rosário, Adalgisa Maria Vieira do        | Freq: 4  -- Grafia similar (97%)
+------------------------------------------------------------
+GRUPO #217
+ [ORIGEM] Nome: Sahit, Carmem Lucia de Mesquita          | Freq: 1
+   |-> Nome: Sahlit, Carmen Lucia de Mesquita         | Freq: 5  -- Grafia similar (95%)
+   |-> Nome: Sahlit, Carmen Lúcia de Mesquita         | Freq: 1  -- Grafia similar (92%)
+------------------------------------------------------------
+GRUPO #218
+ [ORIGEM] Nome: Sant'Ana, Fabiano José Ferreira de       | Freq: 5
+   |-> Nome: Sant’Ana, Fabiano José Ferreira de       | Freq: 9  -- Grafia similar (100%)
+------------------------------------------------------------
+GRUPO #219
+ [ORIGEM] Nome: Sant'Anna, Henrique Modanez de           | Freq: 7
+   |-> Nome: Sant’Anna, Henrique Modanez de           | Freq: 3  -- Grafia similar (100%)
+------------------------------------------------------------
+GRUPO #220
+ [ORIGEM] Nome: Santana, Ademir Eugênio                  | Freq: 1
+   |-> Nome: Santana, Ademir Eugênio de               | Freq: 20  -- Grafia similar (94%)
+------------------------------------------------------------
+GRUPO #221
+ [ORIGEM] Nome: Santana, Ana Claudia Farranha            | Freq: 4
+   |-> Nome: Santana, Ana Cláudia Farranha            | Freq: 14  -- Grafia similar (97%)
+------------------------------------------------------------
+GRUPO #222
+ [ORIGEM] Nome: Santos Neto, Leopoldo Luiz dos           | Freq: 16
+   |-> Nome: Santos-Neto, Leopoldo Luiz dos           | Freq: 1  -- Grafia similar (98%)
+------------------------------------------------------------
+GRUPO #223
+ [ORIGEM] Nome: Santos, Carlos Alexandre Barboza Plinio dos | Freq: 2
+   |-> Nome: Santos, Carlos Alexandre Barboza Plínio dos | Freq: 6  -- Grafia similar (98%)
+------------------------------------------------------------
+GRUPO #224
+ [ORIGEM] Nome: Santos, Gilberto Lacerda                 | Freq: 46
+   |-> Nome: Santos, Gilberto Lacerda dos             | Freq: 1  -- Grafia similar (92%)
+------------------------------------------------------------
+GRUPO #225
+ [ORIGEM] Nome: Santos, Maria Helena Castro              | Freq: 1
+   |-> Nome: Santos, Maria Helena de Castro           | Freq: 23  -- Grafia similar (95%)
+------------------------------------------------------------
+GRUPO #226
+ [ORIGEM] Nome: Santos, Patricia Guarnieri dos           | Freq: 3
+   |-> Nome: Santos, Patrícia Guarnieri dos           | Freq: 2  -- Grafia similar (97%)
+------------------------------------------------------------
+GRUPO #227
+ [ORIGEM] Nome: Santos, Patricia Tuxi dos                | Freq: 1
+   |-> Nome: Santos, Patrícia Tuxi dos                | Freq: 9  -- Grafia similar (96%)
+------------------------------------------------------------
+GRUPO #228
+ [ORIGEM] Nome: Sanz, Cláudia  Linhares                  | Freq: 1
+   |-> Nome: Sanz, Cláudia Linhares                   | Freq: 6  -- Grafia similar (100%)
+------------------------------------------------------------
+GRUPO #229
+ [ORIGEM] Nome: Sautchuk, João Miguel                    | Freq: 1
+   |-> Nome: Sautchuk, João Miguel Manzolillo         | Freq: 2  -- Possível abreviação/incompleto
+------------------------------------------------------------
+GRUPO #230
+ [ORIGEM] Nome: Schvarsberg, Benny                       | Freq: 31
+   |-> Nome: Shasberg, Benny                          | Freq: 2  -- Grafia similar (91%)
+------------------------------------------------------------
+GRUPO #231
+ [ORIGEM] Nome: Schwantes, Cintia Carla Moreira          | Freq: 1
+   |-> Nome: Schwantes, Cíntia Carla Moreira          | Freq: 42  -- Grafia similar (97%)
+------------------------------------------------------------
+GRUPO #232
+ [ORIGEM] Nome: Seimertz, Rui                            | Freq: 1
+   |-> Nome: Seimetz, Rui                             | Freq: 20  -- Grafia similar (96%)
+------------------------------------------------------------
+GRUPO #233
+ [ORIGEM] Nome: Silv, Fabricio Machado                   | Freq: 1
+   |-> Nome: Silva, Fabricio Machado                  | Freq: 23  -- Grafia similar (98%)
+------------------------------------------------------------
+GRUPO #234
+ [ORIGEM] Nome: Silva e Sá, Guilherme José da            | Freq: 1
+   |-> Nome: Silva, Guilherme José da                 | Freq: 2  -- Grafia similar (91%)
+------------------------------------------------------------
+GRUPO #235
+ [ORIGEM] Nome: Silva Filho, Antonio Isidro da           | Freq: 1
+   |-> Nome: Silva Filho, Antônio Isidro da           | Freq: 24  -- Grafia similar (97%)
+------------------------------------------------------------
+GRUPO #236
+ [ORIGEM] Nome: Silva, Ana Claudia da                    | Freq: 12
+   |-> Nome: Silva, Ana Cláudia da                    | Freq: 1  -- Grafia similar (95%)
+------------------------------------------------------------
+GRUPO #237
+ [ORIGEM] Nome: Silva, Delano Moody Simões  da           | Freq: 1
+   |-> Nome: Silva, Delano Moody Simões da            | Freq: 7  -- Grafia similar (100%)
+------------------------------------------------------------
+GRUPO #238
+ [ORIGEM] Nome: Silva, Edileuza Fernandes                | Freq: 7
+   |-> Nome: Silva, Edileuza Fernandes da             | Freq: 6  -- Grafia similar (94%)
+------------------------------------------------------------
+GRUPO #239
+ [ORIGEM] Nome: Silva, Eugênia Fonseca da                | Freq: 12
+   |-> Nome: Silva, Eugênia Fonseca da Silva          | Freq: 1  -- Grafia similar (89%)
+------------------------------------------------------------
+GRUPO #240
+ [ORIGEM] Nome: Silva, Gustavo de Castro da              | Freq: 10
+   |-> Nome: Silva, Gustavo de Castro e               | Freq: 22  -- Grafia similar (94%)
+------------------------------------------------------------
+GRUPO #241
+ [ORIGEM] Nome: Silva, Lúcio Martins da                  | Freq: 2
+   |-> Nome: Silva, Luis Martins da                   | Freq: 1  -- Grafia similar (89%)
+   |-> Nome: Silva, Luiz Martins da                   | Freq: 12  -- Grafia similar (89%)
+------------------------------------------------------------
+GRUPO #242
+ [ORIGEM] Nome: Silva, Maria Abadia da                   | Freq: 4
+   |-> Nome: Silva, Maria Abádia da                   | Freq: 40  -- Grafia similar (95%)
+------------------------------------------------------------
+GRUPO #243
+ [ORIGEM] Nome: Silva, Maria de Fátima                   | Freq: 1
+   |-> Nome: Silva, Maria de Fátima Souza e           | Freq: 2  -- Possível abreviação/incompleto
+------------------------------------------------------------
+GRUPO #244
+ [ORIGEM] Nome: Silva, Maria Julia Martins               | Freq: 1
+   |-> Nome: Silva, Maria Júlia Martins               | Freq: 7  -- Grafia similar (96%)
+------------------------------------------------------------
+GRUPO #245
+ [ORIGEM] Nome: Silva, Suylan Almeida Midlej e           | Freq: 2
+   |-> Nome: Silva, Suylan de Almeida  Midlej e       | Freq: 1  -- Grafia similar (95%)
+   |-> Nome: Silva, Suylan de Almeida Midlej e        | Freq: 25  -- Grafia similar (95%)
+------------------------------------------------------------
+GRUPO #246
+ [ORIGEM] Nome: Silva, Tarcisio Castro                   | Freq: 4
+   |-> Nome: Silva, Tarcísio Castro                   | Freq: 2  -- Grafia similar (95%)
+------------------------------------------------------------
+GRUPO #247
+ [ORIGEM] Nome: Silva, Tiago Barros Ponte e              | Freq: 10
+   |-> Nome: Silva, Tiago Barros Pontes e             | Freq: 5  -- Grafia similar (98%)
+------------------------------------------------------------
+GRUPO #248
+ [ORIGEM] Nome: Siqueira, Mario Benjamim Baptista        | Freq: 15
+   |-> Nome: Siqueira, Mario Benjamim Baptista de     | Freq: 4  -- Grafia similar (96%)
+------------------------------------------------------------
+GRUPO #249
+ [ORIGEM] Nome: Sousa Junior, José Geraldo de            | Freq: 60
+   |-> Nome: Sousa Júnior, José Geraldo de            | Freq: 2  -- Grafia similar (97%)
+   |-> Nome: Souza Júnior, José Geraldo de            | Freq: 2  -- Grafia similar (93%)
+------------------------------------------------------------
+GRUPO #250
+ [ORIGEM] Nome: Sousa, Álvaro Nogueira de                | Freq: 1
+   |-> Nome: Souza, Álvaro Nogueira de                | Freq: 34  -- Grafia similar (96%)
+------------------------------------------------------------
+GRUPO #251
+ [ORIGEM] Nome: Sousa, Heloisa Bicalho de                | Freq: 1
+   |-> Nome: Sousa, Nair Heloisa Bicalho de           | Freq: 30  -- Grafia similar (91%)
+------------------------------------------------------------
+GRUPO #252
+ [ORIGEM] Nome: Sousa, Marcelo Valle de                  | Freq: 12
+   |-> Nome: Souza, Marcelo Valle de                  | Freq: 1  -- Grafia similar (96%)
+------------------------------------------------------------
+GRUPO #253
+ [ORIGEM] Nome: Sousa, Maria Fatima de                   | Freq: 2
+   |-> Nome: Sousa, Maria Fátima de                   | Freq: 39  -- Grafia similar (95%)
+------------------------------------------------------------
+GRUPO #254
+ [ORIGEM] Nome: Sousa, Nair Heloísa Bicalho de           | Freq: 1
+   |-> Nome: Souza, Nair Heloísa Bicalho de           | Freq: 1  -- Grafia similar (97%)
+------------------------------------------------------------
+GRUPO #255
+ [ORIGEM] Nome: Souza, Joao Carlos Felix                 | Freq: 1
+   |-> Nome: Souza, João Carlos Félix                 | Freq: 18  -- Grafia similar (92%)
+------------------------------------------------------------
+GRUPO #256
+ [ORIGEM] Nome: Souza, Marcela Coelho de                 | Freq: 3
+   |-> Nome: Souza, Marcela S. Coelho de              | Freq: 1  -- Grafia similar (96%)
+------------------------------------------------------------
+GRUPO #257
+ [ORIGEM] Nome: Souza, Marco Antonio Almeida             | Freq: 1
+   |-> Nome: Souza, Marco Antonio Almeida de          | Freq: 20  -- Grafia similar (95%)
+------------------------------------------------------------
+GRUPO #258
+ [ORIGEM] Nome: Souza, Wania Cristina de                 | Freq: 1
+   |-> Nome: Souza, Wânia Cristina de                 | Freq: 38  -- Grafia similar (96%)
+------------------------------------------------------------
+GRUPO #259
+ [ORIGEM] Nome: Suarez, Mireya                           | Freq: 1
+   |-> Nome: Suárez, Mireya                           | Freq: 3  -- Grafia similar (93%)
+------------------------------------------------------------
+GRUPO #260
+ [ORIGEM] Nome: Swain, Tania Navarro                     | Freq: 11
+   |-> Nome: Swain, Tânia Navarro                     | Freq: 2  -- Grafia similar (95%)
+------------------------------------------------------------
+GRUPO #261
+ [ORIGEM] Nome: Teixeira Neto, Antônio Raphael           | Freq: 10
+   |-> Nome: Texeira Neto, Antonio Raphael            | Freq: 1  -- Grafia similar (95%)
+------------------------------------------------------------
+GRUPO #262
+ [ORIGEM] Nome: Teixeira, Naile Dame                     | Freq: 2
+   |-> Nome: Teixeira, Nailê Damé                     | Freq: 6  -- Grafia similar (90%)
+------------------------------------------------------------
+GRUPO #263
+ [ORIGEM] Nome: Thome, Karim Marini                      | Freq: 1
+   |-> Nome: Thomé, Karim Marini                      | Freq: 8  -- Grafia similar (95%)
+------------------------------------------------------------
+GRUPO #264
+ [ORIGEM] Nome: Toni, Laura  Davison Mangilli            | Freq: 1
+   |-> Nome: Toni, Laura Davison Mangilli             | Freq: 8  -- Grafia similar (100%)
+------------------------------------------------------------
+GRUPO #265
+ [ORIGEM] Nome: Treptow, Werner L.                       | Freq: 15
+   |-> Nome: Treptow, Werner Leopoldo                 | Freq: 1  -- Possível abreviação/incompleto
+------------------------------------------------------------
+GRUPO #266
+ [ORIGEM] Nome: Trindade, Antonio Augusto Cançado        | Freq: 3
+   |-> Nome: Trindade, Antônio Augusto Cançado        | Freq: 1  -- Grafia similar (97%)
+------------------------------------------------------------
+GRUPO #267
+ [ORIGEM] Nome: Turbin, Ana Emilia Fajardo               | Freq: 3
+   |-> Nome: Turbin, Ana Emília Fajardo               | Freq: 4  -- Grafia similar (96%)
+------------------------------------------------------------
+GRUPO #268
+ [ORIGEM] Nome: Vasconcelos, Laércia Abreu               | Freq: 33
+   |-> Nome: Vasconcelos, Láercia Abreu               | Freq: 1  -- Grafia similar (92%)
+------------------------------------------------------------
+GRUPO #269
+ [ORIGEM] Nome: Vegas, Carlos Alberto de assis           | Freq: 1
+   |-> Nome: Viegas, Carlos Alberto de Assis          | Freq: 17  -- Grafia similar (98%)
+------------------------------------------------------------
+GRUPO #270
+ [ORIGEM] Nome: Versuti, Andrea                          | Freq: 1
+   |-> Nome: Versuti, Andrea Cristina                 | Freq: 6  -- Possível abreviação/incompleto
+------------------------------------------------------------
+GRUPO #271
+ [ORIGEM] Nome: Victorino, Marcio de Carvalho            | Freq: 9
+   |-> Nome: Victorino, Márcio de Carvalho            | Freq: 1  -- Grafia similar (97%)
+------------------------------------------------------------
+GRUPO #272
+ [ORIGEM] Nome: Viegas, Luis Gustavo Ferreira            | Freq: 2
+   |-> Nome: Viegas, Luís Gustavo Ferreira            | Freq: 2  -- Grafia similar (97%)
+------------------------------------------------------------
+GRUPO #273
+ [ORIGEM] Nome: Vilela, Michelle de Sousa                | Freq: 1
+   |-> Nome: Vilela, Michelle Souza                   | Freq: 3  -- Grafia similar (89%)
+------------------------------------------------------------
+GRUPO #274
+ [ORIGEM] Nome: Villar, José Luiz                        | Freq: 1
+   |-> Nome: Villar, José Luiz M.                     | Freq: 2  -- Grafia similar (94%)
+------------------------------------------------------------
+GRUPO #275
+ [ORIGEM] Nome: Werneck, Guilherme Loureiro              | Freq: 1
+   |-> Nome: Werneck, Guilherme Loureiro              | Freq: 1  -- Grafia similar (100%)
+   |-> Nome: Werneck, Guilherme Loureiro              | Freq: 1  -- Grafia similar (100%)
+------------------------------------------------------------
+GRUPO #276
+ [ORIGEM] Nome: Wiggers, Ingrid Dittrich                 | Freq: 33
+   |-> Nome: Wiggers, Ingrid Dittrich                 | Freq: 33  -- Grafia similar (100%)
+   |-> Nome: Wiggers, Ingrid Dittrich                 | Freq: 33  -- Grafia similar (100%)
+------------------------------------------------------------
+GRUPO #277
+ [ORIGEM] Nome: Wilbert, Marcelo Driemeyer               | Freq: 8
+   |-> Nome: Wilbert, Marcelo Driemeyer               | Freq: 8  -- Grafia similar (100%)
+   |-> Nome: Wilbert, Marcelo Driemeyer               | Freq: 8  -- Grafia similar (100%)
+------------------------------------------------------------
+GRUPO #278
+ [ORIGEM] Nome: Williams, Thomas Christopher Rhys        | Freq: 7
+   |-> Nome: Williams, Thomas Christopher Rhys        | Freq: 7  -- Grafia similar (100%)
+   |-> Nome: Williams, Thomas Christopher Rhys        | Freq: 7  -- Grafia similar (100%)
+------------------------------------------------------------
+GRUPO #279
+ [ORIGEM] Nome: Woortmann, Ellen Fensterseifer           | Freq: 11
+   |-> Nome: Woortmann, Ellen Fensterseifer           | Freq: 11  -- Grafia similar (100%)
+   |-> Nome: Woortmann, Ellen Fensterseifer           | Freq: 11  -- Grafia similar (100%)
+------------------------------------------------------------
+GRUPO #280
+ [ORIGEM] Nome: Woortmann, Klaas                         | Freq: 1
+   |-> Nome: Woortmann, Klaas Axel Anton Wessel       | Freq: 4  -- Possível abreviação/incompleto
+   |-> Nome: Woortmann, Klaas                         | Freq: 1  -- Grafia similar (100%)
+   |-> Nome: Woortmann, Klaas Axel Anton Wessel       | Freq: 4  -- Possível abreviação/incompleto
+   |-> Nome: Woortmann, Klaas                         | Freq: 1  -- Grafia similar (100%)
+   |-> Nome: Woortmann, Klaas Axel Anton Wessel       | Freq: 4  -- Possível abreviação/incompleto
+------------------------------------------------------------
+GRUPO #281
+ [ORIGEM] Nome: Xia, Chang Yu                            | Freq: 5
+   |-> Nome: Xia, Changyu                             | Freq: 1  -- Grafia similar (96%)
+   |-> Nome: Xia, Chang Yu                            | Freq: 5  -- Grafia similar (100%)
+   |-> Nome: Xia, Changyu                             | Freq: 1  -- Grafia similar (96%)
+   |-> Nome: Xia, Chang Yu                            | Freq: 5  -- Grafia similar (100%)
+   |-> Nome: Xia, Changyu                             | Freq: 1  -- Grafia similar (96%)
+------------------------------------------------------------
+GRUPO #282
+ [ORIGEM] Nome: Ximenes Filho, Edvaldo                   | Freq: 1
+   |-> Nome: Ximenes Filho, Edvaldo                   | Freq: 1  -- Grafia similar (100%)
+   |-> Nome: Ximenes Filho, Edvaldo                   | Freq: 1  -- Grafia similar (100%)
+------------------------------------------------------------
+GRUPO #283
+ [ORIGEM] Nome: Ximenes, Fábio Henrique Bezerra          | Freq: 3
+   |-> Nome: Ximenes, Fábio Henrique Bezerra          | Freq: 3  -- Grafia similar (100%)
+   |-> Nome: Ximenes, Fábio Henrique Bezerra          | Freq: 3  -- Grafia similar (100%)
+------------------------------------------------------------
+GRUPO #284
+ [ORIGEM] Nome: Yamanishi, Osvaldo Kiyoshi               | Freq: 12
+   |-> Nome: Yamanishi, Osvaldo Kiyoshi               | Freq: 12  -- Grafia similar (100%)
+   |-> Nome: Yamanishi, Osvaldo Kiyoshi               | Freq: 12  -- Grafia similar (100%)
+------------------------------------------------------------
+GRUPO #285
+ [ORIGEM] Nome: Yamashita, Yaeko                         | Freq: 25
+   |-> Nome: Yamashita, Yaeko                         | Freq: 25  -- Grafia similar (100%)
+   |-> Nome: Yamashita, Yaeko                         | Freq: 25  -- Grafia similar (100%)
+------------------------------------------------------------
+GRUPO #286
+ [ORIGEM] Nome: Yannoulas, Silvia Cristina               | Freq: 23
+   |-> Nome: Yannoulas, Silvia Cristina               | Freq: 23  -- Grafia similar (100%)
+   |-> Nome: Yannoulas, Silvia Cristina               | Freq: 23  -- Grafia similar (100%)
+------------------------------------------------------------
+GRUPO #287
+ [ORIGEM] Nome: Yokoyama, Elder                          | Freq: 7
+   |-> Nome: Yokoyama, Elder                          | Freq: 7  -- Grafia similar (100%)
+   |-> Nome: Yokoyama, Elder                          | Freq: 7  -- Grafia similar (100%)
+------------------------------------------------------------
+GRUPO #288
+ [ORIGEM] Nome: Young, Adrian Nicolas Albala             | Freq: 3
+   |-> Nome: Young, Adrián Nicolas Albala             | Freq: 6  -- Grafia similar (96%)
+   |-> Nome: Young, Adrian Nicolas Albala             | Freq: 3  -- Grafia similar (100%)
+   |-> Nome: Young, Adrián Nicolas Albala             | Freq: 6  -- Grafia similar (96%)
+   |-> Nome: Young, Adrian Nicolas Albala             | Freq: 3  -- Grafia similar (100%)
+   |-> Nome: Young, Adrián Nicolas Albala             | Freq: 6  -- Grafia similar (96%)
+------------------------------------------------------------
+GRUPO #289
+ [ORIGEM] Nome: Zacca, Jorge Jardim                      | Freq: 3
+   |-> Nome: Zacca, Jorge Jardim                      | Freq: 3  -- Grafia similar (100%)
+   |-> Nome: Zacca, Jorge Jardim                      | Freq: 3  -- Grafia similar (100%)
+------------------------------------------------------------
+GRUPO #290
+ [ORIGEM] Nome: Zackseski, Cristina Maria                | Freq: 16
+   |-> Nome: Zackseski, Cristina Maria                | Freq: 16  -- Grafia similar (100%)
+   |-> Nome: Zackseski, Cristina Maria                | Freq: 16  -- Grafia similar (100%)
+------------------------------------------------------------
+GRUPO #291
+ [ORIGEM] Nome: Zaghetto, Alexandre                      | Freq: 6
+   |-> Nome: Zaghetto, Alexandre                      | Freq: 6  -- Grafia similar (100%)
+   |-> Nome: Zaghetto, Alexandre                      | Freq: 6  -- Grafia similar (100%)
+------------------------------------------------------------
+GRUPO #292
+ [ORIGEM] Nome: Zaitune, Maria Paula do Amaral           | Freq: 3
+   |-> Nome: Zaitune, Maria Paula do Amaral           | Freq: 3  -- Grafia similar (100%)
+   |-> Nome: Zaitune, Maria Paula do Amaral           | Freq: 3  -- Grafia similar (100%)
+------------------------------------------------------------
+GRUPO #293
+ [ORIGEM] Nome: Zalesski, Pavel                          | Freq: 9
+   |-> Nome: Zalesski, Pavel                          | Freq: 9  -- Grafia similar (100%)
+   |-> Nome: Zalesski, Pavel                          | Freq: 9  -- Grafia similar (100%)
+------------------------------------------------------------
+GRUPO #294
+ [ORIGEM] Nome: Zamboni, Silvio Perini                   | Freq: 2
+   |-> Nome: Zamboni, Silvio Perini                   | Freq: 2  -- Grafia similar (100%)
+   |-> Nome: Zamboni, Silvio Perini                   | Freq: 2  -- Grafia similar (100%)
+------------------------------------------------------------
+GRUPO #295
+ [ORIGEM] Nome: Zanatta, Rayssa Ferreira                 | Freq: 1
+   |-> Nome: Zanatta, Rayssa Ferreira                 | Freq: 1  -- Grafia similar (100%)
+   |-> Nome: Zanatta, Rayssa Ferreira                 | Freq: 1  -- Grafia similar (100%)
+------------------------------------------------------------
+GRUPO #296
+ [ORIGEM] Nome: Zancul, Mariana de Senzi                 | Freq: 7
+   |-> Nome: Zancul, Mariana de Senzi                 | Freq: 7  -- Grafia similar (100%)
+   |-> Nome: Zancul, Mariana de Senzi                 | Freq: 7  -- Grafia similar (100%)
+------------------------------------------------------------
+GRUPO #297
+ [ORIGEM] Nome: Zandonade, Tarcisio                      | Freq: 2
+   |-> Nome: Zandonade, Tarcisio                      | Freq: 2  -- Grafia similar (100%)
+   |-> Nome: Zandonade, Tarcisio                      | Freq: 2  -- Grafia similar (100%)
+------------------------------------------------------------
+GRUPO #298
+ [ORIGEM] Nome: Zandonadi, Renata Puppin                 | Freq: 15
+   |-> Nome: Zandonadi, Renata Puppin                 | Freq: 15  -- Grafia similar (100%)
+   |-> Nome: Zandonadi, Renata Puppin                 | Freq: 15  -- Grafia similar (100%)
+------------------------------------------------------------
+GRUPO #299
+ [ORIGEM] Nome: Zaneti, Izabel Cristina Bruno Bacellar   | Freq: 28
+   |-> Nome: Zaneti, Izabel Cristina Bruno Bacellar   | Freq: 28  -- Grafia similar (100%)
+   |-> Nome: Zaneti, Izabel Cristina Bruno Bacellar   | Freq: 28  -- Grafia similar (100%)
+------------------------------------------------------------
+GRUPO #300
+ [ORIGEM] Nome: Zaneti, Tainá Bacellar                   | Freq: 2
+   |-> Nome: Zaneti, Tainá Bacellar                   | Freq: 2  -- Grafia similar (100%)
+   |-> Nome: Zaneti, Tainá Bacellar                   | Freq: 2  -- Grafia similar (100%)
+------------------------------------------------------------
+GRUPO #301
+ [ORIGEM] Nome: Zannon, Célia Maria Lana da Costa        | Freq: 3
+   |-> Nome: Zannon, Célia Maria Lana da Costa        | Freq: 3  -- Grafia similar (100%)
+   |-> Nome: Zannon, Célia Maria Lana da Costa        | Freq: 3  -- Grafia similar (100%)
+------------------------------------------------------------
+GRUPO #302
+ [ORIGEM] Nome: Zanoni, Vanda Alice Garcia               | Freq: 8
+   |-> Nome: Zanoni, Vanda Alice Garcia               | Freq: 8  -- Grafia similar (100%)
+   |-> Nome: Zanoni, Vanda Alice Garcia               | Freq: 8  -- Grafia similar (100%)
+------------------------------------------------------------
+GRUPO #303
+ [ORIGEM] Nome: Zapata, Clovis                           | Freq: 3
+   |-> Nome: Zapata, Clovis                           | Freq: 3  -- Grafia similar (100%)
+   |-> Nome: Zapata, Clovis                           | Freq: 3  -- Grafia similar (100%)
+------------------------------------------------------------
+GRUPO #304
+ [ORIGEM] Nome: Zapata, Flávia Ferreira Ramos            | Freq: 1
+   |-> Nome: Zapata, Flávia Ferreira Ramos            | Freq: 1  -- Grafia similar (100%)
+   |-> Nome: Zapata, Flávia Ferreira Ramos            | Freq: 1  -- Grafia similar (100%)
+------------------------------------------------------------
+GRUPO #305
+ [ORIGEM] Nome: Zapata, Julie Schmied                    | Freq: 2
+   |-> Nome: Zapata, Julie Schmied                    | Freq: 2  -- Grafia similar (100%)
+   |-> Nome: Zapata, Julie Schmied                    | Freq: 2  -- Grafia similar (100%)
+------------------------------------------------------------
+GRUPO #306
+ [ORIGEM] Nome: Zapata, Theo Allan Darn                  | Freq: 5
+   |-> Nome: Zapata, Theo Allan Darn                  | Freq: 5  -- Grafia similar (100%)
+   |-> Nome: Zapata, Theo Allan Darn                  | Freq: 5  -- Grafia similar (100%)
+------------------------------------------------------------
+GRUPO #307
+ [ORIGEM] Nome: Zara, Luiz Fabricio                      | Freq: 2
+   |-> Nome: Zara, Luiz Fabrício                      | Freq: 8  -- Grafia similar (95%)
+   |-> Nome: Zara, Luiz Fabricio                      | Freq: 2  -- Grafia similar (100%)
+   |-> Nome: Zara, Luiz Fabrício                      | Freq: 8  -- Grafia similar (95%)
+   |-> Nome: Zara, Luiz Fabricio                      | Freq: 2  -- Grafia similar (100%)
+   |-> Nome: Zara, Luiz Fabrício                      | Freq: 8  -- Grafia similar (95%)
+------------------------------------------------------------
+GRUPO #308
+ [ORIGEM] Nome: Zardo, Sinara Pollom                     | Freq: 14
+   |-> Nome: Zardo, Sinara Pollom                     | Freq: 14  -- Grafia similar (100%)
+   |-> Nome: Zardo, Sinara Pollom                     | Freq: 14  -- Grafia similar (100%)
+------------------------------------------------------------
+GRUPO #309
+ [ORIGEM] Nome: Zelenovsky, Ricardo                      | Freq: 9
+   |-> Nome: Zelenovsky, Ricardo                      | Freq: 9  -- Grafia similar (100%)
+   |-> Nome: Zelenovsky, Ricardo                      | Freq: 9  -- Grafia similar (100%)
+------------------------------------------------------------
+GRUPO #310
+ [ORIGEM] Nome: Zenni, Rafael Dudeque                    | Freq: 1
+   |-> Nome: Zenni, Rafael Dudeque                    | Freq: 1  -- Grafia similar (100%)
+   |-> Nome: Zenni, Rafael Dudeque                    | Freq: 1  -- Grafia similar (100%)
+------------------------------------------------------------
+GRUPO #311
+ [ORIGEM] Nome: Zeredo, Jorge Luís Lopes                 | Freq: 14
+   |-> Nome: Zeredo, Jorge Luís Lopes                 | Freq: 14  -- Grafia similar (100%)
+   |-> Nome: Zeredo, Jorge Luís Lopes                 | Freq: 14  -- Grafia similar (100%)
+------------------------------------------------------------
+GRUPO #312
+ [ORIGEM] Nome: Zetel, Jayme                             | Freq: 1
+   |-> Nome: Zetel, Jayme                             | Freq: 1  -- Grafia similar (100%)
+   |-> Nome: Zetel, Jayme                             | Freq: 1  -- Grafia similar (100%)
+------------------------------------------------------------
+GRUPO #313
+ [ORIGEM] Nome: Zhou, Jiazheng                           | Freq: 3
+   |-> Nome: Zhou, Jiazheng                           | Freq: 3  -- Grafia similar (100%)
+   |-> Nome: Zhou, Jiazheng                           | Freq: 3  -- Grafia similar (100%)
+------------------------------------------------------------
+GRUPO #314
+ [ORIGEM] Nome: Ziani Suarez, Paulo Anselmo              | Freq: 6
+   |-> Nome: Ziani Suarez, Paulo Anselmo              | Freq: 6  -- Grafia similar (100%)
+   |-> Nome: Ziani Suarez, Paulo Anselmo              | Freq: 6  -- Grafia similar (100%)
+------------------------------------------------------------
+GRUPO #315
+ [ORIGEM] Nome: Zimmermann, Erika                        | Freq: 9
+   |-> Nome: Zimmermann, Erika                        | Freq: 9  -- Grafia similar (100%)
+   |-> Nome: Zimmermann, Erika                        | Freq: 9  -- Grafia similar (100%)
+------------------------------------------------------------
+GRUPO #316
+ [ORIGEM] Nome: Zimmermann, Ivan Ricardo                 | Freq: 6
+   |-> Nome: Zimmermann, Ivan Ricardo                 | Freq: 6  -- Grafia similar (100%)
+   |-> Nome: Zimmermann, Ivan Ricardo                 | Freq: 6  -- Grafia similar (100%)
+------------------------------------------------------------
+GRUPO #317
+ [ORIGEM] Nome: Zoghbi, Ana Carolina Pereira             | Freq: 25
+   |-> Nome: Zoghbi, Ana Carolina Pereira             | Freq: 25  -- Grafia similar (100%)
+   |-> Nome: Zoghbi, Ana Carolina Pereira             | Freq: 25  -- Grafia similar (100%)
+------------------------------------------------------------
+GRUPO #318
+ [ORIGEM] Nome: Zörnig, Peter                            | Freq: 1
+   |-> Nome: Zörnig, Peter                            | Freq: 1  -- Grafia similar (100%)
+   |-> Nome: Zörnig, Peter                            | Freq: 1  -- Grafia similar (100%)
+------------------------------------------------------------
+GRUPO #319
+ [ORIGEM] Nome: Zuliani, Juliana Pavan                   | Freq: 1
+   |-> Nome: Zuliani, Juliana Pavan                   | Freq: 1  -- Grafia similar (100%)
+   |-> Nome: Zuliani, Juliana Pavan                   | Freq: 1  -- Grafia similar (100%)
+------------------------------------------------------------
+GRUPO #320
+ [ORIGEM] Nome: Zuquim, Judith                           | Freq: 3
+   |-> Nome: Zuquim, Judith                           | Freq: 3  -- Grafia similar (100%)
+   |-> Nome: Zuquim, Judith                           | Freq: 3  -- Grafia similar (100%)
+------------------------------------------------------------
