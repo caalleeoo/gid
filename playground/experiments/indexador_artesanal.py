@@ -62,6 +62,13 @@ class IndexadorArtesanal:
 
     def analisar_profundidade(self):
         print("🧠 [Fase 2] Análise Estrita (Grafia e Plurais)")
+# --- 1. CLÁUSULA DE GUARDA (Segurança) ---
+        # Se a madeira não estiver na bancada, não começamos a trabalhar.
+        if self.df_reduzido is None or self.df_reduzido.empty:
+            print("⚠️ Aviso: 'df_reduzido' está vazio ou não foi carregado. Operação cancelada.")
+            return
+
+        # --- 2. O CÓDIGO ORIGINAL (Agora Seguro) ---
         print("   ↳ Usando algoritmo 'Ratio' (considera o termo como um todo)")
         
         # Lista de termos para processar
@@ -77,7 +84,7 @@ class IndexadorArtesanal:
             self.df_reduzido.Frequencia.values, 
             index=self.df_reduzido.Chave_Busca
         ).to_dict()
-        
+                
         ja_agrupados = set()
         total = len(termos_processar)
         
