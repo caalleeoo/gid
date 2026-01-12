@@ -3,6 +3,7 @@ from rapidfuzz import process, fuzz
 from unidecode import unidecode
 import time
 import sys
+import os
 
 class IndexadorArtesanal:
     def __init__(self, caminho_arquivo, threshold=80):
@@ -131,13 +132,27 @@ class IndexadorArtesanal:
         # Usamos ; como separador no output para abrir fácil no Excel BR
         df_final.to_csv(nome, index=False, sep=';', encoding='utf-8-sig')
         print(f"✓ Salvo em: {nome}")
-
+        
 if __name__ == "__main__":
-    # Configure aqui
-    ARQUIVO = 'assuntos.csv' 
-    SENSIBILIDADE = 80    
+    # --- CONFIGURAÇÃO AUTOMÁTICA ---
     
-    app = IndexadorArtesanal(ARQUIVO, threshold=SENSIBILIDADE)
-    app.carregar_e_agrupar()
-    app.analisar_profundidade()
-    app.salvar()
+    # 1. Descobre onde este script (o arquivo .py) está guardado no disco
+    pasta_do_script = os.path.dirname(os.path.abspath(__file__))
+    
+    # 2. Monta o caminho completo para o CSV (independente de onde o terminal esteja)
+    # Ele vai procurar 'assuntos.csv' na MESMA pasta do script
+    ARQUIVO = os.path.join(pasta_do_script, 'assuntos.csv')
+    
+    SENSIBILIDADE = 80
+    # -------------------------------
+
+    print(f"Buscando arquivo em: {ARQUIVO}") # Debug para você ver funcionando
+    
+    if os.path.exists(ARQUIVO):
+        app = IndexadorArtesanal(ARQUIVO, threshold=SENSIBILIDADE)
+        app.carregar_e_agrupar()
+        app.analisar_profundidade()
+        app.salvar()
+    else:
+        print(f"ERRO: O arquivo 'assuntos.csv' não foi encontrado na pasta: {pasta_do_script}")
+        print("Certifique-se que o CSV está colado ao lado do arquivo Python.")
