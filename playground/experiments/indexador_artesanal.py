@@ -4,155 +4,193 @@ from unidecode import unidecode
 import time
 import sys
 import os
+from datetime import datetime
 
 class IndexadorArtesanal:
-    def __init__(self, caminho_arquivo, threshold=80):
+    def __init__(self, caminho_arquivo, output_dir, threshold=85): # Aumentei levemente o threshold padrão
         self.caminho_arquivo = caminho_arquivo
+        self.output_dir = output_dir
         self.threshold = threshold
         self.df_reduzido = None
         self.relatorio = []
         self.inicio = time.time()
 
     def normalizar(self, texto):
-        """Impressão digital do termo."""
+        """
+        Normalização leve: apenas minúsculas e strip.
+        NÃO removemos acentos aqui para a visualização final, 
+        mas usaremos unidecode na comparação interna se necessário.
+        """
         if not isinstance(texto, str):
             return str(texto)
-        return unidecode(texto.lower().strip())
+        return texto.lower().strip()
 
     def carregar_e_agrupar(self):
-        print("--- Fase 1: Carregamento Inteligente ---")
+        print(f"📂 [Fase 1] Carregamento Inteligente: {os.path.basename(self.caminho_arquivo)}")
         try:
-            # CORREÇÃO 1: engine='python' e sep=None permite detectar se é ; ou , automaticamente
             df_bruto = pd.read_csv(
                 self.caminho_arquivo, 
                 header=None, 
                 sep=None, 
                 engine='python',
                 names=['Termo_Original', 'Frequencia_Raw'],
-                dtype={0: str} # Lê a primeira coluna como texto sempre
+                dtype={0: str}
             )
             
-            # CORREÇÃO 2: Tratamento robusto de números. Se não for número, vira 0.
+            # Limpeza básica
             df_bruto['Frequencia'] = pd.to_numeric(df_bruto['Frequencia_Raw'], errors='coerce').fillna(0)
             df_bruto['Termo_Original'] = df_bruto['Termo_Original'].fillna('')
+            
+            # Criamos uma chave normalizada para agrupar idênticos exatos primeiro (ex: "Casa " e "casa")
+            df_bruto['Chave_Busca'] = df_bruto['Termo_Original'].apply(self.normalizar)
 
-            print(f"✓ Leitura inicial: {len(df_bruto)} linhas.")
-
-            # Normalização
-            df_bruto['Termo_Normalizado'] = df_bruto['Termo_Original'].apply(self.normalizar)
-
-            # Agrupamento (Peneira Grossa)
-            self.df_reduzido = df_bruto.groupby('Termo_Normalizado').agg({
-                'Termo_Original': 'first', 
+            # Agrupamento inicial (Otimização)
+            self.df_reduzido = df_bruto.groupby('Chave_Busca').agg({
+                'Termo_Original': 'first', # Mantém a grafia original visualmente
                 'Frequencia': 'sum'
             }).reset_index()
+            
+            # Ordena por frequência (termos mais comuns costumam ser os "corretos")
+            self.df_reduzido = self.df_reduzido.sort_values(by='Frequencia', ascending=False)
 
-            print(f"✓ Termos únicos após normalização: {len(self.df_reduzido)}\n")
+            print(f"   ↳ Termos únicos para análise: {len(self.df_reduzido)}")
+            print("-" * 50)
 
         except Exception as e:
-            print(f"✗ Erro crítico ao ler arquivo: {e}")
+            print(f"❌ Erro crítico ao ler arquivo: {e}")
             sys.exit(1)
 
     def analisar_profundidade(self):
-        print("--- Fase 2: Análise Profunda (Fuzzy Logic) ---")
+        print("🧠 [Fase 2] Análise Estrita (Grafia e Plurais)")
+        print("   ↳ Usando algoritmo 'Ratio' (considera o termo como um todo)")
         
-        termos_unicos = self.df_reduzido['Termo_Normalizado'].tolist()
+        # Lista de termos para processar
+        termos_processar = self.df_reduzido['Chave_Busca'].tolist()
         
-        # CORREÇÃO 3 (CRÍTICA): Criar mapas de busca rápida (Dicionários)
-        # Isso evita usar .loc dentro do loop, acelerando o processo em 100x
+        # Mapas para recuperação rápida de dados originais
         mapa_original = pd.Series(
             self.df_reduzido.Termo_Original.values, 
-            index=self.df_reduzido.Termo_Normalizado
+            index=self.df_reduzido.Chave_Busca
         ).to_dict()
         
         mapa_frequencia = pd.Series(
             self.df_reduzido.Frequencia.values, 
-            index=self.df_reduzido.Termo_Normalizado
+            index=self.df_reduzido.Chave_Busca
         ).to_dict()
         
-        ja_processados = set()
-        total = len(termos_unicos)
+        ja_agrupados = set()
+        total = len(termos_processar)
         
-        print("Iniciando varredura... (Isso usa muito processador)")
-        
-        for i, termo_foco in enumerate(termos_unicos):
+        # Vamos iterar. Como a lista está ordenada por frequência, 
+        # assumimos que o primeiro que aparece é o "pai" (o termo correto/mais comum).
+        for i, termo_pai in enumerate(termos_processar):
+            
             if i % 100 == 0:
-                print(f"Progresso: {i}/{total} ({(i/total)*100:.1f}%)", end='\r')
+                percentual = (i / total) * 100
+                sys.stdout.write(f"\r   ⏳ Progresso: {percentual:.1f}% ({i}/{total})")
+                sys.stdout.flush()
 
-            if termo_foco in ja_processados:
+            if termo_pai in ja_agrupados:
                 continue
-
+            
+            # --- MUDANÇA CRUCIAL AQUI ---
+            # fuzz.ratio: Compara a string inteira. 
+            # "Banana" vs "Bananas" = Alto
+            # "Banana" vs "Banana Prata" = Baixo (diferença de tamanho penaliza)
             matches = process.extract(
-                termo_foco, 
-                termos_unicos, 
-                scorer=fuzz.token_set_ratio, 
+                termo_pai, 
+                termos_processar, 
+                scorer=fuzz.ratio,  # <--- O SEGREDO ESTÁ AQUI
                 score_cutoff=self.threshold,
-                limit=30
+                limit=50
             )
 
+            variacoes_encontradas = []
+            freq_acumulada = 0
+            
+            # O primeiro match é sempre ele mesmo (score 100), então verificamos se há outros
             if len(matches) > 1:
-                grupo_duplicatas = []
-                freq_total = 0
                 
                 for match in matches:
-                    termo_enc = match[0] # termo normalizado
+                    termo_filho = match[0]
                     score = match[1]
                     
-                    # CORREÇÃO 3 (Uso): Busca instantânea no dicionário
-                    nome_real = mapa_original.get(termo_enc, "Erro")
-                    freq_real = mapa_frequencia.get(termo_enc, 0)
+                    # Ignora se já foi agrupado antes (a menos que seja o próprio pai desta rodada)
+                    if termo_filho in ja_agrupados and termo_filho != termo_pai:
+                        continue
+                        
+                    nome_display = mapa_original.get(termo_filho, termo_filho)
+                    freq = mapa_frequencia.get(termo_filho, 0)
                     
-                    grupo_duplicatas.append(f"{nome_real} ({score:.0f}%)")
-                    freq_total += freq_real
-                    
-                    ja_processados.add(termo_enc)
-
-                self.relatorio.append({
-                    'Termo Principal': mapa_original[termo_foco],
-                    'Possíveis Duplicatas': " | ".join(grupo_duplicatas),
-                    'Total Variações': len(grupo_duplicatas),
-                    'Frequência Somada': int(freq_total)
-                })
-            else:
-                ja_processados.add(termo_foco)
+                    # Formata a saída para você ver claramente a diferença
+                    if termo_filho == termo_pai:
+                        # O termo principal
+                        freq_acumulada += freq
+                        ja_agrupados.add(termo_pai)
+                    else:
+                        # As variações (filhos)
+                        variacoes_encontradas.append(f"{nome_display} [Score: {score:.0f}]")
+                        freq_acumulada += freq
+                        ja_agrupados.add(termo_filho)
+                
+                # Só adiciona ao relatório se encontrou FILHOS (variações reais)
+                if variacoes_encontradas:
+                    self.relatorio.append({
+                        'Termo Sugerido (Mais Comum)': mapa_original[termo_pai],
+                        'Variações Detectadas (Duplicatas)': " | ".join(variacoes_encontradas),
+                        'Qtd Variações': len(variacoes_encontradas),
+                        'Frequência Total': int(freq_acumulada)
+                    })
 
         tempo = (time.time() - self.inicio) / 60
-        print(f"\n\n✓ Análise concluída em {tempo:.2f} minutos.")
-        print(f"✓ {len(self.relatorio)} grupos encontrados.")
+        print(f"\n\n✅ Análise concluída em {tempo:.2f} minutos.")
+        print(f"📊 {len(self.relatorio)} grupos de correções encontrados.")
 
     def salvar(self):
         if not self.relatorio:
-            print("Nenhum padrão encontrado.")
+            print("✨ Nenhuma duplicata encontrada com esses parâmetros.")
             return
 
         df_final = pd.DataFrame(self.relatorio)
-        df_final = df_final.sort_values(by='Total Variações', ascending=False)
+        # Ordena para mostrar os casos com mais variações primeiro (onde está a maior sujeira)
+        df_final = df_final.sort_values(by='Qtd Variações', ascending=False)
         
-        nome = 'relatorio_final.csv'
-        # Usamos ; como separador no output para abrir fácil no Excel BR
-        df_final.to_csv(nome, index=False, sep=';', encoding='utf-8-sig')
-        print(f"✓ Salvo em: {nome}")
+        timestamp = datetime.now().strftime("%Y%m%d_%H%M")
+        nome_arquivo = f"relatorio_correcao_fina_{timestamp}.csv"
+        caminho_completo = os.path.join(self.output_dir, nome_arquivo)
         
-if __name__ == "__main__":
-    # --- CONFIGURAÇÃO AUTOMÁTICA ---
-    
-    # 1. Descobre onde este script (o arquivo .py) está guardado no disco
-    pasta_do_script = os.path.dirname(os.path.abspath(__file__))
-    
-    # 2. Monta o caminho completo para o CSV (independente de onde o terminal esteja)
-    # Ele vai procurar 'assuntos.csv' na MESMA pasta do script
-    ARQUIVO = os.path.join(pasta_do_script, 'assuntos.csv')
-    
-    SENSIBILIDADE = 80
-    # -------------------------------
+        df_final.to_csv(caminho_completo, index=False, sep=';', encoding='utf-8-sig')
+        print(f"💾 Relatório salvo em: {caminho_completo}")
 
-    print(f"Buscando arquivo em: {ARQUIVO}") # Debug para você ver funcionando
+if __name__ == "__main__":
+    # --- CONFIGURAÇÃO ---
+    dir_script = os.path.dirname(os.path.abspath(__file__))
+    dir_raiz = os.path.abspath(os.path.join(dir_script, '..', '..'))
     
-    if os.path.exists(ARQUIVO):
-        app = IndexadorArtesanal(ARQUIVO, threshold=SENSIBILIDADE)
+    # 1. Ajuste o nome do arquivo aqui
+    NOME_ARQUIVO_ALVO = 'assuntos.csv' 
+    
+    # Busca automática
+    caminho_input = os.path.join(dir_raiz, 'data', 'temp', NOME_ARQUIVO_ALVO)
+    if not os.path.exists(caminho_input):
+         caminho_input = os.path.join(dir_raiz, 'data', 'raw', NOME_ARQUIVO_ALVO)
+
+    dir_output = os.path.join(dir_raiz, 'data', 'processed')
+    os.makedirs(dir_output, exist_ok=True)
+    
+    # 2. Sensibilidade (Sugestão: 85 ou 88 para pegar apenas typos e plurais)
+    # Se colocar 95 pega apenas typos muito óbvios.
+    # Se colocar 70 começa a pegar coisas erradas.
+    SENSIBILIDADE = 88 
+    
+    print("="*60)
+    print(f"🔍 DETETIVE DE GRAFIA E PLURAIS - UnB")
+    print("="*60)
+    
+    if os.path.exists(caminho_input):
+        app = IndexadorArtesanal(caminho_input, dir_output, threshold=SENSIBILIDADE)
         app.carregar_e_agrupar()
         app.analisar_profundidade()
         app.salvar()
     else:
-        print(f"ERRO: O arquivo 'assuntos.csv' não foi encontrado na pasta: {pasta_do_script}")
-        print("Certifique-se que o CSV está colado ao lado do arquivo Python.")
+        print(f"❌ ARQUIVO NÃO ENCONTRADO: {NOME_ARQUIVO_ALVO}")
