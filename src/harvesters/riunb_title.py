@@ -4,7 +4,7 @@ import csv
 import json
 import time
 from datetime import datetime
-from requests.adapters import HTTPAdapter
+from  import HTTPAdapter
 from urllib3.util.retry import Retry
 import os
 
