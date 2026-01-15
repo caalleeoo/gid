@@ -5,15 +5,15 @@ Total de registros analisados: 3979
 Grupos de conflito encontrados: 320
 
 GRUPO #1
- [ORIGEM] Nome: Almeida, Inês Maria Marques Zanforlin Pires de | Freq: 44
+ [ORIGEM] Nome: Almeida, Inês Maria Marques Zanforlin Pires de | Freq: 44 OK
    |-> Nome: Almeida, Maria Marques Zanforlin Pires de | Freq: 1  -- Grafia similar (94%)
 ------------------------------------------------------------
 GRUPO #2
- [ORIGEM] Nome: Alves, Janaína Soares                    | Freq: 2
+ [ORIGEM] Nome: Alves, Janaína Soares                    | Freq: 2 OK
    |-> Nome: Alves, Janaína Soares de Oliveira        | Freq: 3  -- Possível abreviação/incompleto
 ------------------------------------------------------------
 GRUPO #3
- [ORIGEM] Nome: Araújo Sobrinho, Fernando Luiz           | Freq: 40
+ [ORIGEM] Nome: Araújo Sobrinho, Fernando Luiz           | Freq: 40 OK
    |-> Nome: Araújo Sobrinho, Fernando Luíz           | Freq: 3  -- Grafia similar (97%)
 ------------------------------------------------------------
 GRUPO #4
@@ -21,7 +21,7 @@ GRUPO #4
    |-> Nome: Araújo, Ricardo Silva Azevedo            | Freq: 10  -- Possível abreviação/incompleto
 ------------------------------------------------------------
 GRUPO #5
- [ORIGEM] Nome: Assis, André Pacheco de                  | Freq: 55
+ [ORIGEM] Nome: Assis, André Pacheco de                  | Freq: 55 OK
    |-> Nome: Assis, André Pacho de                    | Freq: 1  -- Grafia similar (95%)
 ------------------------------------------------------------
 GRUPO #6
@@ -29,19 +29,19 @@ GRUPO #6
    |-> Nome: Athayde, Pedro Fernando Avalone de       | Freq: 5  -- Grafia similar (95%)
 ------------------------------------------------------------
 GRUPO #7
- [ORIGEM] Nome: Avila, Suzana Moreira                    | Freq: 13
+ [ORIGEM] Nome: Avila, Suzana Moreira                    | Freq: 13 OK
    |-> Nome: Àvila, Suzana Moreira                    | Freq: 1  -- Grafia similar (95%)
 ------------------------------------------------------------
 GRUPO #8
- [ORIGEM] Nome: Bandeira, Lourdes                        | Freq: 1
+ [ORIGEM] Nome: Bandeira, Lourdes                        | Freq: 1 OK
    |-> Nome: Bandeira, Lourdes Maria                  | Freq: 32  -- Possível abreviação/incompleto
 ------------------------------------------------------------
 GRUPO #9
- [ORIGEM] Nome: Barreto Filho, Henyo Trindade            | Freq: 3
+ [ORIGEM] Nome: Barreto Filho, Henyo Trindade            | Freq: 3 OK
    |-> Nome: Barretto Filho, Henyo Trindade           | Freq: 20  -- Grafia similar (98%)
 ------------------------------------------------------------
 GRUPO #10
- [ORIGEM] Nome: Barreto, Livia Cristina Lira de Sá       | Freq: 8
+ [ORIGEM] Nome: Barreto, Livia Cristina Lira de Sá       | Freq: 8 OK
    |-> Nome: Sá Barreto, Livia Cristina Lira de       | Freq: 1  -- Grafia similar (91%)
 ------------------------------------------------------------
 GRUPO #11
@@ -49,35 +49,35 @@ GRUPO #11
    |-> Nome: Barros, Ana Flávia Granja e              | Freq: 6  -- Possível abreviação/incompleto
 ------------------------------------------------------------
 GRUPO #12
- [ORIGEM] Nome: Barroso, Eloisa Pereira                  | Freq: 27
+ [ORIGEM] Nome: Barroso, Eloisa Pereira                  | Freq: 27 OK
    |-> Nome: Barroso, Eloísa Pereira                  | Freq: 1  -- Grafia similar (96%)
 ------------------------------------------------------------
 GRUPO #13
- [ORIGEM] Nome: Becard, Danielly Silva Ramos             | Freq: 5
+ [ORIGEM] Nome: Becard, Danielly Silva Ramos             | Freq: 5 OK
    |-> Nome: Bécard, Danielly Silva Ramos             | Freq: 5  -- Grafia similar (96%)
 ------------------------------------------------------------
 GRUPO #14
- [ORIGEM] Nome: Bensusan, Hilan                          | Freq: 14
+ [ORIGEM] Nome: Bensusan, Hilan                          | Freq: 14 OK
    |-> Nome: Bensusan, Hilan Nissior                  | Freq: 9  -- Possível abreviação/incompleto
 ------------------------------------------------------------
 GRUPO #15
- [ORIGEM] Nome: Bezerra, Juscelino Eudamidas             | Freq: 1
+ [ORIGEM] Nome: Bezerra, Juscelino Eudamidas             | Freq: 1 OK
    |-> Nome: Bezerra, Juscelino Eudâmidas             | Freq: 9  -- Grafia similar (96%)
 ------------------------------------------------------------
 GRUPO #16
- [ORIGEM] Nome: Bianco, Nelia Rodrigues Del              | Freq: 3
+ [ORIGEM] Nome: Bianco, Nelia Rodrigues Del              | Freq: 3 OK
    |-> Nome: Bianco, Nelia Rodrigues del              | Freq: 1  -- Grafia similar (100%)
 ------------------------------------------------------------
 GRUPO #17
- [ORIGEM] Nome: BIum, Luiz Eduardo Bassay                | Freq: 1
+ [ORIGEM] Nome: BIum, Luiz Eduardo Bassay                | Freq: 1 OK
    |-> Nome: Blum, Luiz Eduardo Bassay                | Freq: 34  -- Grafia similar (96%)
 ------------------------------------------------------------
 GRUPO #18
- [ORIGEM] Nome: Borges, Fabricia Teixeira                | Freq: 11
+ [ORIGEM] Nome: Borges, Fabricia Teixeira                | Freq: 11 OK
    |-> Nome: Borges, Fabrícia Teixeira                | Freq: 5  -- Grafia similar (96%)
 ------------------------------------------------------------
 GRUPO #19
- [ORIGEM] Nome: Botelho, Ducineli Regis                  | Freq: 2
+ [ORIGEM] Nome: Botelho, Ducineli Regis                  | Freq: 2 OK
    |-> Nome: Botelho, Ducineli Régis                  | Freq: 2  -- Grafia similar (96%)
 ------------------------------------------------------------
 GRUPO #20
@@ -89,55 +89,55 @@ GRUPO #21
    |-> Nome: Branco, Angela Maria Cristina Uchôa de Abreu | Freq: 23  -- Grafia similar (98%)
 ------------------------------------------------------------
 GRUPO #22
- [ORIGEM] Nome: Brandão, Cristina Celia Silveira         | Freq: 2
+ [ORIGEM] Nome: Brandão, Cristina Celia Silveira         | Freq: 2 OK
    |-> Nome: Brandão, Cristina Célia Silveira         | Freq: 25  -- Grafia similar (97%)
 ------------------------------------------------------------
 GRUPO #23
- [ORIGEM] Nome: Brasil Junior, Antônio Cesar Pinho       | Freq: 2
+ [ORIGEM] Nome: Brasil Junior, Antônio Cesar Pinho       | Freq: 2 OK
    |-> Nome: Brasil Júnior, Antônio César Pinho       | Freq: 30  -- Grafia similar (94%)
 ------------------------------------------------------------
 GRUPO #24
- [ORIGEM] Nome: Brasil, Katia Cristina Tarouquella Rodrigues | Freq: 3
+ [ORIGEM] Nome: Brasil, Katia Cristina Tarouquella Rodrigues | Freq: 3 OK
    |-> Nome: Brasil, Katia Tarouquella Rodrigues      | Freq: 1  -- Grafia similar (89%)
 ------------------------------------------------------------
 GRUPO #25
- [ORIGEM] Nome: Brasil, Mario Lima                       | Freq: 1
+ [ORIGEM] Nome: Brasil, Mario Lima                       | Freq: 1 ok
    |-> Nome: Brasil, Mário Lima                       | Freq: 2  -- Grafia similar (94%)
 ------------------------------------------------------------
 GRUPO #26
- [ORIGEM] Nome: Bulow, Marisa Von                        | Freq: 2
+ [ORIGEM] Nome: Bulow, Marisa Von                        | Freq: 2 OK
    |-> Nome: Bulow, Marisa von                        | Freq: 1  -- Grafia similar (100%)
 ------------------------------------------------------------
 GRUPO #27
- [ORIGEM] Nome: Caldas, Eloisa Dutra                     | Freq: 5
+ [ORIGEM] Nome: Caldas, Eloisa Dutra                     | Freq: 5 OK
    |-> Nome: Caldas, Eloísa Dutra                     | Freq: 31  -- Grafia similar (95%)
 ------------------------------------------------------------
 GRUPO #28
- [ORIGEM] Nome: Camara, Rogerio José                     | Freq: 11
+ [ORIGEM] Nome: Camara, Rogerio José                     | Freq: 11 OK
    |-> Nome: Câmara, Rogério José                     | Freq: 2  -- Grafia similar (90%)
 ------------------------------------------------------------
 GRUPO #29
- [ORIGEM] Nome: Camargos, Einstein Francisco             | Freq: 1
+ [ORIGEM] Nome: Camargos, Einstein Francisco             | Freq: 1 OK
    |-> Nome: Camargos, Einstein Francisco de          | Freq: 8  -- Grafia similar (95%)
 ------------------------------------------------------------
 GRUPO #30
- [ORIGEM] Nome: Campos, Élida Geralda                    | Freq: 9
+ [ORIGEM] Nome: Campos, Élida Geralda                    | Freq: 9 ok
    |-> Nome: Campos, Élida Geraldo                    | Freq: 1  -- Grafia similar (95%)
 ------------------------------------------------------------
 GRUPO #31
- [ORIGEM] Nome: Campos, Eloi Guimarães                   | Freq: 1
+ [ORIGEM] Nome: Campos, Eloi Guimarães                   | Freq: 1 ok
    |-> Nome: Campos, José Eloi Guimarães              | Freq: 52  -- Grafia similar (90%)
 ------------------------------------------------------------
 GRUPO #32
- [ORIGEM] Nome: Campos, Neio Lúcio De Oliveira           | Freq: 1
+ [ORIGEM] Nome: Campos, Neio Lúcio De Oliveira           | Freq: 1 OK
    |-> Nome: Campos, Neio Lúcio de Oliveira           | Freq: 32  -- Grafia similar (100%)
 ------------------------------------------------------------
 GRUPO #33
- [ORIGEM] Nome: Campos, Tatiana Amabile de               | Freq: 4
+ [ORIGEM] Nome: Campos, Tatiana Amabile de               | Freq: 4 OK
    |-> Nome: Campos, Tatiana Amabilis de              | Freq: 3  -- Grafia similar (94%)
 ------------------------------------------------------------
 GRUPO #34
- [ORIGEM] Nome: Cancelli, Elisabeth                      | Freq: 1
+ [ORIGEM] Nome: Cancelli, Elisabeth                      | Freq: 1 OK
    |-> Nome: Cancelli, Elizabeth                      | Freq: 4  -- Grafia similar (95%)
 ------------------------------------------------------------
 GRUPO #35
@@ -145,11 +145,11 @@ GRUPO #35
    |-> Nome: Carvalho, Mario Olavo Magno de           | Freq: 5  -- Grafia similar (90%)
 ------------------------------------------------------------
 GRUPO #36
- [ORIGEM] Nome: Carvalho, Juliana Lott De                | Freq: 1
+ [ORIGEM] Nome: Carvalho, Juliana Lott De                | Freq: 1 OK
    |-> Nome: Carvalho, Juliana Lott de                | Freq: 1  -- Grafia similar (100%)
 ------------------------------------------------------------
 GRUPO #37
- [ORIGEM] Nome: Carvalho, Marcelo Menezes                | Freq: 1
+ [ORIGEM] Nome: Carvalho, Marcelo Menezes                | Freq: 1 OK
    |-> Nome: Carvalho, Marcelo Menezes de             | Freq: 9  -- Grafia similar (94%)
 ------------------------------------------------------------
 GRUPO #38
@@ -157,17 +157,17 @@ GRUPO #38
    |-> Nome: Carvalho, Olgamir Francisco de           | Freq: 28  -- Grafia similar (100%)
 ------------------------------------------------------------
 GRUPO #39
- [ORIGEM] Nome: Carvalho, Sonia Marise Salles            | Freq: 2
+ [ORIGEM] Nome: Carvalho, Sonia Marise Salles            | Freq: 2 OK
    |-> Nome: Carvalho, Sônia Marise Salles            | Freq: 6  -- Grafia similar (97%)
    |-> Nome: Carvalho, Sonia Marise Salles de         | Freq: 6  -- Grafia similar (95%)
 ------------------------------------------------------------
 GRUPO #40
- [ORIGEM] Nome: Casagrande, Michele Dal Toe              | Freq: 5
+ [ORIGEM] Nome: Casagrande, Michele Dal Toe              | Freq: 5 OK
    |-> Nome: Casagrande, Michéle Dal Toé              | Freq: 2  -- Grafia similar (93%)
    |-> Nome: Casagrande, Michéle dal Toé              | Freq: 9  -- Grafia similar (93%)
 ------------------------------------------------------------
 GRUPO #41
- [ORIGEM] Nome: Castilho, Goiara Mendonça                | Freq: 1
+ [ORIGEM] Nome: Castilho, Goiara Mendonça                | Freq: 1 OK
    |-> Nome: Castilho, Goiara Mendonça de             | Freq: 5  -- Grafia similar (94%)
 ------------------------------------------------------------
 GRUPO #42

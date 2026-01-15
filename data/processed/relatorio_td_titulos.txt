@@ -1,0 +1,890 @@
+RELATÓRIO DE DUPLICIDADES ENCONTRADAS
+=====================================
+Total de registros duplicados listados: 355
+
+#1 TÍTULO: 20 anos de publicização : organizações sociais em ciência e tecnologia
+--------------------------------------------------------------------------------
+   DATA: 2020-10-06   | LINK: https://repositorio.unb.br/handle/10482/39508
+   DATA: 2020-12-21   | LINK: https://repositorio.unb.br/handle/10482/39759
+
+#2 TÍTULO: A atuação do movimento sindical junto ao Fórum Nacional do Trabalho
+--------------------------------------------------------------------------------
+   DATA: 2008         | LINK: http://repositorio.unb.br/handle/10482/1191
+   DATA: 2008         | LINK: http://repositorio.unb.br/handle/10482/1648
+
+#3 TÍTULO: A discriminação de homens gays na dinâmica das relações de emprego : reflexões sob a perspectiva do direito fundamental ao trabalho digno
+--------------------------------------------------------------------------------
+   DATA: 2016-05-31   | LINK: http://repositorio.unb.br/handle/10482/20626
+   DATA: 2017-03-15   | LINK: http://repositorio.unb.br/handle/10482/22916
+
+#4 TÍTULO: A distilia em espécies de Rubiaceae do bioma Cerrado
+--------------------------------------------------------------------------------
+   DATA: 2008-03      | LINK: http://repositorio.unb.br/handle/10482/1809
+   DATA: 2009-02-11   | LINK: http://repositorio.unb.br/handle/10482/1190
+
+#5 TÍTULO: A educação do corpo na Escola-Parque 210/211 Sul de Brasília
+--------------------------------------------------------------------------------
+   DATA: 2020-06-29   | LINK: https://repositorio.unb.br/handle/10482/38328
+   DATA: S/ Data      | LINK: https://repositorio.unb.br/handle/10482/38207
+
+#6 TÍTULO: A geometria analítica como um modelo para a Geometria Euclidiana
+--------------------------------------------------------------------------------
+   DATA: 2018-05-21   | LINK: http://repositorio.unb.br/handle/10482/31934
+   DATA: S/ Data      | LINK: http://repositorio.unb.br/handle/10482/31974
+
+#7 TÍTULO: A Igreja Católica e as independências platinas : o discurso oficial da Igreja e o reconhecimento do poder de fato
+--------------------------------------------------------------------------------
+   DATA: 2020-02-12   | LINK: https://repositorio.unb.br/handle/10482/36903
+   DATA: 2021-06-30   | LINK: https://repositorio.unb.br/handle/10482/41317
+
+#8 TÍTULO: A influência da vegetação sobre o clima urbano de Palmas-TO
+--------------------------------------------------------------------------------
+   DATA: 2011-05-07   | LINK: http://repositorio.unb.br/handle/10482/7584
+   DATA: 2011-05-07   | LINK: http://repositorio.unb.br/handle/10482/7597
+
+#9 TÍTULO: A parceria bloqueada : as relações entre França e Brasil, 1945-2000
+--------------------------------------------------------------------------------
+   DATA: 2010-10-07   | LINK: http://repositorio.unb.br/handle/10482/5590
+   DATA: 2022-04-07   | LINK: https://repositorio.unb.br/handle/10482/43429
+
+#10 TÍTULO: A terceira derrota de Anísio Teixeira : o REUNI na UnB
+--------------------------------------------------------------------------------
+   DATA: 2020-06-25   | LINK: https://repositorio.unb.br/handle/10482/38165
+   DATA: 2020-06-29   | LINK: https://repositorio.unb.br/handle/10482/38429
+
+#11 TÍTULO: A transferência na clínica psicanalítica com crianças em sofrimento psíquico grave
+--------------------------------------------------------------------------------
+   DATA: 2009-03-20   | LINK: http://repositorio.unb.br/handle/10482/1474
+   DATA: 2011-05-18   | LINK: http://repositorio.unb.br/handle/10482/7853
+
+#12 TÍTULO: Abordagem de questões socioambientais por meio de tema CTS : análise de prática pedagógica no ensino médio de química e proposição de atividades
+--------------------------------------------------------------------------------
+   DATA: 2008         | LINK: http://repositorio.unb.br/handle/10482/3918
+   DATA: 2008-12      | LINK: http://repositorio.unb.br/handle/10482/3721
+
+#13 TÍTULO: Abordagem multiobjetivo na seleção de sistemas de reúso de água em irrigação paisagística no Distrito Federal
+--------------------------------------------------------------------------------
+   DATA: 2008-05      | LINK: http://repositorio.unb.br/handle/10482/2581
+   DATA: 2009-09-15   | LINK: http://repositorio.unb.br/handle/10482/1684
+
+#14 TÍTULO: Alphaville e a (des)construção da cidade no Brasil
+--------------------------------------------------------------------------------
+   DATA: 2017-02-01   | LINK: http://repositorio.unb.br/handle/10482/22389
+   DATA: 2018-04-09   | LINK: http://repositorio.unb.br/handle/10482/31571
+
+#15 TÍTULO: Alterações plasmáticas do cobre e do zinco em crianças submetidas a cirurgia cardíaca com circulação extracorpórea
+--------------------------------------------------------------------------------
+   DATA: 2008         | LINK: http://repositorio.unb.br/handle/10482/4368
+   DATA: 2008         | LINK: http://repositorio.unb.br/handle/10482/4134
+
+#16 TÍTULO: Anemia falciforme e triagem neonatal : o significado da prevenção para as mulheres cuidadoras
+--------------------------------------------------------------------------------
+   DATA: 2013-02-26   | LINK: http://repositorio.unb.br/handle/10482/12214
+   DATA: 2016-04-25   | LINK: http://repositorio.unb.br/handle/10482/20006
+
+#17 TÍTULO: Análise comparativa do entendimento do transporte como objeto do planejamento
+--------------------------------------------------------------------------------
+   DATA: 2009-07-31   | LINK: http://repositorio.unb.br/handle/10482/1551
+   DATA: 2010-05-13   | LINK: http://repositorio.unb.br/handle/10482/4600
+
+#18 TÍTULO: Análise de redes e políticas de juventude
+--------------------------------------------------------------------------------
+   DATA: 2008         | LINK: http://repositorio.unb.br/handle/10482/1761
+   DATA: 2008-04-23   | LINK: http://repositorio.unb.br/handle/10482/1275
+
+#19 TÍTULO: Análise peptidômica comparativa das peçonhas de duas espécies de aranha marrom : loxosceles laeta e loxosceles intermedia
+--------------------------------------------------------------------------------
+   DATA: 2011-07-02   | LINK: http://repositorio.unb.br/handle/10482/8874
+   DATA: 2011-07-14   | LINK: http://repositorio.unb.br/handle/10482/9060
+
+#20 TÍTULO: Análise proteômica comparativa entre neutrófilos de indivíduos hígidos e neutrófilos de indivíduos politraumatizados
+--------------------------------------------------------------------------------
+   DATA: 2005-02      | LINK: http://repositorio.unb.br/handle/10482/3597
+   DATA: 2011-06-30   | LINK: http://repositorio.unb.br/handle/10482/8827
+
+#21 TÍTULO: Análises estruturais e de modelos de interação das proteases NS3 dos Flavivirus zika e dengue, e nsP2 dos Alphavirus chikungunya e mayaro utilizando ferramentas in silico e in vitro
+--------------------------------------------------------------------------------
+   DATA: 2022-05-17   | LINK: https://repositorio.unb.br/handle/10482/43728
+   DATA: 2022-07-01   | LINK: https://repositorio.unb.br/handle/10482/44055
+
+#22 TÍTULO: Aplicação de métodos de classificação supervisionada em imagens do Sentinel-2, como suporte ao cadastro ambiental rural
+--------------------------------------------------------------------------------
+   DATA: 2018-07-24   | LINK: http://repositorio.unb.br/handle/10482/32350
+   DATA: 2019-07-02   | LINK: http://repositorio.unb.br/handle/10482/34961
+
+#23 TÍTULO: Aprendizado ativo efetivo e eficiente para análise de imagens em patologia utilizando aprendizado profundo
+--------------------------------------------------------------------------------
+   DATA: 2023-08-04   | LINK: http://repositorio.unb.br/handle/10482/46251
+   DATA: 2023-08-10   | LINK: http://repositorio.unb.br/handle/10482/46272
+
+#24 TÍTULO: Arquitetura e criação artística : o erro da verdade-certeza em Descartes
+--------------------------------------------------------------------------------
+   DATA: 2020-04-13   | LINK: https://repositorio.unb.br/handle/10482/37455
+   DATA: S/ Data      | LINK: https://repositorio.unb.br/handle/10482/38146
+
+#25 TÍTULO: As amantes : uma leitura de Da Morte. Odes mínimas de Hilda Hilst
+--------------------------------------------------------------------------------
+   DATA: 2008         | LINK: http://repositorio.unb.br/handle/10482/4876
+   DATA: 2009-02-17   | LINK: http://repositorio.unb.br/handle/10482/1257
+
+#26 TÍTULO: As artes visuais e seu público : um breve estudo sobre as condições históricas de acesso à arte
+--------------------------------------------------------------------------------
+   DATA: 2008         | LINK: http://repositorio.unb.br/handle/10482/4969
+   DATA: 2009-02-17   | LINK: http://repositorio.unb.br/handle/10482/1273
+
+#27 TÍTULO: Aspectos da introdução das espécies exóticas : o capim-gordura e a braquiária no Parque Nacional de Brasília
+--------------------------------------------------------------------------------
+   DATA: 2009         | LINK: http://repositorio.unb.br/handle/10482/4306
+   DATA: 2009-02-27   | LINK: http://repositorio.unb.br/handle/10482/3929
+
+#28 TÍTULO: Aspectos da morfometria de drenagem e produção de sedimentos em relação a variante chuva x vazão de diferentes trechos da Bacia do Ribeirão do Gama – Distrito Federal nos anos de 2014 a 2015
+--------------------------------------------------------------------------------
+   DATA: 2016-01-26   | LINK: http://repositorio.unb.br/handle/10482/19341
+   DATA: 2016-05-26   | LINK: http://repositorio.unb.br/handle/10482/20434
+
+#29 TÍTULO: Atitudes e práticas educativas maternas : elaboração de instrumento e estudo correlacional
+--------------------------------------------------------------------------------
+   DATA: 2021-12-22   | LINK: https://repositorio.unb.br/handle/10482/42608
+   DATA: 2022-09-21   | LINK: https://repositorio.unb.br/handle/10482/44864
+
+#30 TÍTULO: Atributos de qualidade ambiental urbana como norteadores da operacionalização dos instrumentos EIV - estudo de impacto de vizinhança e EIA - estudo de impacto ambiental
+--------------------------------------------------------------------------------
+   DATA: 2019-06-14   | LINK: http://repositorio.unb.br/handle/10482/34830
+   DATA: 2019-10-30   | LINK: http://repositorio.unb.br/handle/10482/35711
+
+#31 TÍTULO: Aulas de apoio pedagógico em competências de leitura e escrita no Colégio Militar de Brasília : um estudo em letramento e discurso
+--------------------------------------------------------------------------------
+   DATA: 2012-03-06   | LINK: http://repositorio.unb.br/handle/10482/10049
+   DATA: 2016-01-07   | LINK: http://repositorio.unb.br/handle/10482/19104
+
+#32 TÍTULO: Aulas de Biologia como espaço de reflexão e discussão para possibilitar a adoção de novos hábitos alimentares
+--------------------------------------------------------------------------------
+   DATA: 2020-05-18   | LINK: https://repositorio.unb.br/handle/10482/37782
+   DATA: 2020-07-01   | LINK: https://repositorio.unb.br/handle/10482/38607
+
+#33 TÍTULO: Avaliação da atividade antiepiléptica e da expressão neuronal de c-fos de dois peptídeos sintetizados a partir da Occidentalina-1202 isolada da vespa social Polybia occidentalis
+--------------------------------------------------------------------------------
+   DATA: 2013-04-24   | LINK: http://repositorio.unb.br/handle/10482/12884
+   DATA: 2013-06-05   | LINK: http://repositorio.unb.br/handle/10482/13260
+
+#34 TÍTULO: Avaliação da eficácia de um sistema conservante em formulações adicionadas de biomoléculas farmacêuticas e estudos de adaptação microbiana
+--------------------------------------------------------------------------------
+   DATA: 2011-06-28   | LINK: http://repositorio.unb.br/handle/10482/8710
+   DATA: 2011-10-11   | LINK: http://repositorio.unb.br/handle/10482/9424
+
+#35 TÍTULO: Avaliação da estrutura dos postos de revenda de combustíveis do Distrito Federal quanto à geração de resíduos aliada a análise de sua citotoxicidade e genotoxicidade
+--------------------------------------------------------------------------------
+   DATA: 2007         | LINK: http://repositorio.unb.br/handle/10482/1409
+   DATA: 2009-03-09   | LINK: http://repositorio.unb.br/handle/10482/1458
+
+#36 TÍTULO: Avaliação de conceitos sobre dependência química entre estudantes de graduação na área de saúde da Universidade de Brasília
+--------------------------------------------------------------------------------
+   DATA: 2017-10-06   | LINK: http://repositorio.unb.br/handle/10482/24760
+   DATA: 2020-01-17   | LINK: https://repositorio.unb.br/handle/10482/36164
+
+#37 TÍTULO: Avaliação de conhecimentos e atitudes dos cirurgiões dentistas em relação ao diagnóstico do câncer bucal : um estudo em Porto Velho - RO
+--------------------------------------------------------------------------------
+   DATA: 2008         | LINK: http://repositorio.unb.br/handle/10482/1233
+   DATA: 2009-09-15   | LINK: http://repositorio.unb.br/handle/10482/1674
+
+#38 TÍTULO: Avaliação de proficiência em leitura em Língua Espanhola dos graduandos em Letras Espanhol da Universidade de Brasília
+--------------------------------------------------------------------------------
+   DATA: 2020-09-24   | LINK: https://repositorio.unb.br/handle/10482/39461
+   DATA: 2024-04-09   | LINK: http://repositorio.unb.br/handle/10482/48065
+
+#39 TÍTULO: Avaliação do estabelecimento de espécies de cerrado sentido restrito, a partir do plantio direto de sementes na recuperação de uma cascalheira na Fazenda Água Limpa - UnB
+--------------------------------------------------------------------------------
+   DATA: 2010-01-06   | LINK: http://repositorio.unb.br/handle/10482/2976
+   DATA: 2015-10-08   | LINK: http://repositorio.unb.br/handle/10482/18575
+
+#40 TÍTULO: Avaliação do sistema de vigilância da Síndrome Respiratória Aguda Grave (SRAG) com ênfase em Influenza no Brasil, 2014 a 2016
+--------------------------------------------------------------------------------
+   DATA: 2020-06-30   | LINK: https://repositorio.unb.br/handle/10482/38493
+   DATA: S/ Data      | LINK: https://repositorio.unb.br/handle/10482/38499
+
+#41 TÍTULO: Avaliação dos controles Sarbox da gerência de operações de TI de uma empresa provedora de serviços de telecomunicações
+--------------------------------------------------------------------------------
+   DATA: 2008-05-05   | LINK: http://repositorio.unb.br/handle/10482/2684
+   DATA: 2008-05-05   | LINK: http://repositorio.unb.br/handle/10482/1349
+
+#42 TÍTULO: Avaliação dos custos da urbanização dispersa no Distrito Federal
+--------------------------------------------------------------------------------
+   DATA: 2008         | LINK: http://repositorio.unb.br/handle/10482/2400
+   DATA: 2008-03-10   | LINK: http://repositorio.unb.br/handle/10482/1206
+
+#43 TÍTULO: Balanço social de instituições financeiras, evidenciação da responsabilidade social e a relação com a cotação de ações negociadas em bolsa de valores : um estudo multicasos
+--------------------------------------------------------------------------------
+   DATA: 2008         | LINK: http://repositorio.unb.br/handle/10482/1350
+   DATA: 2009-12-21   | LINK: http://repositorio.unb.br/handle/10482/2806
+
+#44 TÍTULO: Brasil e Coréia do Sul : aspectos político-econômicos do relacionamento bilateral
+--------------------------------------------------------------------------------
+   DATA: 2021-08-12   | LINK: https://repositorio.unb.br/handle/10482/41641
+   DATA: 2022-11-09   | LINK: https://repositorio.unb.br/handle/10482/45149
+
+#45 TÍTULO: Capacidade sanitária da criança sob a perspectiva dos direitos humanos dos pacientes
+--------------------------------------------------------------------------------
+   DATA: 2020-05-21   | LINK: https://repositorio.unb.br/handle/10482/37840
+   DATA: 2020-06-30   | LINK: https://repositorio.unb.br/handle/10482/38459
+
+#46 TÍTULO: Capacidades dinâmicas em ouvidorias públicas ministeriais
+--------------------------------------------------------------------------------
+   DATA: 2024-09-17   | LINK: http://repositorio.unb.br/handle/10482/50376
+   DATA: S/ Data      | LINK: http://repositorio.unb.br/handle/10482/50945
+
+#47 TÍTULO: Caracterização da proteína fungoglobina e fosfoproteoma durante o estresse hipóxico em Paracoccidioides spp.
+--------------------------------------------------------------------------------
+   DATA: 2021-11-17   | LINK: https://repositorio.unb.br/handle/10482/42367
+   DATA: 2022-08-22   | LINK: https://repositorio.unb.br/handle/10482/44612
+
+#48 TÍTULO: Caracterização de compostos nutricionais e antinutricionais em taiobas (Xanthosoma Schott)
+--------------------------------------------------------------------------------
+   DATA: 2011-04-03   | LINK: http://repositorio.unb.br/handle/10482/7270
+   DATA: 2011-04-04   | LINK: http://repositorio.unb.br/handle/10482/7274
+
+#49 TÍTULO: Caracterização do uso de dispositivos de tecnologia assistiva para compensação da função manual na tetraplegia completa pós-lesão medular
+--------------------------------------------------------------------------------
+   DATA: 2017-03-20   | LINK: http://repositorio.unb.br/handle/10482/31465
+   DATA: 2020-10-22   | LINK: https://repositorio.unb.br/handle/10482/39573
+
+#50 TÍTULO: Classe trabalhadora sob a égide neoliberal : a interface entre trabalho e sua ideologia nas ocorrências entre os anos de 1990 às eleições de 2018 para o esvaziamento da dimensão das lutas de classes
+--------------------------------------------------------------------------------
+   DATA: 2023-09-15   | LINK: http://repositorio.unb.br/handle/10482/46492
+   DATA: 2024-08-15   | LINK: http://repositorio.unb.br/handle/10482/49915
+
+#51 TÍTULO: Compreensão do conceito de momento de uma força : aplicação no cálculo de estruturas na educação profissional de jovens e adultos
+--------------------------------------------------------------------------------
+   DATA: 2022-04-20   | LINK: https://repositorio.unb.br/handle/10482/43529
+   DATA: 2022-07-05   | LINK: https://repositorio.unb.br/handle/10482/44110
+
+#52 TÍTULO: Confiabilidade da auto-aplicação do health assessment questionnaire modificado (haq-m) em uma população de portadores de artrite reumatóide no Brasil
+--------------------------------------------------------------------------------
+   DATA: 2006         | LINK: http://repositorio.unb.br/handle/10482/1596
+   DATA: 2006         | LINK: http://repositorio.unb.br/handle/10482/1497
+
+#53 TÍTULO: Configuração espacial da rede de atenção a saúde em cidades médias do Brasil e a efetivação da universalidade do acesso a saúde : estudo de caso de Joinville - 1988 a 2004
+--------------------------------------------------------------------------------
+   DATA: 2007-11-20   | LINK: http://repositorio.unb.br/handle/10482/1598
+   DATA: 2009-01-15   | LINK: http://repositorio.unb.br/handle/10482/1092
+
+#54 TÍTULO: Considerações sobre impactos socioambientais de pequenas centrais hidrelétricas (PCHS) : modelagem e análise
+--------------------------------------------------------------------------------
+   DATA: 2008-04-30   | LINK: http://repositorio.unb.br/handle/10482/1739
+   DATA: 2008-04-30   | LINK: http://repositorio.unb.br/handle/10482/1330
+
+#55 TÍTULO: Construindo a inclusão da temática educação sexual no projeto político pedagógico de um colégio público de Goiânia-Goiás na perspectiva da pesquisa-ação
+--------------------------------------------------------------------------------
+   DATA: 2007-12-13   | LINK: http://repositorio.unb.br/handle/10482/3130
+   DATA: 2010-10-11   | LINK: http://repositorio.unb.br/handle/10482/5639
+
+#56 TÍTULO: Construção da biblioteca de cDNA da glândula de peçonha do escorpião Opisthacanthus cayaporum e clonagem de genes que codificam para componentes da peçonha
+--------------------------------------------------------------------------------
+   DATA: 2008         | LINK: http://repositorio.unb.br/handle/10482/1072
+   DATA: 2008-07      | LINK: http://repositorio.unb.br/handle/10482/1717
+
+#57 TÍTULO: CONSTRUÇÃO DE UM MODELO PARA AVALIAR A QUALIDADE DA INFORMAÇÃO ESTRATÉGICA
+--------------------------------------------------------------------------------
+   DATA: 2008-12-03   | LINK: http://repositorio.unb.br/handle/10482/14928
+   DATA: 2010-02-18   | LINK: http://repositorio.unb.br/handle/10482/3648
+
+#58 TÍTULO: Consumo em escolares de instituições particulares do Plano Piloto, Distrito Federal
+--------------------------------------------------------------------------------
+   DATA: 2016-01-15   | LINK: http://repositorio.unb.br/handle/10482/19183
+   DATA: 2016-01-25   | LINK: http://repositorio.unb.br/handle/10482/19295
+
+#59 TÍTULO: Contribuição ao estudo da circulação venosa coronariana na doença de Chagas crônica
+--------------------------------------------------------------------------------
+   DATA: 2020-05-28   | LINK: https://repositorio.unb.br/handle/10482/37893
+   DATA: 2020-07-03   | LINK: https://repositorio.unb.br/handle/10482/38981
+
+#60 TÍTULO: Crenças em relação à formação inicial de professores de inglês e a prática de ensino de uma professora formadora
+--------------------------------------------------------------------------------
+   DATA: 2008         | LINK: http://repositorio.unb.br/handle/10482/936
+   DATA: 2009-11-24   | LINK: http://repositorio.unb.br/handle/10482/2264
+
+#61 TÍTULO: Crítica da razão hídrica : multiplicando perspectivas e construindo futuros em Bacias Hidrográficas em crise no Distrito Federal
+--------------------------------------------------------------------------------
+   DATA: 2021-03-26   | LINK: https://repositorio.unb.br/handle/10482/40334
+   DATA: 2021-05-06   | LINK: https://repositorio.unb.br/handle/10482/40830
+
+#62 TÍTULO: Custos no serviço público - um modelo aplicado ao custeio dos processos judiciais
+--------------------------------------------------------------------------------
+   DATA: 2021-05-27   | LINK: https://repositorio.unb.br/handle/10482/41056
+   DATA: S/ Data      | LINK: https://repositorio.unb.br/handle/10482/42087
+
+#63 TÍTULO: Cálculo acurado da constante de dissociação ácida (pKa) para fármacos sulfonamidas
+--------------------------------------------------------------------------------
+   DATA: 2024-08-02   | LINK: http://repositorio.unb.br/handle/10482/49485
+   DATA: 2024-08-02   | LINK: http://repositorio.unb.br/handle/10482/49487
+
+#64 TÍTULO: Dayton Agreement and democracy to come in Bosnia and Herzegovina
+--------------------------------------------------------------------------------
+   DATA: 2017-06-23   | LINK: http://repositorio.unb.br/handle/10482/23733
+   DATA: 2018-04-25   | LINK: http://repositorio.unb.br/handle/10482/31733
+
+#65 TÍTULO: Desafios globais da mineração em larga escala : uma análise dos Códigos de Conduta de Responsabilidade Social das multinacionais do setor
+--------------------------------------------------------------------------------
+   DATA: 2020-06-26   | LINK: https://repositorio.unb.br/handle/10482/38292
+   DATA: S/ Data      | LINK: https://repositorio.unb.br/handle/10482/38263
+
+#66 TÍTULO: Desenvolvimento de um sistema de análise por injeção em fluxo com fotoderivatização para determinação de NNG em glifosato
+--------------------------------------------------------------------------------
+   DATA: 2015-06-22   | LINK: http://repositorio.unb.br/handle/10482/18364
+   DATA: 2016-04-05   | LINK: http://repositorio.unb.br/handle/10482/19862
+
+#67 TÍTULO: Desenvolvimento de um sistema para monitoramento do módulo de elasticidade de materiais cimentícios desde as primeiras idades
+--------------------------------------------------------------------------------
+   DATA: 2021-05-31   | LINK: https://repositorio.unb.br/handle/10482/41068
+   DATA: 2024-01-08   | LINK: http://repositorio.unb.br/handle/10482/47720
+
+#68 TÍTULO: Desenvolvimento e utilização de simulações no ambiente scratch para o estudo de soma e decomposição vetoriais e movimento de lançamento oblíquo como incentivo à autonomia do estudante
+--------------------------------------------------------------------------------
+   DATA: 2018-12-06   | LINK: http://repositorio.unb.br/handle/10482/33746
+   DATA: 2019-02-01   | LINK: http://repositorio.unb.br/handle/10482/33944
+
+#69 TÍTULO: Destilação Solar : aplicação no tratamento de efluentes líquidos de laboratórios
+--------------------------------------------------------------------------------
+   DATA: 2010-10-18   | LINK: http://repositorio.unb.br/handle/10482/5694
+   DATA: 2011-07-14   | LINK: http://repositorio.unb.br/handle/10482/9063
+
+#70 TÍTULO: Detecção semi-automática da borda do ventrículo esquerdo
+--------------------------------------------------------------------------------
+   DATA: 2007         | LINK: http://repositorio.unb.br/handle/10482/2940
+   DATA: 2007-09      | LINK: http://repositorio.unb.br/handle/10482/6729
+
+#71 TÍTULO: Determinação de patologias estruturais usando modelagem numérica e transformadas de wavelet
+--------------------------------------------------------------------------------
+   DATA: 2011-10-19   | LINK: http://repositorio.unb.br/handle/10482/9496
+   DATA: 2012-04-16   | LINK: http://repositorio.unb.br/handle/10482/10261
+
+#72 TÍTULO: Discursos e identidades de gênero no contexto da escola
+--------------------------------------------------------------------------------
+   DATA: 2007         | LINK: http://repositorio.unb.br/handle/10482/5277
+   DATA: 2007         | LINK: http://repositorio.unb.br/handle/10482/6567
+
+#73 TÍTULO: Distribuição do valor adicionado aos recursos humanos dos bancos localizados no Brasil, no triênio 1998-2000 : análise comparativa
+--------------------------------------------------------------------------------
+   DATA: 2020-07-08   | LINK: https://repositorio.unb.br/handle/10482/39215
+   DATA: 2020-07-13   | LINK: https://repositorio.unb.br/handle/10482/39255
+
+#74 TÍTULO: DoSSEC : proposta de detecção e mitigação de ataques SYN Flood em redes SDN
+--------------------------------------------------------------------------------
+   DATA: 2020-07-02   | LINK: https://repositorio.unb.br/handle/10482/38799
+   DATA: S/ Data      | LINK: https://repositorio.unb.br/handle/10482/38884
+
+#75 TÍTULO: Dramaturgia da atuação cômica : o desempenho do ator na construção do riso
+--------------------------------------------------------------------------------
+   DATA: 2008         | LINK: http://repositorio.unb.br/handle/10482/1795
+   DATA: 2008         | LINK: http://repositorio.unb.br/handle/10482/1403
+
+#76 TÍTULO: Drosofilídeos (Insecta, Diptera) da mata do Pitoco : diversidade e distribuição vertical
+--------------------------------------------------------------------------------
+   DATA: 2010-04-15   | LINK: http://repositorio.unb.br/handle/10482/4223
+   DATA: 2011-06-06   | LINK: http://repositorio.unb.br/handle/10482/8279
+
+#77 TÍTULO: Educação em visualidades no “Chicão” : Centro Educacional São Francisco do Distrito Federal
+--------------------------------------------------------------------------------
+   DATA: 2019-07-03   | LINK: http://repositorio.unb.br/handle/10482/34965
+   DATA: 2019-10-19   | LINK: http://repositorio.unb.br/handle/10482/35625
+
+#78 TÍTULO: Efeito da variação do processo de síntese nas propriedades estruturais de nanopartículas de CoFe2O4
+--------------------------------------------------------------------------------
+   DATA: 2008-04      | LINK: http://repositorio.unb.br/handle/10482/3425
+   DATA: 2009-12-08   | LINK: http://repositorio.unb.br/handle/10482/2609
+
+#79 TÍTULO: Efeitos agudos da atividade de caminhada no equilíbrio postural e na distribuição de pressão plantar em crianças obesas e crianças eutróficas
+--------------------------------------------------------------------------------
+   DATA: 2021-11-26   | LINK: https://repositorio.unb.br/handle/10482/42459
+   DATA: S/ Data      | LINK: https://repositorio.unb.br/handle/10482/42242
+
+#80 TÍTULO: Epistemologia do testemunho : uma avaliação crítica
+--------------------------------------------------------------------------------
+   DATA: 2015-12-16   | LINK: http://repositorio.unb.br/handle/10482/18939
+   DATA: 2016-01-26   | LINK: http://repositorio.unb.br/handle/10482/19340
+
+#81 TÍTULO: Escolha entre o transporte interestadual aéreo e rodoviário de passageiros : avaliação da distância como fator determinante
+--------------------------------------------------------------------------------
+   DATA: 2014-02-11   | LINK: http://repositorio.unb.br/handle/10482/15128
+   DATA: 2015-05-06   | LINK: http://repositorio.unb.br/handle/10482/18092
+
+#82 TÍTULO: Espaço Semente : o teatro comunitário como agente transformador na periferia
+--------------------------------------------------------------------------------
+   DATA: 2019-01-29   | LINK: http://repositorio.unb.br/handle/10482/33823
+   DATA: 2025-06-10   | LINK: http://repositorio.unb.br/handle/10482/52323
+
+#83 TÍTULO: Estratégias de aprendizagem no trabalho em contexto de mudança organizacional
+--------------------------------------------------------------------------------
+   DATA: 2007-08      | LINK: http://repositorio.unb.br/handle/10482/1597
+   DATA: 2007-08      | LINK: http://repositorio.unb.br/handle/10482/1104
+
+#84 TÍTULO: Estratégias de enfrentamento no envelhecer e adoecer : um estudo com idosos em cuidados paliativos
+--------------------------------------------------------------------------------
+   DATA: 2018-01-05   | LINK: http://repositorio.unb.br/handle/10482/30996
+   DATA: 2018-04-24   | LINK: http://repositorio.unb.br/handle/10482/31724
+
+#85 TÍTULO: Estudo da expressão de moléculas de adesão celular durante a migração transendotelial dos leucócitos no pulmão de camundongos tratados com nanopartículas magnéticas recobertas com DMSA
+--------------------------------------------------------------------------------
+   DATA: 2011-06-13   | LINK: http://repositorio.unb.br/handle/10482/8343
+   DATA: 2011-06-28   | LINK: http://repositorio.unb.br/handle/10482/8715
+
+#86 TÍTULO: Estudo da fadiga dos músculos flexores do cotovelo e dos dígitos em contratação isométrica
+--------------------------------------------------------------------------------
+   DATA: 2005         | LINK: http://repositorio.unb.br/handle/10482/5281
+   DATA: 2005-12      | LINK: http://repositorio.unb.br/handle/10482/3263
+
+#87 TÍTULO: Estudo da legislação brasileira acerca do mercado de carbono : agricultura familiar e remineralizadores de solo
+--------------------------------------------------------------------------------
+   DATA: 2024-10-24   | LINK: http://repositorio.unb.br/handle/10482/50698
+   DATA: 2024-10-24   | LINK: http://repositorio.unb.br/handle/10482/50697
+
+#88 TÍTULO: Estudo e simulação de técnicas de controle de tráfego de grupo de elevadores usando automação industrial
+--------------------------------------------------------------------------------
+   DATA: 2011-07-03   | LINK: http://repositorio.unb.br/handle/10482/8893
+   DATA: 2011-08-09   | LINK: http://repositorio.unb.br/handle/10482/9166
+
+#89 TÍTULO: Estudo empírico dos fatores que influenciam as empresas brasileiras na decisão de listar suas ações em bolsas de valores estrangeiras
+--------------------------------------------------------------------------------
+   DATA: 2020-07-07   | LINK: https://repositorio.unb.br/handle/10482/39148
+   DATA: 2020-07-07   | LINK: https://repositorio.unb.br/handle/10482/39158
+
+#90 TÍTULO: Fatoração QR como ferramenta para a determinação de poços principais em redes de monitoramento de aqüíferos freáticos
+--------------------------------------------------------------------------------
+   DATA: 2008         | LINK: http://repositorio.unb.br/handle/10482/1884
+   DATA: 2011-07-09   | LINK: http://repositorio.unb.br/handle/10482/9021
+
+#91 TÍTULO: Fatores que interferem na qualidade de vida com diabetes : a opinião dos portadores
+--------------------------------------------------------------------------------
+   DATA: 2008         | LINK: http://repositorio.unb.br/handle/10482/3088
+   DATA: 2008-06      | LINK: http://repositorio.unb.br/handle/10482/1503
+
+#92 TÍTULO: Geologia e geocronologia da sequência Vulcano-sedimentar Campinorte e do Complexo Uruaçu, província Tocantins
+--------------------------------------------------------------------------------
+   DATA: 2011-01-25   | LINK: http://repositorio.unb.br/handle/10482/6573
+   DATA: 2011-07-14   | LINK: http://repositorio.unb.br/handle/10482/9064
+
+#93 TÍTULO: Gerenciamento de conflitos : uma proposta para as escolas da Secretaria de Educação do Distrito Federal
+--------------------------------------------------------------------------------
+   DATA: 2020-09-24   | LINK: https://repositorio.unb.br/handle/10482/39460
+   DATA: 2024-01-23   | LINK: http://repositorio.unb.br/handle/10482/47440
+
+#94 TÍTULO: Gestalt-terapeutas do Brasil : formação e identidade
+--------------------------------------------------------------------------------
+   DATA: 2020-01-29   | LINK: https://repositorio.unb.br/handle/10482/36746
+   DATA: 2020-03-30   | LINK: https://repositorio.unb.br/handle/10482/37241
+
+#95 TÍTULO: Gestão de pessoas e qualidade de vida no trabalho no contexto do Poder Legislativo do Distrito Federal
+--------------------------------------------------------------------------------
+   DATA: 2008-06      | LINK: http://repositorio.unb.br/handle/10482/1188
+   DATA: 2008-06      | LINK: http://repositorio.unb.br/handle/10482/1994
+
+#96 TÍTULO: Gestão de redes de comunicação eletrônica multimídia convergentes e o cenário da televisão digital brasileira
+--------------------------------------------------------------------------------
+   DATA: 2008-04      | LINK: http://repositorio.unb.br/handle/10482/3950
+   DATA: 2010-02-24   | LINK: http://repositorio.unb.br/handle/10482/3720
+
+#97 TÍTULO: Impactos individuais e contextuais do deslocamento forçado na comunidade
+--------------------------------------------------------------------------------
+   DATA: 2019-04-01   | LINK: http://repositorio.unb.br/handle/10482/34257
+   DATA: 2019-07-17   | LINK: http://repositorio.unb.br/handle/10482/35093
+
+#98 TÍTULO: Implementação e simulação de algoritmos de escalonamento para sistemas de elevadores usando arquiteturas reconfiguráveis
+--------------------------------------------------------------------------------
+   DATA: 2006-11      | LINK: http://repositorio.unb.br/handle/10482/6734
+   DATA: 2010-10-25   | LINK: http://repositorio.unb.br/handle/10482/5748
+
+#99 TÍTULO: Indicadores de perfil profissional do supervisor de estágio em Psicologia Escolar
+--------------------------------------------------------------------------------
+   DATA: 2022-02-15   | LINK: https://repositorio.unb.br/handle/10482/42912
+   DATA: 2022-02-17   | LINK: https://repositorio.unb.br/handle/10482/42939
+
+#100 TÍTULO: Indicadores de potencialidades e desempenho de agregados reciclados de resíduos sólidos da construção civil em pavimentos flexíveis
+--------------------------------------------------------------------------------
+   DATA: 2007-07      | LINK: http://repositorio.unb.br/handle/10482/5509
+   DATA: 2007-07-31   | LINK: http://repositorio.unb.br/handle/10482/2705
+
+#101 TÍTULO: Indicadores de proteção e de risco para suicídio por meio de escalas de auto-relatoIndicadores de proteção e de risco para suicídio por meio de escalas de auto-relato
+--------------------------------------------------------------------------------
+   DATA: 2007         | LINK: http://repositorio.unb.br/handle/10482/1781
+   DATA: 2014-08-11   | LINK: http://repositorio.unb.br/handle/10482/16055
+
+#102 TÍTULO: Inserção social universitária : uma leitura psicodramática
+--------------------------------------------------------------------------------
+   DATA: 2007         | LINK: http://repositorio.unb.br/handle/10482/1448
+   DATA: 2007-03-28   | LINK: http://repositorio.unb.br/handle/10482/2720
+
+#103 TÍTULO: Interpretação de instrumentação de túneis visando a deflagração de planos de ações emergenciais
+--------------------------------------------------------------------------------
+   DATA: 2018-12-12   | LINK: http://repositorio.unb.br/handle/10482/33193
+   DATA: 2018-12-20   | LINK: http://repositorio.unb.br/handle/10482/33275
+
+#104 TÍTULO: Investigação do estado de tensões em ossos usando o método dos elementos finitos
+--------------------------------------------------------------------------------
+   DATA: 2020-05-29   | LINK: https://repositorio.unb.br/handle/10482/37914
+   DATA: S/ Data      | LINK: https://repositorio.unb.br/handle/10482/37101
+
+#105 TÍTULO: Massa de banana verde : uma alternativa para exclusão do glúten
+--------------------------------------------------------------------------------
+   DATA: 2009         | LINK: http://repositorio.unb.br/handle/10482/4568
+   DATA: 2009         | LINK: http://repositorio.unb.br/handle/10482/1494
+
+#106 TÍTULO: Meninas-mulheres : retórica do corpo, da dor e do abandono em meninas, de Maria Teresa Horta
+--------------------------------------------------------------------------------
+   DATA: 2022-09-12   | LINK: https://repositorio.unb.br/handle/10482/44765
+   DATA: 2024-08-09   | LINK: http://repositorio.unb.br/handle/10482/49725
+
+#107 TÍTULO: Metapragmáticas, poder e educação : a construção da representação das mulheres a partir da prova de Linguagens, Códigos e suas Tecnologias do ENEM
+--------------------------------------------------------------------------------
+   DATA: 2024-09-20   | LINK: http://repositorio.unb.br/handle/10482/50412
+   DATA: S/ Data      | LINK: http://repositorio.unb.br/handle/10482/50947
+
+#108 TÍTULO: Militarização do ensino no estado de Goiás : implementação de um modelo de gestão escolar
+--------------------------------------------------------------------------------
+   DATA: 2020-03-25   | LINK: https://repositorio.unb.br/handle/10482/37153
+   DATA: 2020-06-25   | LINK: https://repositorio.unb.br/handle/10482/38155
+
+#109 TÍTULO: Mineração de processos como ferramenta de gestão de riscos
+--------------------------------------------------------------------------------
+   DATA: 2018-07-23   | LINK: http://repositorio.unb.br/handle/10482/32333
+   DATA: 2019-07-18   | LINK: http://repositorio.unb.br/handle/10482/35111
+
+#110 TÍTULO: Mistura de distribuições extremais
+--------------------------------------------------------------------------------
+   DATA: 2011-02-23   | LINK: http://repositorio.unb.br/handle/10482/6918
+   DATA: 2021-04-22   | LINK: https://repositorio.unb.br/handle/10482/40607
+
+#111 TÍTULO: Modelagem de incertezas em sistemas de aterramento elétricos
+--------------------------------------------------------------------------------
+   DATA: 2008-04      | LINK: http://repositorio.unb.br/handle/10482/2691
+   DATA: 2008-04      | LINK: http://repositorio.unb.br/handle/10482/1258
+
+#112 TÍTULO: Modelo integrado para avaliação de riscos da segurança de informação em ambiente corporativo
+--------------------------------------------------------------------------------
+   DATA: 2011-07-06   | LINK: http://repositorio.unb.br/handle/10482/8945
+   DATA: 2011-07-07   | LINK: http://repositorio.unb.br/handle/10482/8969
+
+#113 TÍTULO: Morfologia, anatomia, histoquímica e aspectos fisiológicos da lâmina foliar de espécies de Clusia (clusiaceae)
+--------------------------------------------------------------------------------
+   DATA: 2007-02-09   | LINK: http://repositorio.unb.br/handle/10482/2944
+   DATA: 2007-02-09   | LINK: http://repositorio.unb.br/handle/10482/1571
+
+#114 TÍTULO: Mortalidade em pacientes com diagnóstico de doença arterial coronariana grave assistidos na Secretaria de Estado de Saúde do Distrito Federal
+--------------------------------------------------------------------------------
+   DATA: 2023-09-14   | LINK: http://repositorio.unb.br/handle/10482/46486
+   DATA: 2023-10-11   | LINK: http://repositorio.unb.br/handle/10482/46673
+
+#115 TÍTULO: Movências nas rotas de Sankofa : pontos de partilha, danças e implicações étnico-raciais
+--------------------------------------------------------------------------------
+   DATA: 2023-05-19   | LINK: http://repositorio2.unb.br/jspui/handle/10482/45895
+   DATA: 2023-08-25   | LINK: http://repositorio.unb.br/handle/10482/46398
+
+#116 TÍTULO: Myrcia DC. ex Guill. (seção Myrcia, Myrtaceae) no Distrito Federal, Brasil
+--------------------------------------------------------------------------------
+   DATA: 2010-10-27   | LINK: http://repositorio.unb.br/handle/10482/5780
+   DATA: 2011-05-19   | LINK: http://repositorio.unb.br/handle/10482/7881
+
+#117 TÍTULO: Na trilha dos Timbira : sustentabilidade e territorialidade Krahô
+--------------------------------------------------------------------------------
+   DATA: 2013-04-22   | LINK: http://repositorio.unb.br/handle/10482/12849
+   DATA: 2014-04-03   | LINK: http://repositorio.unb.br/handle/10482/15418
+
+#118 TÍTULO: Nada do que foi é ou será : a inter-relação de jovens com seu ambiente
+--------------------------------------------------------------------------------
+   DATA: 2008-05      | LINK: http://repositorio.unb.br/handle/10482/1321
+   DATA: 2008-05      | LINK: http://repositorio.unb.br/handle/10482/1742
+
+#119 TÍTULO: Nanopartículas de maguemita complexadas com ácido oleico
+--------------------------------------------------------------------------------
+   DATA: 2007-06      | LINK: http://repositorio.unb.br/handle/10482/1434
+   DATA: 2009-03-09   | LINK: http://repositorio.unb.br/handle/10482/1459
+
+#120 TÍTULO: Natureza na cidade : reflexos de visões de natureza sobre modelos urbanos
+--------------------------------------------------------------------------------
+   DATA: 2006         | LINK: http://repositorio.unb.br/handle/10482/2572
+   DATA: 2006         | LINK: http://repositorio.unb.br/handle/10482/2237
+
+#121 TÍTULO: Neuroprostheses control interfaces based on body motion in persons with spinal cord injury
+--------------------------------------------------------------------------------
+   DATA: 2021-01-18   | LINK: https://repositorio.unb.br/handle/10482/39926
+   DATA: 2024-01-27   | LINK: http://repositorio.unb.br/handle/10482/47533
+
+#122 TÍTULO: O Concurso Tim Lopes de Investigação Jornalística como estratégia de agendamento da violência sexual contra crianças e adolescentes na imprensa brasileira
+--------------------------------------------------------------------------------
+   DATA: 2008         | LINK: http://repositorio.unb.br/handle/10482/2142
+   DATA: 2008-04-29   | LINK: http://repositorio.unb.br/handle/10482/1113
+
+#123 TÍTULO: O coordenador pedagógico e o professor atuante no bloco inicial de alfabetização : uma articulação possível no cotidiano escolar?
+--------------------------------------------------------------------------------
+   DATA: 2022-04-01   | LINK: https://repositorio.unb.br/handle/10482/43287
+   DATA: 2022-04-04   | LINK: https://repositorio.unb.br/handle/10482/43314
+
+#124 TÍTULO: O cultivo da papoula na Colômbia : um estudo de caso sobre os agricultores familiares do município de Silvia (Cauca)
+--------------------------------------------------------------------------------
+   DATA: 2008-12      | LINK: http://repositorio.unb.br/handle/10482/3026
+   DATA: 2011-05-06   | LINK: http://repositorio.unb.br/handle/10482/7569
+
+#125 TÍTULO: O ensino remoto durante a Pandemia da Covid-19 : percepção dos alunos de graduação da Universidade de Brasília - UnB em relação aos fatores de aprendizagem
+--------------------------------------------------------------------------------
+   DATA: 2023-05-11   | LINK: http://repositorio.unb.br/handle/10482/45859
+   DATA: 2024-02-26   | LINK: http://repositorio.unb.br/handle/10482/47889
+
+#126 TÍTULO: O juiz no espelho : autolegitimidade da magistratura criminal de 1ª instância no Distrito Federal
+--------------------------------------------------------------------------------
+   DATA: 2022-12-13   | LINK: https://repositorio.unb.br/handle/10482/45288
+   DATA: 2024-07-18   | LINK: http://repositorio.unb.br/handle/10482/49043
+
+#127 TÍTULO: O meu chapéu tem três pontas : educação infantil, o cantar e a psicanálise : um estudo de caso
+--------------------------------------------------------------------------------
+   DATA: 2009-12      | LINK: http://repositorio.unb.br/handle/10482/5032
+   DATA: 2010-07-01   | LINK: http://repositorio.unb.br/handle/10482/5166
+
+#128 TÍTULO: O pensamento da elite liberal-conservadora em relação a Argentina peronista : o caso da imprensa carioca durante o governo Dutra
+--------------------------------------------------------------------------------
+   DATA: 2023-09-19   | LINK: http://repositorio.unb.br/handle/10482/46506
+   DATA: 2024-02-01   | LINK: http://repositorio.unb.br/handle/10482/47637
+
+#129 TÍTULO: O regime de reparações do estatuto de roma e o fundo fiduciário do tribunal penal internacional : as vítimas como foco da nova justiça penal internacional
+--------------------------------------------------------------------------------
+   DATA: 2008         | LINK: http://repositorio.unb.br/handle/10482/4955
+   DATA: 2010-10-07   | LINK: http://repositorio.unb.br/handle/10482/5588
+
+#130 TÍTULO: O uso de líquidos iônicos na obtenção de materiais magnéticos nanoestruturados
+--------------------------------------------------------------------------------
+   DATA: 2011-07-02   | LINK: http://repositorio.unb.br/handle/10482/8877
+   DATA: 2011-07-03   | LINK: http://repositorio.unb.br/handle/10482/8882
+
+#131 TÍTULO: Oficinas de aprendizagem em Astronomia : uma proposta de ação baseada na experiência do Planetário de Brasília
+--------------------------------------------------------------------------------
+   DATA: 2019-10-30   | LINK: http://repositorio.unb.br/handle/10482/35733
+   DATA: 2019-12-18   | LINK: https://repositorio.unb.br/handle/10482/36004
+
+#132 TÍTULO: Onde cultura é política : movimento negro, afoxés e maracatus no carnaval do Recife (1979-1995)
+--------------------------------------------------------------------------------
+   DATA: 2011-07-08   | LINK: http://repositorio.unb.br/handle/10482/9010
+   DATA: 2011-11-22   | LINK: http://repositorio.unb.br/handle/10482/9611
+
+#133 TÍTULO: ONGs ambientalistas : desafios e gestão de agentes voluntários de políticas ambientais
+--------------------------------------------------------------------------------
+   DATA: 2006         | LINK: http://repositorio.unb.br/handle/10482/1599
+   DATA: 2006         | LINK: http://repositorio.unb.br/handle/10482/1592
+
+#134 TÍTULO: Ongs feministas : conquistas e resultados no âmbito da Lei Maria da Penha
+--------------------------------------------------------------------------------
+   DATA: 2011-10-14   | LINK: http://repositorio.unb.br/handle/10482/9438
+   DATA: 2016-06-20   | LINK: http://repositorio.unb.br/handle/10482/20753
+
+#135 TÍTULO: Organizações solidárias em Unidades de Conservação : os casos da Associação Bom Sucesso e da COOPETRAL no estado do Amapá
+--------------------------------------------------------------------------------
+   DATA: 2018-07-24   | LINK: http://repositorio.unb.br/handle/10482/32347
+   DATA: 2019-07-03   | LINK: http://repositorio.unb.br/handle/10482/34962
+
+#136 TÍTULO: Parallel H-Matrices accelerated isogeometric boundary element method implementation applied to acoustics internal and external problems
+--------------------------------------------------------------------------------
+   DATA: 2021-03-31   | LINK: https://repositorio.unb.br/handle/10482/40411
+   DATA: 2021-06-07   | LINK: https://repositorio.unb.br/handle/10482/41102
+
+#137 TÍTULO: Participação democrática discente na gestão da assistência estudantil das IFEs brasileiras : limites e desafios
+--------------------------------------------------------------------------------
+   DATA: 2022-03-13   | LINK: https://repositorio.unb.br/handle/10482/43708
+   DATA: 2022-07-01   | LINK: https://repositorio.unb.br/handle/10482/44050
+
+#138 TÍTULO: Pesquisa de substâncias antifúngicas provenientes de madeiras duráveis da amazônia
+--------------------------------------------------------------------------------
+   DATA: 2012-03-23   | LINK: http://repositorio.unb.br/handle/10482/10146
+   DATA: 2012-07-04   | LINK: http://repositorio.unb.br/handle/10482/10863
+
+#139 TÍTULO: Pesquisa e inovação em saúde : contribuições da Saúde Coletiva para o desenvolvimento e produção de tecnologia no contexto do pé diabético
+--------------------------------------------------------------------------------
+   DATA: 2018-11-27   | LINK: http://repositorio.unb.br/handle/10482/33114
+   DATA: 2020-07-13   | LINK: https://repositorio.unb.br/handle/10482/39251
+
+#140 TÍTULO: Petrogênese e evolução do ofiolito de Aburrá, cordilheira central dos Andes colombianos
+--------------------------------------------------------------------------------
+   DATA: 2009-12-16   | LINK: http://repositorio.unb.br/handle/10482/2742
+   DATA: 2015-09-24   | LINK: http://repositorio.unb.br/handle/10482/18545
+
+#141 TÍTULO: Petrologia e metalogenia do depósito de cobre Bom Jardim de Goiás (GO)
+--------------------------------------------------------------------------------
+   DATA: 2007-07-06   | LINK: http://repositorio.unb.br/handle/10482/3685
+   DATA: 2011-07-13   | LINK: http://repositorio.unb.br/handle/10482/9045
+
+#142 TÍTULO: Petrologia e metalogenia do depósito primário de nióbio do complexo carbonatítico-foscorítico de Catalão I, GO
+--------------------------------------------------------------------------------
+   DATA: 2009-04-24   | LINK: http://repositorio.unb.br/handle/10482/4314
+   DATA: 2011-07-08   | LINK: http://repositorio.unb.br/handle/10482/9020
+
+#143 TÍTULO: Predição da direção dos preços de ativos do mercado financeiro usando aprendizagem de máquina
+--------------------------------------------------------------------------------
+   DATA: 2019-06-04   | LINK: http://repositorio.unb.br/handle/10482/34702
+   DATA: 2019-06-07   | LINK: http://repositorio.unb.br/handle/10482/34767
+
+#144 TÍTULO: Preparação, caracterização e uso de dolomita mineral como catalisador heterogêneo na produção de biodiesel via reação de transesterificação de óleo de fritura
+--------------------------------------------------------------------------------
+   DATA: 2015-03-26   | LINK: repositorio.unb.br/handle/10482/17826
+   DATA: 2017-03-23   | LINK: http://repositorio.unb.br/handle/10482/23017
+
+#145 TÍTULO: Presidencialismo de coalizão no Brasil : instrumentos para formação de maiorias na Câmara dos Deputados
+--------------------------------------------------------------------------------
+   DATA: 2020-09-24   | LINK: https://repositorio.unb.br/handle/10482/39459
+   DATA: 2024-01-19   | LINK: http://repositorio.unb.br/handle/10482/47414
+
+#146 TÍTULO: Prevalência de anomalias dentárias em dentição decídua de pré-escolares atendidos na escola do SESC Dourados/MS
+--------------------------------------------------------------------------------
+   DATA: 2007         | LINK: http://repositorio.unb.br/handle/10482/2603
+   DATA: 2009-03-04   | LINK: http://repositorio.unb.br/handle/10482/1395
+
+#147 TÍTULO: Previsão com séries temporais usando computação por reservatório : aplicação em ativo do B3
+--------------------------------------------------------------------------------
+   DATA: 2024-08-02   | LINK: http://repositorio.unb.br/handle/10482/49491
+   DATA: 2024-08-21   | LINK: http://repositorio.unb.br/handle/10482/50092
+
+#148 TÍTULO: Processo de inovação : implementação de dimensionamento da força de trabalho em organização governamental
+--------------------------------------------------------------------------------
+   DATA: 2020-08-17   | LINK: https://repositorio.unb.br/handle/10482/39398
+   DATA: 2024-01-27   | LINK: http://repositorio.unb.br/handle/10482/47529
+
+#149 TÍTULO: Produtividade e reação de progênies de maracujazeiro azedo a doenças em campo e casa de vegetação
+--------------------------------------------------------------------------------
+   DATA: 2009-09      | LINK: http://repositorio.unb.br/handle/10482/5054
+   DATA: 2011-11-16   | LINK: http://repositorio.unb.br/handle/10482/9592
+
+#150 TÍTULO: Proposta de arquitetura de um portal seguro de provas eletrônicas utilizando SDN como solução de gerenciamento dos usuários da rede
+--------------------------------------------------------------------------------
+   DATA: 2022-08-10   | LINK: https://repositorio.unb.br/handle/10482/44483
+   DATA: 2022-08-12   | LINK: https://repositorio.unb.br/handle/10482/44511
+
+#151 TÍTULO: Proposta de arquitetura segura de centrais de incêndio em nuvem
+--------------------------------------------------------------------------------
+   DATA: 2021-04-19   | LINK: https://repositorio.unb.br/handle/10482/40580
+   DATA: 2021-09-02   | LINK: https://repositorio.unb.br/handle/10482/42016
+
+#152 TÍTULO: Proposta de diretrizes para verificação e controle dos requisitos técnicos dos sistemas de revestimento em argamassa estabilizada
+--------------------------------------------------------------------------------
+   DATA: 2020-04-13   | LINK: https://repositorio.unb.br/handle/10482/37443
+   DATA: S/ Data      | LINK: https://repositorio.unb.br/handle/10482/38486
+
+#153 TÍTULO: Proposta de modelo evolucionário para simulação da evolução da camuflagem em seres vivos
+--------------------------------------------------------------------------------
+   DATA: 2017-01-30   | LINK: http://repositorio.unb.br/handle/10482/22319
+   DATA: 2017-02-09   | LINK: http://repositorio.unb.br/handle/10482/22459
+
+#154 TÍTULO: Proposta de um motor de busca metasemântica como ferramenta de investigação de dados obtidos através da internet
+--------------------------------------------------------------------------------
+   DATA: 2023-09-19   | LINK: http://repositorio.unb.br/handle/10482/46510
+   DATA: 2024-02-28   | LINK: http://repositorio.unb.br/handle/10482/47942
+
+#155 TÍTULO: Protagonismo na cultura digital : configuração subjetiva da aprendizagem de jovens estudantes
+--------------------------------------------------------------------------------
+   DATA: 2021-01-07   | LINK: https://repositorio.unb.br/handle/10482/42706
+   DATA: 2022-03-17   | LINK: https://repositorio.unb.br/handle/10482/43081
+   DATA: 2024-01-27   | LINK: http://repositorio.unb.br/handle/10482/47923
+
+#156 TÍTULO: Psychologically accessing ownership : how does individual psychological ownership (IPO) affect peer-to-peer access-based consumption (P2P-ABC)?
+--------------------------------------------------------------------------------
+   DATA: 2021-11-22   | LINK: https://repositorio.unb.br/handle/10482/42392
+   DATA: 2022-03-16   | LINK: https://repositorio.unb.br/handle/10482/43060
+
+#157 TÍTULO: Quando o amor rima com dor : representações da violência conjugal na literatura contemporânea
+--------------------------------------------------------------------------------
+   DATA: 2022-07-15   | LINK: https://repositorio.unb.br/handle/10482/44272
+   DATA: 2022-07-27   | LINK: https://repositorio.unb.br/handle/10482/44338
+
+#158 TÍTULO: Quebra de simetria de cargas em estruturas eletrônicas blindadas
+--------------------------------------------------------------------------------
+   DATA: 2008-03-29   | LINK: http://repositorio.unb.br/handle/10482/1692
+   DATA: 2008-03-29   | LINK: http://repositorio.unb.br/handle/10482/1259
+
+#159 TÍTULO: Quitosana como catalisador na transesterificação do óleo de soja para produção de biodiesel
+--------------------------------------------------------------------------------
+   DATA: 2008         | LINK: http://repositorio.unb.br/handle/10482/4371
+   DATA: 2008         | LINK: http://repositorio.unb.br/handle/10482/6185
+
+#160 TÍTULO: Recriações da cidade inventada : Brasília na revista Traços e na série Distrito Cultural
+--------------------------------------------------------------------------------
+   DATA: 2018-05-14   | LINK: http://repositorio.unb.br/handle/10482/31856
+   DATA: 2018-07-04   | LINK: http://repositorio.unb.br/handle/10482/32197
+
+#161 TÍTULO: Reprodução cooperativa em Neothraupis fasciata : ajudantes de ninho realmente ajudam?
+--------------------------------------------------------------------------------
+   DATA: 2008         | LINK: http://repositorio.unb.br/handle/10482/1464
+   DATA: 2016-02-05   | LINK: http://repositorio.unb.br/handle/10482/19460
+
+#162 TÍTULO: SCAN-NF : a machine learning system for invoice product trasaction classification through short-text processing
+--------------------------------------------------------------------------------
+   DATA: 2023-10-25   | LINK: http://repositorio.unb.br/handle/10482/46750
+   DATA: 2024-08-13   | LINK: http://repositorio.unb.br/handle/10482/49799
+
+#163 TÍTULO: Seleção de um banco principal por prefeitos municipais : a influência de valores individuais e benefícios esperados
+--------------------------------------------------------------------------------
+   DATA: 2016-06-15   | LINK: http://repositorio.unb.br/handle/10482/20738
+   DATA: 2017-03-02   | LINK: http://repositorio.unb.br/handle/10482/22783
+
+#164 TÍTULO: Síntese de fluido magnético à base de maghemita para produção de nanocápsulas magnéticas de albumina bovina
+--------------------------------------------------------------------------------
+   DATA: 2011-07-02   | LINK: http://repositorio.unb.br/handle/10482/8878
+   DATA: 2011-07-15   | LINK: http://repositorio.unb.br/handle/10482/9082
+
+#165 TÍTULO: Tradições populares e resistências culturais : políticas públicas em perspectiva comparada
+--------------------------------------------------------------------------------
+   DATA: 2007-07      | LINK: http://repositorio.unb.br/handle/10482/1422
+   DATA: 2007-07      | LINK: http://repositorio.unb.br/handle/10482/1405
+
+#166 TÍTULO: Trajetórias argumentativas nas dissertações escolares do tipo ENEM : vivências (meta)genéricas e reescrita como ações pedagógicas
+--------------------------------------------------------------------------------
+   DATA: 2024-09-20   | LINK: http://repositorio.unb.br/handle/10482/50413
+   DATA: 2025-02-19   | LINK: http://repositorio.unb.br/handle/10482/51692
+
+#167 TÍTULO: Transição de fase no modelo de Kuramoto
+--------------------------------------------------------------------------------
+   DATA: 2011-06-29   | LINK: http://repositorio.unb.br/handle/10482/8786
+   DATA: 2011-07-14   | LINK: http://repositorio.unb.br/handle/10482/9059
+
+#168 TÍTULO: Transparência fiscal eletrônica : uma análise dos níveis de transparência apresentados nos sites dos poderes e órgãos dos Estados e do Distrito Federal do Brasil
+--------------------------------------------------------------------------------
+   DATA: 2008         | LINK: http://repositorio.unb.br/handle/10482/4878
+   DATA: 2010-03-24   | LINK: http://repositorio.unb.br/handle/10482/4018
+
+#169 TÍTULO: Três ensaios em teoria e política monetária
+--------------------------------------------------------------------------------
+   DATA: 2007         | LINK: http://repositorio.unb.br/handle/10482/1391
+   DATA: 2007         | LINK: http://repositorio.unb.br/handle/10482/3175
+
+#170 TÍTULO: Técnicas de compartilhamento de espectro baseadas em teoria dos jogos para acesso local em sistemas imt-advanced
+--------------------------------------------------------------------------------
+   DATA: 2008-07      | LINK: http://repositorio.unb.br/handle/10482/6182
+   DATA: 2009-02-11   | LINK: http://repositorio.unb.br/handle/10482/1196
+
+#171 TÍTULO: Um estudo comparativo dos perfis populacionais e das condições de saúde entre os sistemas penitenciários federal e estadual brasileiro
+--------------------------------------------------------------------------------
+   DATA: 2020-07-22   | LINK: https://repositorio.unb.br/handle/10482/39278
+   DATA: 2024-01-11   | LINK: http://repositorio.unb.br/handle/10482/47222
+
+#172 TÍTULO: Uma visão sócio-espacial para o planejamento das redes de distribuição de energia elétrica, tomando como referência a atuação da Cemig em Minas Gerais
+--------------------------------------------------------------------------------
+   DATA: 2005-12      | LINK: http://repositorio.unb.br/handle/10482/6486
+   DATA: 2005-12      | LINK: http://repositorio.unb.br/handle/10482/2084
+
+#173 TÍTULO: Uso de cinza da casca de arroz na estabilização de solos para uso em pavimento rodoviário
+--------------------------------------------------------------------------------
+   DATA: 2018-10-05   | LINK: http://repositorio.unb.br/handle/10482/32769
+   DATA: 2018-10-08   | LINK: http://repositorio.unb.br/handle/10482/32778
+
+#174 TÍTULO: Uso de regressão isotônica suavizada na detecção de funcionamento diferencial do item
+--------------------------------------------------------------------------------
+   DATA: 2021-04-08   | LINK: https://repositorio.unb.br/handle/10482/40468
+   DATA: 2024-01-19   | LINK: http://repositorio.unb.br/handle/10482/47413
+
+#175 TÍTULO: Utilização de técnica de detecção de mudança aplicada ao sensoriamento espectral para rádios cognitivos
+--------------------------------------------------------------------------------
+   DATA: 2016-05-26   | LINK: http://repositorio.unb.br/handle/10482/20471
+   DATA: 2016-05-31   | LINK: http://repositorio.unb.br/handle/10482/20631
+
+#176 TÍTULO: Valor de antiguidade em edifícios brasileiros do século XX
+--------------------------------------------------------------------------------
+   DATA: 2023-11-01   | LINK: http://repositorio.unb.br/handle/10482/46783
+   DATA: 2024-08-09   | LINK: http://repositorio.unb.br/handle/10482/49719
+
+#177 TÍTULO: Vantagens de citação e altmétricas em artigos e preprints na temática Covid-19
+--------------------------------------------------------------------------------
+   DATA: 2023-04-03   | LINK: http://repositorio.unb.br/handle/10482/45764
+   DATA: 2024-07-12   | LINK: http://repositorio.unb.br/handle/10482/48822
+
