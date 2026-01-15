@@ -5,81 +5,81 @@ Total de registros duplicados listados: 355
 #1 TÍTULO: 20 anos de publicização : organizações sociais em ciência e tecnologia
 --------------------------------------------------------------------------------
    DATA: 2020-10-06   | LINK: https://repositorio.unb.br/handle/10482/39508
-   DATA: 2020-12-21   | LINK: https://repositorio.unb.br/handle/10482/39759
+   DATA: 2020-12-21   | LINK: https://repositorio.unb.br/handle/10482/39759 (REMOVIDO)
 
 #2 TÍTULO: A atuação do movimento sindical junto ao Fórum Nacional do Trabalho
 --------------------------------------------------------------------------------
    DATA: 2008         | LINK: http://repositorio.unb.br/handle/10482/1191
-   DATA: 2008         | LINK: http://repositorio.unb.br/handle/10482/1648
+   DATA: 2008         | LINK: http://repositorio.unb.br/handle/10482/1648 (REMOVIDO)
 
 #3 TÍTULO: A discriminação de homens gays na dinâmica das relações de emprego : reflexões sob a perspectiva do direito fundamental ao trabalho digno
 --------------------------------------------------------------------------------
    DATA: 2016-05-31   | LINK: http://repositorio.unb.br/handle/10482/20626
-   DATA: 2017-03-15   | LINK: http://repositorio.unb.br/handle/10482/22916
+   DATA: 2017-03-15   | LINK: http://repositorio.unb.br/handle/10482/22916 (REMOVIDO)
 
 #4 TÍTULO: A distilia em espécies de Rubiaceae do bioma Cerrado
 --------------------------------------------------------------------------------
-   DATA: 2008-03      | LINK: http://repositorio.unb.br/handle/10482/1809
+   DATA: 2008-03      | LINK: http://repositorio.unb.br/handle/10482/1809 (REMOVIDO)
    DATA: 2009-02-11   | LINK: http://repositorio.unb.br/handle/10482/1190
 
 #5 TÍTULO: A educação do corpo na Escola-Parque 210/211 Sul de Brasília
 --------------------------------------------------------------------------------
    DATA: 2020-06-29   | LINK: https://repositorio.unb.br/handle/10482/38328
-   DATA: S/ Data      | LINK: https://repositorio.unb.br/handle/10482/38207
+   DATA: S/ Data      | LINK: https://repositorio.unb.br/handle/10482/38207 (REMOVIDO)
 
 #6 TÍTULO: A geometria analítica como um modelo para a Geometria Euclidiana
 --------------------------------------------------------------------------------
    DATA: 2018-05-21   | LINK: http://repositorio.unb.br/handle/10482/31934
-   DATA: S/ Data      | LINK: http://repositorio.unb.br/handle/10482/31974
+   DATA: S/ Data      | LINK: http://repositorio.unb.br/handle/10482/31974 (REMOVIDO)
 
 #7 TÍTULO: A Igreja Católica e as independências platinas : o discurso oficial da Igreja e o reconhecimento do poder de fato
 --------------------------------------------------------------------------------
    DATA: 2020-02-12   | LINK: https://repositorio.unb.br/handle/10482/36903
-   DATA: 2021-06-30   | LINK: https://repositorio.unb.br/handle/10482/41317
+   DATA: 2021-06-30   | LINK: https://repositorio.unb.br/handle/10482/41317 (REMOVIDO)
 
 #8 TÍTULO: A influência da vegetação sobre o clima urbano de Palmas-TO
 --------------------------------------------------------------------------------
-   DATA: 2011-05-07   | LINK: http://repositorio.unb.br/handle/10482/7584
+   DATA: 2011-05-07   | LINK: http://repositorio.unb.br/handle/10482/7584 (REMOVIDO)
    DATA: 2011-05-07   | LINK: http://repositorio.unb.br/handle/10482/7597
 
 #9 TÍTULO: A parceria bloqueada : as relações entre França e Brasil, 1945-2000
 --------------------------------------------------------------------------------
-   DATA: 2010-10-07   | LINK: http://repositorio.unb.br/handle/10482/5590
+   DATA: 2010-10-07   | LINK: http://repositorio.unb.br/handle/10482/5590 (REMOVIDO)
    DATA: 2022-04-07   | LINK: https://repositorio.unb.br/handle/10482/43429
 
 #10 TÍTULO: A terceira derrota de Anísio Teixeira : o REUNI na UnB
 --------------------------------------------------------------------------------
    DATA: 2020-06-25   | LINK: https://repositorio.unb.br/handle/10482/38165
-   DATA: 2020-06-29   | LINK: https://repositorio.unb.br/handle/10482/38429
+   DATA: 2020-06-29   | LINK: https://repositorio.unb.br/handle/10482/38429 (REMOVIDO)
 
 #11 TÍTULO: A transferência na clínica psicanalítica com crianças em sofrimento psíquico grave
 --------------------------------------------------------------------------------
    DATA: 2009-03-20   | LINK: http://repositorio.unb.br/handle/10482/1474
-   DATA: 2011-05-18   | LINK: http://repositorio.unb.br/handle/10482/7853
+   DATA: 2011-05-18   | LINK: http://repositorio.unb.br/handle/10482/7853 (REMOVIDO)
 
 #12 TÍTULO: Abordagem de questões socioambientais por meio de tema CTS : análise de prática pedagógica no ensino médio de química e proposição de atividades
 --------------------------------------------------------------------------------
-   DATA: 2008         | LINK: http://repositorio.unb.br/handle/10482/3918
+   DATA: 2008         | LINK: http://repositorio.unb.br/handle/10482/3918 (REMOVIDO)
    DATA: 2008-12      | LINK: http://repositorio.unb.br/handle/10482/3721
 
 #13 TÍTULO: Abordagem multiobjetivo na seleção de sistemas de reúso de água em irrigação paisagística no Distrito Federal
 --------------------------------------------------------------------------------
-   DATA: 2008-05      | LINK: http://repositorio.unb.br/handle/10482/2581
+   DATA: 2008-05      | LINK: http://repositorio.unb.br/handle/10482/2581 (REMOVIDO)
    DATA: 2009-09-15   | LINK: http://repositorio.unb.br/handle/10482/1684
 
 #14 TÍTULO: Alphaville e a (des)construção da cidade no Brasil
 --------------------------------------------------------------------------------
-   DATA: 2017-02-01   | LINK: http://repositorio.unb.br/handle/10482/22389
+   DATA: 2017-02-01   | LINK: http://repositorio.unb.br/handle/10482/22389 (removido)
    DATA: 2018-04-09   | LINK: http://repositorio.unb.br/handle/10482/31571
 
 #15 TÍTULO: Alterações plasmáticas do cobre e do zinco em crianças submetidas a cirurgia cardíaca com circulação extracorpórea
 --------------------------------------------------------------------------------
-   DATA: 2008         | LINK: http://repositorio.unb.br/handle/10482/4368
+   DATA: 2008         | LINK: http://repositorio.unb.br/handle/10482/4368 (Removido)
    DATA: 2008         | LINK: http://repositorio.unb.br/handle/10482/4134
 
 #16 TÍTULO: Anemia falciforme e triagem neonatal : o significado da prevenção para as mulheres cuidadoras
 --------------------------------------------------------------------------------
-   DATA: 2013-02-26   | LINK: http://repositorio.unb.br/handle/10482/12214
+   DATA: 2013-02-26   | LINK: http://repositorio.unb.br/handle/10482/12214 (REMOVIDO)
    DATA: 2016-04-25   | LINK: http://repositorio.unb.br/handle/10482/20006
 
 #17 TÍTULO: Análise comparativa do entendimento do transporte como objeto do planejamento

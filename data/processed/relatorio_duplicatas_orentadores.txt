@@ -171,31 +171,31 @@ GRUPO #41
    |-> Nome: Castilho, Goiara Mendonça de             | Freq: 5  -- Grafia similar (94%)
 ------------------------------------------------------------
 GRUPO #42
- [ORIGEM] Nome: Castro Júnior, Gláucio                   | Freq: 5
+ [ORIGEM] Nome: Castro Júnior, Gláucio                   | Freq: 5 OK
    |-> Nome: Castro Júnior, Gláucio de                | Freq: 2  -- Grafia similar (94%)
 ------------------------------------------------------------
 GRUPO #43
- [ORIGEM] Nome: Castro, Fábio Avila de                   | Freq: 1
+ [ORIGEM] Nome: Castro, Fábio Avila de                   | Freq: 1 OK
    |-> Nome: Castro, Fábio Ávila de                   | Freq: 2  -- Grafia similar (95%)
 ------------------------------------------------------------
 GRUPO #44
- [ORIGEM] Nome: Castro, Fábio Comes de                   | Freq: 17
+ [ORIGEM] Nome: Castro, Fábio Comes de                   | Freq: 17 OK
    |-> Nome: Castro, Fábio Gomes de                   | Freq: 1  -- Grafia similar (95%)
 ------------------------------------------------------------
 GRUPO #45
- [ORIGEM] Nome: Castro, Renato Vinicius Oliveira         | Freq: 6
+ [ORIGEM] Nome: Castro, Renato Vinicius Oliveira         | Freq: 6 OK
    |-> Nome: Castro, Renato Vinícius Oliveira         | Freq: 1  -- Grafia similar (97%)
 ------------------------------------------------------------
 GRUPO #46
- [ORIGEM] Nome: Cavalcante Neto, Florêncio Figueiredo    | Freq: 1
+ [ORIGEM] Nome: Cavalcante Neto, Florêncio Figueiredo    | Freq: 1 OK
    |-> Nome: Cavalcanti Neto, Florêncio Figueiredo    | Freq: 4  -- Grafia similar (97%)
 ------------------------------------------------------------
 GRUPO #47
- [ORIGEM] Nome: Cavalcante, Taciana Barbosa              | Freq: 1
+ [ORIGEM] Nome: Cavalcante, Taciana Barbosa              | Freq: 1 OK
    |-> Nome: Cavalcanti, Taciana Barbosa              | Freq: 19  -- Grafia similar (96%)
 ------------------------------------------------------------
 GRUPO #48
- [ORIGEM] Nome: Cavalcanti, Cordelia Robalinho           | Freq: 1
+ [ORIGEM] Nome: Cavalcanti, Cordelia Robalinho           | Freq: 1 OK
    |-> Nome: Cavalcanti, Cordélia Robalinho           | Freq: 3  -- Grafia similar (97%)
 ------------------------------------------------------------
 GRUPO #49
@@ -203,32 +203,32 @@ GRUPO #49
    |-> Nome: Cavalcanti, Leonardo de Vilhena          | Freq: 2  -- Possível abreviação/incompleto
 ------------------------------------------------------------
 GRUPO #50
- [ORIGEM] Nome: Cavalcanti, Roberto Brandão              | Freq: 4
+ [ORIGEM] Nome: Cavalcanti, Roberto Brandão              | Freq: 4 OK
    |-> Nome: Cavalcanti, Roberto. Brandão             | Freq: 1  -- Grafia similar (100%)
 ------------------------------------------------------------
 GRUPO #51
- [ORIGEM] Nome: Ceies, Luiz Augusto Monnerat             | Freq: 1
+ [ORIGEM] Nome: Ceies, Luiz Augusto Monnerat             | Freq: 1 OK
    |-> Nome: Celes, Luiz Augusto Monnerat             | Freq: 32  -- Grafia similar (96%)
 ------------------------------------------------------------
 GRUPO #52
- [ORIGEM] Nome: Chaves, Christiane de Alencar            | Freq: 3
+ [ORIGEM] Nome: Chaves, Christiane de Alencar            | Freq: 3 OK
    |-> Nome: Chaves, Christine de Alencar             | Freq: 1  -- Grafia similar (98%)
 ------------------------------------------------------------
 GRUPO #53
- [ORIGEM] Nome: Cipriano Junior, Gerson                  | Freq: 1
+ [ORIGEM] Nome: Cipriano Junior, Gerson                  | Freq: 1 OK
    |-> Nome: Cipriano Júnior, Gérson                  | Freq: 24  -- Grafia similar (91%)
 ------------------------------------------------------------
 GRUPO #54
- [ORIGEM] Nome: Clímaco, João Carlos Teatini de S.       | Freq: 1
+ [ORIGEM] Nome: Clímaco, João Carlos Teatini de S.       | Freq: 1 OK
    |-> Nome: Clímaco, João Carlos Teatini De Souza    | Freq: 1  -- Grafia similar (94%)
    |-> Nome: Clímaco, João Carlos Teatini de Souza    | Freq: 17  -- Grafia similar (94%)
 ------------------------------------------------------------
 GRUPO #55
- [ORIGEM] Nome: Costa, Claudio Lucio                     | Freq: 1
+ [ORIGEM] Nome: Costa, Claudio Lucio                     | Freq: 1 Ok
    |-> Nome: Costa, Cláudio Lúcio                     | Freq: 3  -- Grafia similar (90%)
 ------------------------------------------------------------
 GRUPO #56
- [ORIGEM] Nome: Costa, Cléria Botelho da                 | Freq: 1
+ [ORIGEM] Nome: Costa, Cléria Botelho da                 | Freq: 1 Ok
    |-> Nome: Costa, Cléria Botêlho da                 | Freq: 27  -- Grafia similar (96%)
 ------------------------------------------------------------
 GRUPO #57
