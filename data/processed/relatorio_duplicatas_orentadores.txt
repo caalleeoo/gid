@@ -467,7 +467,7 @@ GRUPO #114
    |-> Nome: Lima, Venício Artur de                   | Freq: 1  -- Grafia similar (95%)
 ------------------------------------------------------------
 GRUPO #115
- [ORIGEM] Nome: Little, Paul Elliot                      | Freq: 1
+ [ORIGEM] Nome: Little, Paul Elliot                      | Freq: 1 OK
    |-> Nome: Little, Paul Elliott                     | Freq: 17  -- Grafia similar (97%)
 ------------------------------------------------------------
 GRUPO #116
@@ -495,7 +495,7 @@ GRUPO #121
    |-> Nome: Manyari, Waleska Valença                 | Freq: 1  -- Grafia similar (96%)
 ------------------------------------------------------------
 GRUPO #122
- [ORIGEM] Nome: Marães, Vera Regina Fernandes da Silva   | Freq: 15
+ [ORIGEM] Nome: Marães, Vera Regina Fernandes da Silva   | Freq: 15 OK
    |-> Nome: Paz, Vera Regina Fernandes da Silva      | Freq: 1  -- Grafia similar (90%)
 ------------------------------------------------------------
 GRUPO #123
@@ -503,7 +503,7 @@ GRUPO #123
    |-> Nome: Martínez Carvajal, Hernán Eduardo        | Freq: 18  -- Grafia similar (97%)
 ------------------------------------------------------------
 GRUPO #124
- [ORIGEM] Nome: Martino, Luiz Claudio                    | Freq: 1
+ [ORIGEM] Nome: Martino, Luiz Claudio                    | Freq: 1 OK
    |-> Nome: Martino, Luiz Cláudio                    | Freq: 21  -- Grafia similar (95%)
 ------------------------------------------------------------
 GRUPO #125
@@ -511,7 +511,7 @@ GRUPO #125
    |-> Nome: Martins, Carlos Benedito de Campos       | Freq: 1  -- Possível abreviação/incompleto
 ------------------------------------------------------------
 GRUPO #126
- [ORIGEM] Nome: Matteini, Massimo                        | Freq: 1
+ [ORIGEM] Nome: Matteini, Massimo                        | Freq: 1 OK
    |-> Nome: Matteini, Mássimo                        | Freq: 6  -- Grafia similar (94%)
 ------------------------------------------------------------
 GRUPO #127
@@ -689,7 +689,7 @@ GRUPO #169
    |-> Nome: Odeh, Muna Muhammed                      | Freq: 1  -- Grafia similar (95%)
 ------------------------------------------------------------
 GRUPO #170
- [ORIGEM] Nome: Oliveira Filho, Eduardo Cyrino           | Freq: 1
+ [ORIGEM] Nome: Oliveira Filho, Eduardo Cyrino           | Freq: 1 OK
    |-> Nome: Oliveira-Filho, Eduardo Cyrino           | Freq: 7  -- Grafia similar (98%)
    |-> Nome: Oliveira-Filho, Eduardo Cyrino de        | Freq: 1  -- Grafia similar (94%)
 ------------------------------------------------------------
