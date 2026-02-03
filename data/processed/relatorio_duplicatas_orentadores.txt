@@ -232,15 +232,15 @@ GRUPO #56
    |-> Nome: Costa, Cléria Botêlho da                 | Freq: 27  -- Grafia similar (96%)
 ------------------------------------------------------------
 GRUPO #57
- [ORIGEM] Nome: Costa, Marcus Vincius Chaffim            | Freq: 1
+ [ORIGEM] Nome: Costa, Marcus Vincius Chaffim            | Freq: 1 OK
    |-> Nome: Costa, Marcus Vinícius Chaffim           | Freq: 2  -- Grafia similar (98%)
 ------------------------------------------------------------
 GRUPO #58
- [ORIGEM] Nome: D'Angelo, Biagio                         | Freq: 2
+ [ORIGEM] Nome: D'Angelo, Biagio                         | Freq: 2 OK
    |-> Nome: D’Angelo, Biagio                         | Freq: 15  -- Grafia similar (100%)
 ------------------------------------------------------------
 GRUPO #59
- [ORIGEM] Nome: Dalcastagne, Regina                      | Freq: 1
+ [ORIGEM] Nome: Dalcastagne, Regina                      | Freq: 1 OK
    |-> Nome: Dalcastagnè, Regina                      | Freq: 36  -- Grafia similar (95%)
 ------------------------------------------------------------
 GRUPO #60
@@ -252,7 +252,7 @@ GRUPO #61
    |-> Nome: Kanzaki, Luís Isamu Barros               | Freq: 3  -- Grafia similar (92%)
 ------------------------------------------------------------
 GRUPO #62
- [ORIGEM] Nome: De-Souza, Marlene Teixeira               | Freq: 1
+ [ORIGEM] Nome: De-Souza, Marlene Teixeira               | Freq: 1 OK
    |-> Nome: Souza, Marlene Teixeira de               | Freq: 7  -- Grafia similar (90%)
 ------------------------------------------------------------
 GRUPO #63
@@ -264,19 +264,19 @@ GRUPO #64
    |-> Nome: Dias, Karina e Silva                     | Freq: 23  -- Possível abreviação/incompleto
 ------------------------------------------------------------
 GRUPO #65
- [ORIGEM] Nome: Díaz Bermúdez, Ximena Pamela             | Freq: 1
+ [ORIGEM] Nome: Díaz Bermúdez, Ximena Pamela             | Freq: 1 OK
    |-> Nome: Díaz Bermúdez, Ximena Pamela Claudia     | Freq: 9  -- Possível abreviação/incompleto
 ------------------------------------------------------------
 GRUPO #66
- [ORIGEM] Nome: Doca, Thiago                             | Freq: 2
+ [ORIGEM] Nome: Doca, Thiago                             | Freq: 2 OK
    |-> Nome: Doca, Thiago de Carvalho Rodrigues       | Freq: 7  -- Possível abreviação/incompleto
 ------------------------------------------------------------
 GRUPO #67
- [ORIGEM] Nome: Doratioto, Francisco                     | Freq: 1
+ [ORIGEM] Nome: Doratioto, Francisco                     | Freq: 1 OK
    |-> Nome: Doratioto, Francisco Fernando Monteoliva | Freq: 23  -- Possível abreviação/incompleto
 ------------------------------------------------------------
 GRUPO #68
- [ORIGEM] Nome: Evangelista Junior, Francisco            | Freq: 23
+ [ORIGEM] Nome: Evangelista Junior, Francisco            | Freq: 23 OK
    |-> Nome: Evangelista Júnior, Francisco            | Freq: 1  -- Grafia similar (97%)
 ------------------------------------------------------------
 GRUPO #69
@@ -360,7 +360,7 @@ GRUPO #88
    |-> Nome: Gallassi, Andrea Donatti                 | Freq: 10  -- Grafia similar (98%)
 ------------------------------------------------------------
 GRUPO #89
- [ORIGEM] Nome: Ghiraldelli, Reginaldo                   | Freq: 12
+ [ORIGEM] Nome: Ghiraldelli, Reginaldo                   | Freq: 12 ok
    |-> Nome: Guiraldelli, Reginaldo                   | Freq: 2  -- Grafia similar (95%)
    |-> Nome: Guiraldelli., Reginaldo                  | Freq: 1  -- Grafia similar (95%)
 ------------------------------------------------------------
@@ -994,7 +994,7 @@ GRUPO #244
    |-> Nome: Silva, Maria Júlia Martins               | Freq: 7  -- Grafia similar (96%)
 ------------------------------------------------------------
 GRUPO #245
- [ORIGEM] Nome: Silva, Suylan Almeida Midlej e           | Freq: 2
+ [ORIGEM] Nome: Silva, Suylan Almeida Midlej e           | Freq: 2 OK
    |-> Nome: Silva, Suylan de Almeida  Midlej e       | Freq: 1  -- Grafia similar (95%)
    |-> Nome: Silva, Suylan de Almeida Midlej e        | Freq: 25  -- Grafia similar (95%)
 ------------------------------------------------------------
@@ -1149,7 +1149,7 @@ GRUPO #280
    |-> Nome: Woortmann, Klaas Axel Anton Wessel       | Freq: 4  -- Possível abreviação/incompleto
 ------------------------------------------------------------
 GRUPO #281
- [ORIGEM] Nome: Xia, Chang Yu                            | Freq: 5
+ [ORIGEM] Nome: Xia, Chang Yu                            | Freq: 5 OK
    |-> Nome: Xia, Changyu                             | Freq: 1  -- Grafia similar (96%)
    |-> Nome: Xia, Chang Yu                            | Freq: 5  -- Grafia similar (100%)
    |-> Nome: Xia, Changyu                             | Freq: 1  -- Grafia similar (96%)
