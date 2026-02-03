@@ -1,4 +1,3 @@
-Aqui está a tradução técnica e adaptada do guia, mantendo a precisão terminológica e a elegância que o projeto exige.
 
 **Objetivo:** Orientação curta e prática para ajudar um agente de IA a ser produtivo rapidamente ao trabalhar neste repositório (raspagem, normalização e processamento de metadados do repositorio.unb.br).
 
